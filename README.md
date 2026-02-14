@@ -13,7 +13,7 @@ Trasforma Claude Code in un social media manager che conosce le strategie dei mi
 - **`/linkedin-post [topic]`** — Genera un post LinkedIn ottimizzato con hook, struttura, tono del tuo brand
 - **`/video-script [topic]`** — Crea uno script video completo (Reels, TikTok, YouTube)
 - **`/content-ideas [tema]`** — Trova idee per contenuti analizzando il mercato (con flag `--trending`)
-- **`/create-brand [nome]`** — Configura un nuovo brand da zero con intervista guidata
+- **`/create-brand [nome]`** — Configura un nuovo brand da zero: da un repo, slide, documenti o con intervista guidata
 
 Ogni contenuto generato e' personalizzato sulla voce del TUO brand, non generico.
 
@@ -36,7 +36,12 @@ claude
 /linkedin-post "un topic che ti interessa"
 ```
 
-Il comando `/create-brand` ti guida passo passo: ti chiede tono, personas, pillar, competitor. Alla fine genera tutti i file di configurazione del brand.
+Il comando `/create-brand` puo' funzionare in 3 modi:
+- **Da documenti**: passagli un repo, slide, PDF o sito web e crea il brand automaticamente
+- **Intervista guidata**: ti chiede tono, personas, pillar passo passo
+- **Ibrido**: estrae cio' che puo' dai materiali e chiede solo le info mancanti
+
+I competitor vengono ricercati automaticamente dall'AI — non devi conoscerli tu.
 
 ---
 
@@ -227,10 +232,23 @@ Il framework supporta piu' brand contemporaneamente. Ogni brand ha la sua direct
 
 Per aggiungere un nuovo brand:
 ```bash
+# Intervista guidata
 /create-brand "nome-del-brand"
+
+# Da un repository (estrae info dal codice e README)
+/create-brand "nome-del-brand"
+> "ecco il repo: github.com/org/repo"
+
+# Da slide o documenti (estrae info automaticamente)
+/create-brand "nome-del-brand"
+> "usa le slide in /path/to/presentazione.pdf"
+
+# Da un sito web
+/create-brand "nome-del-brand"
+> "analizza il sito: example.com"
 ```
 
-Il sistema ti intervista su: identita', tono di voce, audience personas, content pillar, competitor. Poi genera automaticamente tutti i file di configurazione.
+Il sistema estrae il massimo dalle sorgenti fornite, ricerca i competitor automaticamente, e chiede solo le info che non riesce a dedurre.
 
 ---
 

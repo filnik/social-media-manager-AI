@@ -22,7 +22,7 @@ Questi 3 file sono il DNA di ogni contenuto del brand.
 - `/linkedin-post [topic]` — genera un post LinkedIn completo per il brand attivo
 - `/video-script [topic]` — genera uno script video completo (Reels/TikTok/YouTube)
 - `/content-ideas [tema] [--trending]` — cerca e suggerisce idee per contenuti analizzando il mercato
-- `/create-brand [nome-brand]` — crea la configurazione completa per un nuovo brand
+- `/create-brand [nome-brand]` — crea la configurazione completa per un nuovo brand (da repo, slide, documenti o intervista guidata; competitor ricercati in automatico)
 
 ## Lingua
 

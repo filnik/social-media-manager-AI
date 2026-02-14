@@ -333,3 +333,102 @@ Tu cosa ne pensi? {{DOMANDA_PER_COMMENTI}}
 **Massimo**: 1 post/giorno (di piu' = cannibalizzazione)
 
 La costanza batte la quantita'. Meglio 3 post eccellenti a settimana per 1 anno che 7 post mediocri per 3 mesi.
+
+---
+
+## Strategia per Launch Post (Promuovere un Progetto/Prodotto)
+
+Questa sezione raccoglie best practice ricavate dall'analisi di post virali su LinkedIn per il lancio di progetti open-source, tool AI e side project (ricerca febbraio 2026).
+
+### I Principi Chiave
+
+**1. Build in Public > Annuncio Freddo**
+Racconta il *perche'* e il *come* hai costruito qualcosa. Il pubblico si connette con il viaggio, non con il prodotto. "Ho passato X settimane a studiare Y" batte "Lancio il mio nuovo tool" ogni volta.
+
+**2. Hook Personale + Numero Specifico**
+I post con apertura tipo "Ho studiato 60 esperti mondiali" o metriche concrete performano molto meglio del generico "Unpopular opinion". La prima riga deve fermare lo scroll con qualcosa di specifico e umano.
+
+**3. Proof > Claims**
+Mostra il lavoro reale: screenshot del repo, struttura del progetto, nomi concreti. Il pubblico tech riconosce e apprezza la trasparenza. Un'affermazione senza prova e' rumore.
+
+**4. I Commenti Valgono 2x i Like**
+Per l'algoritmo LinkedIn, un commento pesa il doppio di un like. La CTA deve provocare risposte lunghe e genuine, non un "bel post!".
+
+**CTA deboli** (risposte binarie):
+- "Sei d'accordo o no?"
+- "Metti like se anche tu..."
+
+**CTA forti** (risposte elaborate):
+- "Voi come fate X? Prompt singoli, tool a pagamento, o avete un vostro sistema?"
+- "Qual e' il pezzo del vostro processo che cambiereste per primo?"
+
+**5. I Primi 60-90 Minuti Decidono Tutto**
+Rispondi a OGNI commento nella prima ora. L'algoritmo misura la velocita' di interazione e decide in questa finestra se spingere il post o lasciarlo morire.
+
+**6. Carousel/PDF > Immagine Singola > Solo Testo**
+I documenti nativi (carousel PDF) aumentano il dwell time e hanno la reach piu' alta. Per un launch post, 3-4 slide con schema visivo del progetto funzionano meglio di un'immagine generata con AI.
+
+### Struttura Ottimale del Launch Post
+
+```
+[HOOK — storia personale + numero specifico]
+"Ho studiato/costruito/analizzato {{X}} per {{TEMPO}}. Ecco cosa ho scoperto."
+
+[RIGA VUOTA]
+
+[CONTESTO — il perche', la motivazione personale]
+Non per {{OBIETTIVO OVVIO}} — per {{OBIETTIVO REALE PIU' PROFONDO}}.
+
+[RIGA VUOTA]
+
+[RISULTATO — cosa hai costruito, con numeri specifici]
+→ {{NUMERO}} + {{COSA}}
+→ {{NUMERO}} + {{COSA}}
+→ {{NUMERO}} + {{COSA}}
+→ Setup/costo/tempo: {{DETTAGLIO CONCRETO}}
+
+[RIGA VUOTA]
+
+[INSIGHT — la lezione chiave, il "cosa ho capito"]
+Il problema non e' mai {{COSA OVVIA}}. E' {{COSA NON OVVIA}}.
+
+[RIGA VUOTA]
+
+[ACCESSIBILITA' — togli le barriere]
+Non e' un {{COSA COSTOSA}}. E' {{COSA ACCESSIBILE}}.
+
+[RIGA VUOTA]
+
+[CTA — domanda aperta che invita risposte lunghe]
+Link nei commenti.
+{{DOMANDA}} — sono curioso di confrontarmi.
+
+[HASHTAG — 3-5, alla fine]
+```
+
+### Pattern Vincenti per Hook di Lancio
+
+| Pattern | Esempio | Perche' funziona |
+|---------|---------|-----------------|
+| **Numero + azione inaspettata** | "Ho studiato 60 esperti mondiali. Poi li ho codificati in un repo git" | Specifico, incuriosisce, rompe le aspettative |
+| **Tempo investito + risultato** | "3 mesi di ricerca. 14 template. Un sistema che chiunque puo' usare gratis" | Mostra impegno, il "gratis" sorprende |
+| **Prima/Dopo personale** | "Un anno fa scrivevo ogni post da zero. Oggi scrivo /linkedin-post" | Trasformazione concreta, il lettore si immagina al posto tuo |
+| **Contrarian + dato** | "Il prompt perfetto non esiste. Ho i dati per dimostrarlo" | Sfida il consenso, promette prove |
+
+### Cosa NON Fare in un Launch Post
+
+| Errore | Perche' | Alternativa |
+|--------|---------|-------------|
+| Ritardare l'annuncio | Il lettore perde interesse se non capisce subito di cosa parli | Metti il "cosa" nell'hook, il "perche'" nel body |
+| Elencare feature | Nessuno legge una lista di funzionalita' | Mostra il beneficio per l'utente |
+| Nessun social proof | Senza prova, e' solo un'opinione | Screenshot, numeri, nomi reali |
+| CTA vaga | "Scopri di piu'" non genera azione | "Link nei commenti" + domanda specifica |
+| Immagini AI generiche | Il pubblico tech le riconosce e le ignora | Screenshot reali, carousel, schema del progetto |
+| Link nel body | LinkedIn penalizza i link esterni nel testo (~40% reach in meno) | Sempre "link nei commenti" |
+
+### Timing per Launch Post
+
+- **Giorno migliore**: Lunedi' o Martedi' 8:00-9:00 CET (primo slot premium della settimana)
+- **Mai nel weekend**: l'engagement LinkedIn crolla sabato-domenica
+- **Distanzia i post**: se hai 3 varianti, pubblicale Lunedi'-Mercoledi'-Venerdi'
+- **Prepara le risposte**: i primi 60-90 minuti post-pubblicazione devi essere disponibile per rispondere a ogni commento
