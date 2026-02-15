@@ -1,133 +1,135 @@
 # AI Social Media Manager
 
-Framework open-source per generare contenuti social con [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
+Open-source framework to generate social content with [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
-60 profili esperti | 14 template | 4 skill automatizzate | Multi-brand
+60 expert profiles | 14 templates | 5 automated skills | Multi-brand
 
 ---
 
-## Cosa fa
+## What it does
 
-Trasforma Claude Code in un social media manager che conosce le strategie dei migliori content creator al mondo.
+Turns Claude Code into a social media manager that knows the strategies of the best content creators in the world.
 
-- **`/linkedin-post [topic]`** — Genera un post LinkedIn ottimizzato con hook, struttura, tono del tuo brand
-- **`/video-script [topic]`** — Crea uno script video completo (Reels, TikTok, YouTube)
-- **`/content-ideas [tema]`** — Trova idee per contenuti analizzando il mercato (con flag `--trending`)
-- **`/create-brand [nome]`** — Configura un nuovo brand da zero: da un repo, slide, documenti o con intervista guidata
+- **`/linkedin-post [topic]`** — Generate an optimized LinkedIn post with hook, structure, and your brand's tone
+- **`/video-script [topic]`** — Create a complete video script (Reels, TikTok, YouTube)
+- **`/carousel [topic]`** — Generate a LinkedIn carousel (PDF document post) with structured slides
+- **`/content-ideas [topic]`** — Find content ideas by analyzing the market (with `--trending` flag)
+- **`/create-brand [name]`** — Set up a new brand from scratch: from a repo, slides, documents, or with a guided interview
 
-Ogni contenuto generato e' personalizzato sulla voce del TUO brand, non generico.
+Every piece of content is personalized to YOUR brand's voice, not generic.
 
 ---
 
 ## Quick Start
 
 ```bash
-# 1. Clona il repo
-git clone https://github.com/[username]/ai-social-media-manager.git
+# 1. Clone the repo
+git clone https://github.com/AlessandroFilworworworino/ai-social-media-manager.git
 cd ai-social-media-manager
 
-# 2. Apri con Claude Code
+# 2. Open with Claude Code
 claude
 
-# 3. Configura il tuo brand
-/create-brand "il-tuo-brand"
+# 3. Set up your brand
+/create-brand "your-brand"
 
-# 4. Genera il tuo primo contenuto
-/linkedin-post "un topic che ti interessa"
+# 4. Generate your first content
+/linkedin-post "a topic you care about"
 ```
 
-Il comando `/create-brand` puo' funzionare in 3 modi:
-- **Da documenti**: passagli un repo, slide, PDF o sito web e crea il brand automaticamente
-- **Intervista guidata**: ti chiede tono, personas, pillar passo passo
-- **Ibrido**: estrae cio' che puo' dai materiali e chiede solo le info mancanti
+The `/create-brand` command works in 3 modes:
+- **From documents**: pass it a repo, slides, PDF, or website and it creates the brand automatically
+- **Guided interview**: it asks you about tone, personas, pillars step by step
+- **Hybrid**: extracts what it can from materials and only asks for missing info
 
-I competitor vengono ricercati automaticamente dall'AI — non devi conoscerli tu.
+Competitors are researched automatically by the AI — you don't need to know them.
 
 ---
 
-## Come funziona
+## How it works
 
 ```
-Tu scrivi: /linkedin-post "produttivita' nel lavoro remoto"
+You type: /linkedin-post "remote work productivity"
 
-Il sistema:
-1. Carica la brand voice del tuo brand (tono, stile, personalita')
-2. Legge le audience personas (a chi stai parlando)
-3. Consulta i 60 profili esperti per strategie e framework
-4. Seleziona il template piu' adatto tra 14 disponibili
-5. Cerca online dati e trend aggiornati
-6. Genera il post con hook, struttura, CTA ottimizzati
-7. Salva il contenuto nella content library del brand
+The system:
+1. Loads your brand voice (tone, style, personality)
+2. Reads your audience personas (who you're talking to)
+3. Consults 60 expert profiles for strategies and frameworks
+4. Selects the best-fitting template from 14 available
+5. Searches online for fresh data and trends
+6. Generates the post with optimized hook, structure, and CTA
+7. Saves the content to the brand's content library
 ```
 
-La differenza rispetto a un prompt singolo: il sistema **conosce** il tuo brand, il tuo target e le strategie che funzionano. Non genera contenuti generici — genera contenuti **tuoi**.
+The difference from a single prompt: the system **knows** your brand, your target, and the strategies that work. It doesn't generate generic content — it generates content that's **yours**.
 
 ---
 
-## Struttura del progetto
+## Project structure
 
 ```
-framework/                         # Generico — riutilizzabile per tutti i brand
-  content-frameworks.md            # Template L1-L8 (LinkedIn) + V1-V6 (Video) + S1-S3
-  linkedin-playbook.md             # Regole LinkedIn (algoritmo, orari, hashtag)
-  video-playbook.md                # Specifiche video (hook, retention, formati)
+framework/                         # Generic — reusable for all brands
+  content-frameworks.md            # Templates L1-L8 (LinkedIn) + V1-V6 (Video) + S1-S3
+  linkedin-playbook.md             # LinkedIn rules (algorithm, timing, hashtags)
+  video-playbook.md                # Video specs (hooks, retention, formats)
 
-experts/                           # 60 profili esperti con framework e tecniche
-  linkedin/                        # 6 esperti LinkedIn strategy
+experts/                           # 60 expert profiles with frameworks and techniques
+  linkedin/                        # 6 LinkedIn strategy experts
   social-media/
-    internazionali/                # 18 esperti content & social media
-    italiani/                      # 11 esperti digital marketing italiano
+    international/                 # 18 content & social media experts
+    italian/                       # 11 Italian digital marketing experts
   youtube/
-    internazionali/                # 15 esperti YouTube & video
-    italiani/                      # 10 esperti YouTube italiano
+    international/                 # 15 YouTube & video experts
+    italian/                       # 10 Italian YouTube experts
 
-brands/                            # Un brand per directory
-  ai-social-media-manager/         # Brand di esempio (questo progetto)
-    brand-voice.md                 # Voce e identita'
-    audience-personas.md           # Le personas target
-    tono-infotainment.md           # Guida al tono
-    content-pillars.md             # Pillar e calendario editoriale
-    framework-examples.md          # Esempi di contenuti generati
-    content-library/               # Archivio contenuti
+brands/                            # One brand per directory
+  ai-social-media-manager/         # Demo brand (this project)
+    brand-voice.md                 # Voice and identity
+    audience-personas.md           # Target personas
+    tone-guide.md                  # Tone guide
+    content-pillars.md             # Pillars and editorial calendar
+    framework-examples.md          # Generated content examples
+    content-library/               # Content archive
 
-.claude/skills/                    # Le 4 skill automatizzate
+.claude/skills/                    # The 5 automated skills
   linkedin-post/SKILL.md
   video-script/SKILL.md
+  carousel/SKILL.md
   content-ideas/SKILL.md
   create-brand/SKILL.md
 ```
 
 ---
 
-## I 60 esperti
+## The 60 experts
 
-Ogni profilo contiene: bio, filosofia, framework dettagliati, tecniche di hook, citazioni, risorse. Non sono riassunti — sono guide approfondite con esempi applicabili.
+Each profile contains: bio, philosophy, detailed frameworks, hook techniques, quotes, resources. These aren't summaries — they're in-depth guides with actionable examples.
 
 ### LinkedIn Strategy (6)
-| Esperto | Specialita' |
-|---------|-------------|
+| Expert | Specialty |
+|--------|-----------|
 | Justin Welsh | Personal brand, Content Operating System, solopreneur |
-| Lara Acosta | Storytelling, framework SLAY, vulnerabilita' |
-| Jasmin Alic | Hook e re-hook, copywriting persuasivo |
-| Richard van der Blom | Dati algoritmo LinkedIn, performance formati |
-| Lea Turner | Storytelling autentico, engagement organico |
+| Lara Acosta | Storytelling, SLAY framework, vulnerability |
+| Jasmin Alic | Hooks and re-hooks, persuasive copywriting |
+| Richard van der Blom | LinkedIn algorithm data, format performance |
+| Lea Turner | Authentic storytelling, organic engagement |
 | Tim Queen | Carousel mastery, B2B content strategy |
 
-### Social Media — Internazionali (18)
-| Esperto | Specialita' |
-|---------|-------------|
+### Social Media — International (18)
+| Expert | Specialty |
+|--------|-----------|
 | Gary Vaynerchuk | Content model, Day Trading Attention, Jab/Hook |
 | Seth Godin | Smallest Viable Audience, Permission Marketing |
-| Donald Miller | StoryBrand, storytelling strutturato |
+| Donald Miller | StoryBrand, structured storytelling |
 | Ann Handley | Writing, Utility x Inspiration x Empathy |
-| Brendan Kane | Hook Point, primi 3 secondi |
-| Neil Patel | SEO, content marketing data-driven |
+| Brendan Kane | Hook Point, first 3 seconds |
+| Neil Patel | SEO, data-driven content marketing |
 | Chris Walker | Dark Social, ALLBOUND |
 | Rand Fishkin | Zero-Click Marketing, Amplifier Audience |
 | David Perell | Writing online, Personal Monopoly |
 | Jay Baer | Youtility, Talk Triggers |
 | Joe Pulizzi | Content Inc., content-first business |
-| Russell Brunson | Funnel, storytelling di vendita |
+| Russell Brunson | Funnels, sales storytelling |
 | Amy Porterfield | Digital courses, list building |
 | Mark Schaefer | KNOWN, personal branding |
 | Brian Dean | SEO copywriting, Skyscraper Technique |
@@ -135,146 +137,146 @@ Ogni profilo contiene: bio, filosofia, framework dettagliati, tecniche di hook, 
 | Michael Stelzner | Social Media Examiner, industry analysis |
 | Tim Hughes | Social selling, Smarketing |
 
-### Social Media — Italiani (11)
-| Esperto | Specialita' |
-|---------|-------------|
-| Marco Montemagno | Video content, imprenditorialita' digitale |
-| Gianluca Diegoli | Marketing connesso, strategia digitale |
+### Social Media — Italian (11)
+| Expert | Specialty |
+|--------|-----------|
+| Marco Montemagno | Video content, digital entrepreneurship |
+| Gianluca Diegoli | Connected marketing, digital strategy |
 | Veronica Gentili | Facebook/IG ads, #FuffaFree |
 | Dario Vignali | Marketers community, personal branding |
 | Riccardo Scandellari | Personal branding, Rock'n'Blog |
 | Luca La Mesa | Social media strategy, real-time marketing |
-| Mirko Pallera | Marketing non-convenzionale, DNA virale |
-| Chiara Dosio | Funnel organico, content strategy |
+| Mirko Pallera | Unconventional marketing, viral DNA |
+| Chiara Dosio | Organic funnels, content strategy |
 | Rudy Bandiera | Digital communication, personal brand |
-| Francesca Anzalone | Comunicazione digitale, crisis management |
-| Alessio Beltrami | Content marketing, blogging aziendale |
+| Francesca Anzalone | Digital communication, crisis management |
+| Alessio Beltrami | Content marketing, business blogging |
 
-### YouTube — Internazionali (15)
-| Esperto | Specialita' |
-|---------|-------------|
-| MrBeast | Retention, thumbnail, scaling |
-| Ali Abdaal | Produttivita', creator business |
+### YouTube — International (15)
+| Expert | Specialty |
+|--------|-----------|
+| MrBeast | Retention, thumbnails, scaling |
+| Ali Abdaal | Productivity, creator business |
 | Sean Cannell | YouTube growth, Think Media |
-| Paddy Galloway | Analisi canali, strategia YouTube |
-| Jenny Hoyos | Shorts, micro-content virale |
+| Paddy Galloway | Channel analysis, YouTube strategy |
+| Jenny Hoyos | Shorts, viral micro-content |
 | Colin & Samir | Creator economy, storytelling |
 | Pat Flynn | Community, passive income |
-| Derral Eves | Algoritmo YouTube, optimization |
-| Jake Thomas | Thumbnail, titoli, CTR |
-| Roberto Blake | Creator economy, diversificazione |
-| Nick Nimmin | YouTube growth per piccoli canali |
+| Derral Eves | YouTube algorithm, optimization |
+| Jake Thomas | Thumbnails, titles, CTR |
+| Roberto Blake | Creator economy, diversification |
+| Nick Nimmin | YouTube growth for small channels |
 | Tim Schmoyer | Community building, Video Creators |
-| Vanessa Lau | Personal brand su YouTube |
-| Film Booth | Cinematografia, storytelling visivo |
-| Sunny Lenarduzzi | YouTube per business, Authority Accelerator |
+| Vanessa Lau | Personal brand on YouTube |
+| Film Booth | Cinematography, visual storytelling |
+| Sunny Lenarduzzi | YouTube for business, Authority Accelerator |
 
-### YouTube — Italiani (10)
-| Esperto | Specialita' |
-|---------|-------------|
-| Marcello Ascani | Vlogging, imprenditorialita' |
-| Andrea Bottoni | YouTube growth, strategia |
-| Giorgio Taverniti | SEO YouTube, community |
-| Dario Vignali | Business online, corsi |
-| Luca Mastella | YouTube growth, analisi |
-| Slim Dogs | Produzione video, storytelling |
-| Giovanni Perilli | YouTube SEO, ottimizzazione |
-| Casa Surace | Viral comedy, storytelling regionale |
-| Luca Mazzucchelli | Psicologia, video educativi |
+### YouTube — Italian (10)
+| Expert | Specialty |
+|--------|-----------|
+| Marcello Ascani | Vlogging, entrepreneurship |
+| Andrea Bottoni | YouTube growth, strategy |
+| Giorgio Taverniti | YouTube SEO, community |
+| Dario Vignali | Online business, courses |
+| Luca Mastella | YouTube growth, analysis |
+| Slim Dogs | Video production, storytelling |
+| Giovanni Perilli | YouTube SEO, optimization |
+| Casa Surace | Viral comedy, regional storytelling |
+| Luca Mazzucchelli | Psychology, educational videos |
 | Daniele Doesn't Matter | Commentary, storytelling |
 
 ---
 
-## I 14 template
+## The 14 templates
 
 ### LinkedIn (L1-L8)
-| Template | Tipo | Quando usarlo |
-|----------|------|---------------|
-| L1 | Il Dato Sorprendente | Hai una statistica che sfida le aspettative |
-| L2 | La Storia del Cliente | Racconto di un risultato concreto |
-| L3 | Il Post Educativo | Lista di consigli, errori, lezioni |
-| L4 | Il Contrarian | Opinione che va contro il consenso |
-| L5 | Il Meme Professionale | Situazione riconoscibile + ironia |
-| L6 | Il Post Fondatore | Storia personale + progetto |
-| L7 | Il Prima/Dopo | Trasformazione misurabile |
-| L8 | La Domanda Provocatoria | Domanda che genera discussione |
+| Template | Type | When to use |
+|----------|------|-------------|
+| L1 | The Surprising Data | You have a statistic that challenges expectations |
+| L2 | The Client Story | A concrete result story |
+| L3 | The Educational Post | List of tips, mistakes, lessons |
+| L4 | The Contrarian | An opinion that goes against consensus |
+| L5 | The Professional Meme | Relatable situation + humor |
+| L6 | The Founder Post | Personal story + project |
+| L7 | The Before/After | Measurable transformation |
+| L8 | The Provocative Question | A question that sparks discussion |
 
 ### Video (V1-V6)
-| Template | Tipo | Quando usarlo |
-|----------|------|---------------|
-| V1 | POV Situazionale | "POV: sei un [ruolo] e..." |
-| V2 | Il Dato + Sketch | Dato reale + mini-sketch |
-| V3 | Il Tutorial Veloce | How-to in 30-60 secondi |
-| V4 | Il Conflitto tra Ruoli | Dialogo tra due figure professionali |
-| V5 | Il Reaction | Reazione a trend/notizia |
-| V6 | Il Dietro le Quinte | Behind the scenes autentico |
+| Template | Type | When to use |
+|----------|------|-------------|
+| V1 | POV Situational | "POV: you're a [role] and..." |
+| V2 | Data + Sketch | Real data + mini-sketch |
+| V3 | Quick Tutorial | How-to in 30-60 seconds |
+| V4 | Role Conflict | Dialogue between two professional figures |
+| V5 | The Reaction | Reaction to a trend/news |
+| V6 | Behind the Scenes | Authentic behind the scenes |
 
-### Strategici (S1-S3)
-| Template | Tipo | Quando usarlo |
-|----------|------|---------------|
-| S1 | Content Pyramid | Da 1 contenuto lungo a 10+ micro-contenuti |
-| S2 | Jab Jab Hook | Pianificare il mix valore/vendita |
-| S3 | Calendar Builder | Generare un calendario editoriale |
+### Strategic (S1-S3)
+| Template | Type | When to use |
+|----------|------|-------------|
+| S1 | Content Pyramid | From 1 long-form piece to 10+ micro-content |
+| S2 | Jab Jab Hook | Plan the value/sales mix |
+| S3 | Calendar Builder | Generate an editorial calendar |
 
 ---
 
 ## Multi-brand
 
-Il framework supporta piu' brand contemporaneamente. Ogni brand ha la sua directory in `brands/` con configurazione indipendente.
+The framework supports multiple brands simultaneously. Each brand has its own directory in `brands/` with independent configuration.
 
 ```bash
-# Genera un post per il brand default
+# Generate a post for the default brand
 /linkedin-post "topic"
 
-# Genera un post per un brand specifico
-/linkedin-post "topic" --brand nome-brand
+# Generate a post for a specific brand
+/linkedin-post "topic" --brand brand-name
 ```
 
-Per aggiungere un nuovo brand:
+To add a new brand:
 ```bash
-# Intervista guidata
-/create-brand "nome-del-brand"
+# Guided interview
+/create-brand "your-brand-name"
 
-# Da un repository (estrae info dal codice e README)
-/create-brand "nome-del-brand"
-> "ecco il repo: github.com/org/repo"
+# From a repository (extracts info from code and README)
+/create-brand "your-brand-name"
+> "here's the repo: github.com/org/repo"
 
-# Da slide o documenti (estrae info automaticamente)
-/create-brand "nome-del-brand"
-> "usa le slide in /path/to/presentazione.pdf"
+# From slides or documents (extracts info automatically)
+/create-brand "your-brand-name"
+> "use the slides at /path/to/presentation.pdf"
 
-# Da un sito web
-/create-brand "nome-del-brand"
-> "analizza il sito: example.com"
+# From a website
+/create-brand "your-brand-name"
+> "analyze the site: example.com"
 ```
 
-Il sistema estrae il massimo dalle sorgenti fornite, ricerca i competitor automaticamente, e chiede solo le info che non riesce a dedurre.
+The system extracts as much as possible from the provided sources, researches competitors automatically, and only asks for info it can't infer.
 
 ---
 
-## Requisiti
+## Requirements
 
-- [Claude Code](https://docs.anthropic.com/en/docs/claude-code) installato
-- Un account Anthropic con accesso a Claude
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code) installed
+- An Anthropic account with access to Claude
 
 ---
 
-## Contribuire
+## Contributing
 
-Contribuzioni benvenute. Alcune idee:
+Contributions welcome. Some ideas:
 
-- **Nuovi esperti**: Aggiungi profili nella directory `experts/` seguendo il formato esistente
-- **Nuovi template**: Estendi i framework in `framework/content-frameworks.md`
-- **Nuove skill**: Crea nuove skill in `.claude/skills/`
-- **Miglioramenti**: Bug fix, documentazione, ottimizzazioni
+- **New experts**: Add profiles in the `experts/` directory following the existing format
+- **New templates**: Extend the frameworks in `framework/content-frameworks.md`
+- **New skills**: Create new skills in `.claude/skills/`
+- **Improvements**: Bug fixes, documentation, optimizations
 
-Ogni profilo esperto deve:
-- Essere generico (usare `[il tuo brand]`, non brand specifici)
-- Contenere: profilo, filosofia, framework dettagliati, tecniche di hook, citazioni, risorse
-- Seguire il formato dei profili esistenti
+Each expert profile should:
+- Be generic (use `[your brand]`, not specific brand names)
+- Contain: profile, philosophy, detailed frameworks, hook techniques, quotes, resources
+- Follow the format of existing profiles
 
 ---
 
 ## License
 
-MIT — vedi [LICENSE](LICENSE)
+MIT — see [LICENSE](LICENSE)

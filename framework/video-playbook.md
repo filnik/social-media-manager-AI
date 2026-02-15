@@ -1,422 +1,422 @@
-# 05 — Video Playbook (Script e Sceneggiatura)
+# 05 — Video Playbook (Script & Storyboard)
 
-## Specifiche Tecniche
+## Technical Specifications
 
-### Formato Reels (Instagram)
-- **Durata ottimale**: 15-30 secondi (sweet spot per reach)
-- **Durata massima consigliata**: 60 secondi
-- **Aspect ratio**: 9:16 (verticale)
-- **Risoluzione**: 1080x1920 px
-- **Safe zone testo**: evitare i 250px in alto (username) e 400px in basso (CTA/commenti)
-- **Sottotitoli**: sempre. Il 70%+ guarda senza audio
-- **Cover**: frame chiaro con testo leggibile per il feed
+### Reels Format (Instagram)
+- **Optimal duration**: 15-30 seconds (sweet spot for reach)
+- **Max recommended duration**: 60 seconds
+- **Aspect ratio**: 9:16 (vertical)
+- **Resolution**: 1080x1920 px
+- **Text safe zone**: avoid top 250px (username) and bottom 400px (CTA/comments)
+- **Subtitles**: always. 70%+ watch without sound
+- **Cover**: clear frame with readable text for the feed
 
-### Formato TikTok
-- **Durata ottimale**: 15-45 secondi
-- **Durata massima consigliata**: 60 secondi (fino a 3 min possibili ma non consigliati per questo tipo di contenuto)
-- **Aspect ratio**: 9:16 (verticale)
-- **Risoluzione**: 1080x1920 px
-- **Safe zone testo**: simile a Reels — evitare top e bottom
-- **Sottotitoli**: sempre
-- **Suoni trending**: usare quando coerenti con il contenuto (non forzare)
+### TikTok Format
+- **Optimal duration**: 15-45 seconds
+- **Max recommended duration**: 60 seconds (up to 3 min possible but not recommended for this content type)
+- **Aspect ratio**: 9:16 (vertical)
+- **Resolution**: 1080x1920 px
+- **Text safe zone**: similar to Reels — avoid top and bottom
+- **Subtitles**: always
+- **Trending sounds**: use when relevant to the content (don't force it)
 
 ### Cross-posting Reels ↔ TikTok
-- **Si'**: lo stesso video puo' andare su entrambe le piattaforme
-- **No**: non postare con watermark TikTok su Instagram (e viceversa)
-- **Adattamenti**:
-  - TikTok: puo' essere leggermente piu' informale, piu' trend-driven
-  - Reels: leggermente piu' curato, meno trend effimeri
-  - I sottotitoli devono essere riadattati per la safe zone di ogni piattaforma
+- **Yes**: the same video can go on both platforms
+- **No**: don't post with TikTok watermark on Instagram (and vice versa)
+- **Adjustments**:
+  - TikTok: can be slightly more informal, more trend-driven
+  - Reels: slightly more polished, fewer ephemeral trends
+  - Subtitles must be repositioned for each platform's safe zone
 
 ---
 
-## Il Formato Script Completo
+## The Complete Script Format
 
-Ogni script video [tuo brand] include 5 livelli di informazione:
+Every [your brand] video script includes 5 layers of information:
 
-### 1. VISUAL (cosa si vede)
-- Inquadratura: primo piano, mezzo busto, campo largo, dettaglio
-- Espressioni facciali dello speaker (cruciali per l'infotainment)
-- Props: oggetti fisici usati nella scena (pila di CV, laptop, telefono)
-- Grafiche sovrapposte, animazioni
-- Transizioni: taglio netto, zoom, swipe
+### 1. VISUAL (what you see)
+- Framing: close-up, medium shot, wide shot, detail shot
+- Speaker's facial expressions (crucial for infotainment)
+- Props: physical objects used in the scene (pile of resumes, laptop, phone)
+- Overlaid graphics, animations
+- Transitions: hard cut, zoom, swipe
 
-### 2. AUDIO (cosa si sente — dialogo esatto)
-- Il testo parola per parola pronunciato dallo speaker
-- Tono di voce: indicazioni specifiche (ironico, serio, sorpreso, esasperato)
-- Ritmo: veloce, pausa, enfasi su parole chiave
+### 2. AUDIO (what you hear — exact dialogue)
+- The word-for-word text spoken by the speaker
+- Tone of voice: specific cues (ironic, serious, surprised, exasperated)
+- Pacing: fast, pause, emphasis on keywords
 
-### 3. ON-SCREEN TEXT (testo sovrapposto)
-- Testo che appare sullo schermo
-- Posizione: alto, centro, basso
-- Font: coerente con brand (bold, sans-serif)
-- Timing: quando appare e scompare
+### 3. ON-SCREEN TEXT (overlaid text)
+- Text that appears on screen
+- Position: top, center, bottom
+- Font: consistent with brand (bold, sans-serif)
+- Timing: when it appears and disappears
 
-### 4. REGIA (note di produzione)
-- Taglio: dove tagliare tra una scena e l'altra
-- Zoom: zoom in per enfasi, zoom out per contesto
-- Ritmo di montaggio: veloce (tagli ogni 2-3 secondi per mantenere attenzione)
-- Transizioni speciali (se necessarie)
+### 4. DIRECTING (production notes)
+- Cuts: where to cut between scenes
+- Zoom: zoom in for emphasis, zoom out for context
+- Editing pace: fast (cuts every 2-3 seconds to maintain attention)
+- Special transitions (if needed)
 
-### 5. MUSICA/SFX (audio di sottofondo)
-- Musica: trending audio, beat, silenzio strategico
-- SFX: suoni di impatto, "ding", suono comico, suono drammatico
-- Volume: basso sotto il parlato, alto nei momenti senza parlato
-
----
-
-## L'Hook nei Primi 3 Secondi
-
-### Perche' i Primi 3 Secondi Sono Tutto
-L'utente decide se continuare a guardare in 1-3 secondi. Se l'hook non funziona, tutto il resto e' inutile. Il watch time iniziale determina la distribuzione algoritmica.
-
-### 5 Tecniche di Hook Video
-
-**Tecnica 1: Pattern Interrupt Visivo**
-Un elemento visivo inaspettato che rompe il flusso del feed.
-- Movimento improvviso (alzarsi di scatto, girarsi, sbattere qualcosa sulla scrivania)
-- Espressione facciale forte (shock, esasperazione, sorriso enorme)
-- Oggetto fuori contesto (pila enorme di fogli, cartello assurdo, countdown)
-- Colore/luce inaspettati
-
-**Tecnica 2: Frase d'Apertura che Crea Curiosita'**
-La prima frase deve creare un "loop aperto" che il viewer vuole chiudere.
-- "Non indovinerai mai cosa ha fatto il nostro ATS ieri"
-- "Il candidato migliore era nell'unico CV che non avevo letto"
-- "Ho una confessione: non leggo tutti i CV"
-
-**Tecnica 3: Testo On-Screen Anticipato**
-Il testo appare PRIMA che lo speaker inizi a parlare, creando aspettativa.
-- "200 CV. 3 ore. Zero candidati persi."
-- "POV: sei un HR il lunedi' mattina"
-- "Screening manuale nel 2026?"
-
-**Tecnica 4: Domanda Diretta alla Camera**
-Lo speaker guarda la camera e fa una domanda che coinvolge immediatamente.
-- "Quanti CV hai letto questa settimana?"
-- "Sai quanti candidati il tuo ATS ha scartato senza che tu lo sapessi?"
-- "Ti sei mai chiesto perche' non trovi i candidati giusti?"
-
-**Tecnica 5: Scenario "Se..."**
-Inizia con un "se" che il target non puo' ignorare.
-- "Se anche tu hai passato 3 settimane su 200 CV, questo video e' per te"
-- "Se il tuo CEO ti ha mai detto 'ma quanto ci vuole?', continua a guardare"
-- "Se pensi che lo screening manuale sia l'unica opzione... siediti"
+### 5. MUSIC/SFX (background audio)
+- Music: trending audio, beat, strategic silence
+- SFX: impact sounds, "ding", comedic sound, dramatic sound
+- Volume: low under speech, high during non-speech moments
 
 ---
 
-## Lo Stile Infotainment nei Video
+## The Hook in the First 3 Seconds
 
-### La Struttura Emotiva
+### Why the First 3 Seconds Are Everything
+The viewer decides whether to keep watching in 1-3 seconds. If the hook doesn't work, everything else is wasted. Initial watch time determines algorithmic distribution.
+
+### 5 Video Hook Techniques
+
+**Technique 1: Visual Pattern Interrupt**
+An unexpected visual element that breaks the feed scroll.
+- Sudden movement (jumping up, turning around, slamming something on the desk)
+- Strong facial expression (shock, exasperation, huge smile)
+- Out-of-context object (enormous pile of papers, absurd sign, countdown)
+- Unexpected color/lighting
+
+**Technique 2: Curiosity-Driven Opening Line**
+The first sentence must create an "open loop" the viewer wants to close.
+- "You'll never guess what our ATS did yesterday"
+- "The best candidate was in the one resume I hadn't read"
+- "I have a confession: I don't read all the resumes"
+
+**Technique 3: Pre-emptive On-Screen Text**
+Text appears BEFORE the speaker starts talking, building anticipation.
+- "200 resumes. 3 hours. Zero candidates lost."
+- "POV: you're an HR on Monday morning"
+- "Manual screening in 2026?"
+
+**Technique 4: Direct-to-Camera Question**
+The speaker looks at the camera and asks a question that immediately engages.
+- "How many resumes did you read this week?"
+- "Do you know how many candidates your ATS rejected without you knowing?"
+- "Have you ever wondered why you can't find the right candidates?"
+
+**Technique 5: "If..." Scenario**
+Start with an "if" the target audience can't ignore.
+- "If you've also spent 3 weeks on 200 resumes, this video is for you"
+- "If your CEO has ever told you 'how long does it take?', keep watching"
+- "If you think manual screening is the only option... sit down"
+
+---
+
+## The Infotainment Style in Video
+
+### The Emotional Arc
 
 ```
-SETUP (0-5s)     → Frustrazione/Riconoscimento
-                    "Il viewer pensa: oddio, sono io"
+SETUP (0-5s)        → Frustration/Recognition
+                      "The viewer thinks: oh god, that's me"
 
-SVILUPPO (5-15s) → Escalation ironica
-                    "La situazione peggiora. L'assurdita' cresce"
+DEVELOPMENT (5-15s) → Ironic Escalation
+                      "The situation gets worse. The absurdity grows"
 
-PAYOFF (15-25s)  → Soluzione smart / Plot twist
-                    "Il viewer pensa: ah, c'e' un modo migliore"
+PAYOFF (15-25s)     → Smart Solution / Plot twist
+                      "The viewer thinks: oh, there's a better way"
 
-CTA (25-30s)     → Azione leggera
-                    "Seguici / Link in bio / Salva per dopo"
+CTA (25-30s)        → Soft Call to Action
+                      "Follow us / Link in bio / Save for later"
 ```
 
-### Il Viewer Deve Pensare:
-1. **"Oddio, sono io"** → condivide per solidarieta'
-2. **"Io sono piu' smart di cosi'"** → condivide per posizionamento
-3. **"Devo farlo vedere a [nome]"** → condivide per relazione
-4. **"Non lo sapevo"** → salva per dopo
+### The Viewer Should Think:
+1. **"Oh god, that's me"** → shares out of solidarity
+2. **"I'm smarter than that"** → shares for positioning
+3. **"I need to show this to [name]"** → shares for connection
+4. **"I didn't know that"** → saves for later
 
-### Regole di Recitazione per i Fondatori
+### Performance Guidelines for Founders
 
-**Marta (speaker principale video)**:
-- Guardare la camera come se stesse parlando a un collega, non a un pubblico
-- Espressioni naturali, non recitate
-- Pause brevi per enfasi (1-2 secondi di silenzio = potentissime)
-- Sorriso ironico > risata forzata
-- Mani visibili (gesticolazione naturale italiana)
-- Errori leggeri vanno bene: l'imperfezione e' autentica
+**Marta (primary video speaker)**:
+- Look at the camera as if talking to a colleague, not an audience
+- Natural expressions, not rehearsed
+- Short pauses for emphasis (1-2 seconds of silence = extremely powerful)
+- Ironic smirk > forced laugh
+- Hands visible (natural Italian gesturing)
+- Minor mistakes are fine: imperfection is authentic
 
-**Michele (speaker secondario, focus tech)**:
-- Tono piu' pacato ma entusiasta
-- Mostra lo schermo quando spiega la tecnologia
-- "Guarda cosa succede quando..." + demo reale
-- L'entusiasmo genuino per la tecnologia traspare
+**Michele (secondary speaker, tech focus)**:
+- Calmer but enthusiastic tone
+- Show the screen when explaining the technology
+- "Watch what happens when..." + real demo
+- Genuine excitement about the technology comes through
 
 ---
 
-## I 6 Template Video
+## The 6 Video Templates
 
-### VS1 — Il POV dell'HR (V1)
+### VS1 — The HR POV (V1)
 
-**Uso**: situazione quotidiana vista dall'HR.
-**Pillar**: 3 (L'HR nel Caos)
-**Durata**: 15-25 secondi
+**Use**: everyday situation from the HR perspective.
+**Pillar**: 3 (HR in the Trenches)
+**Duration**: 15-25 seconds
 **Speaker**: Marta
 
 ```
 [0-2s]
-VISUAL: {{SPEAKER}} al desk, espressione {{EMOZIONE}}
-ON-SCREEN TEXT: "POV: {{SITUAZIONE}}"
-SFX: suono di notifica / sveglia / ding
+VISUAL: {{SPEAKER}} at desk, {{EMOTION}} expression
+ON-SCREEN TEXT: "POV: {{SITUATION}}"
+SFX: notification / alarm / ding sound
 
 [2-7s]
-AUDIO: "{{FRASE_SETUP}}" (tono: {{TONO}})
-VISUAL: {{AZIONE}} (aprire laptop, guardare schermo, sospirare)
-REGIA: primo piano, camera fissa
+AUDIO: "{{SETUP_LINE}}" (tone: {{TONE}})
+VISUAL: {{ACTION}} (opening laptop, looking at screen, sighing)
+DIRECTING: close-up, fixed camera
 
 [7-15s]
-AUDIO: "{{SVILUPPO}}" (tono: escalation)
-VISUAL: {{REAZIONI}} (espressioni esasperate, gesti)
-ON-SCREEN TEXT: "{{DETTAGLIO_IRONICO}}"
-REGIA: taglio rapido tra 2-3 angolazioni
+AUDIO: "{{DEVELOPMENT}}" (tone: escalation)
+VISUAL: {{REACTIONS}} (exasperated expressions, gestures)
+ON-SCREEN TEXT: "{{IRONIC_DETAIL}}"
+DIRECTING: quick cuts between 2-3 angles
 
 [15-22s]
-AUDIO: "{{CHIUSURA}}" (tono: rassegnato o ironico)
-VISUAL: {{SPEAKER}} guarda la camera con {{ESPRESSIONE_FINALE}}
-ON-SCREEN TEXT: "{{MESSAGGIO}}"
-MUSICA: trending audio fade in
+AUDIO: "{{CLOSING}}" (tone: resigned or ironic)
+VISUAL: {{SPEAKER}} looks at camera with {{FINAL_EXPRESSION}}
+ON-SCREEN TEXT: "{{MESSAGE}}"
+MUSIC: trending audio fade in
 
 [22-25s]
-ON-SCREEN TEXT: "Seguici per la parte 2" / "{{CTA}}"
-VISUAL: logo [tuo brand] piccolo in basso
+ON-SCREEN TEXT: "Follow us for part 2" / "{{CTA}}"
+VISUAL: small [your brand] logo at the bottom
 ```
 
-### VS2 — Il Confronto Visivo (V2)
+### VS2 — The Visual Comparison (V2)
 
-**Uso**: prima vs dopo, vecchio vs nuovo modo.
-**Pillar**: 2 (Selezione), 4 ([tuo brand])
-**Durata**: 20-30 secondi
-**Speaker**: Marta o Michele
+**Use**: before vs after, old way vs new way.
+**Pillar**: 2 (Hiring Done Right), 4 ([your brand])
+**Duration**: 20-30 seconds
+**Speaker**: Marta or Michele
 
 ```
 [0-3s]
-VISUAL: schermo diviso / transizione wipe
-ON-SCREEN TEXT (sx): "{{LABEL_PRIMA}}"
-ON-SCREEN TEXT (dx): "{{LABEL_DOPO}}"
-SFX: suono VS / transizione
+VISUAL: split screen / wipe transition
+ON-SCREEN TEXT (left): "{{BEFORE_LABEL}}"
+ON-SCREEN TEXT (right): "{{AFTER_LABEL}}"
+SFX: VS / transition sound
 
-[3-12s] — LATO "PRIMA"
-VISUAL: {{SPEAKER}} frustrato/a, al desk con pile di fogli
-AUDIO: "{{DESCRIZIONE_PRIMA}}" (tono: lento, pesante)
+[3-12s] — "BEFORE" SIDE
+VISUAL: {{SPEAKER}} frustrated, at desk with piles of papers
+AUDIO: "{{BEFORE_DESCRIPTION}}" (tone: slow, heavy)
 ON-SCREEN TEXT:
-  "{{METRICA_NEGATIVA_1}}"
-  "{{METRICA_NEGATIVA_2}}"
-REGIA: inquadratura leggermente inclinata, colori desaturati
+  "{{NEGATIVE_METRIC_1}}"
+  "{{NEGATIVE_METRIC_2}}"
+DIRECTING: slightly tilted framing, desaturated colors
 
-[12-22s] — LATO "DOPO"
-VISUAL: {{SPEAKER}} sereno/a, al laptop, schermata [tuo brand]
-AUDIO: "{{DESCRIZIONE_DOPO}}" (tono: leggero, veloce)
+[12-22s] — "AFTER" SIDE
+VISUAL: {{SPEAKER}} relaxed, at laptop, [your brand] screen
+AUDIO: "{{AFTER_DESCRIPTION}}" (tone: light, fast)
 ON-SCREEN TEXT:
-  "{{METRICA_POSITIVA_1}}"
-  "{{METRICA_POSITIVA_2}}"
-REGIA: inquadratura dritta, colori vivaci
-MUSICA: beat upbeat
+  "{{POSITIVE_METRIC_1}}"
+  "{{POSITIVE_METRIC_2}}"
+DIRECTING: straight framing, vivid colors
+MUSIC: upbeat beat
 
 [22-28s]
-VISUAL: full screen, {{SPEAKER}} sorride alla camera
-ON-SCREEN TEXT: "{{MESSAGGIO_FINALE}}"
-AUDIO: "{{BATTUTA_CHIUSURA}}"
+VISUAL: full screen, {{SPEAKER}} smiles at camera
+ON-SCREEN TEXT: "{{FINAL_MESSAGE}}"
+AUDIO: "{{CLOSING_PUNCHLINE}}"
 
 [28-30s]
-ON-SCREEN TEXT: "Link in bio" + logo [tuo brand]
+ON-SCREEN TEXT: "Link in bio" + [your brand] logo
 ```
 
-### VS3 — Il Dato Bomba (V3)
+### VS3 — The Bombshell Stat (V3)
 
-**Uso**: un dato sorprendente con reazione.
-**Pillar**: 1 (Futuro HR), 2 (Selezione)
-**Durata**: 15-20 secondi
-**Speaker**: Marta o Michele
+**Use**: a surprising data point with reaction.
+**Pillar**: 1 (The Future of HR), 2 (Hiring Done Right)
+**Duration**: 15-20 seconds
+**Speaker**: Marta or Michele
 
 ```
 [0-2s]
-VISUAL: {{SPEAKER}} guarda un "foglio/schermo" fuori campo, espressione sorpresa
-ON-SCREEN TEXT (grande, centrato): "{{DATO}}"
-SFX: suono di impatto / boom
+VISUAL: {{SPEAKER}} looks at a "sheet/screen" off-camera, surprised expression
+ON-SCREEN TEXT (large, centered): "{{STAT}}"
+SFX: impact / boom sound
 
 [2-8s]
-AUDIO: "{{SPIEGAZIONE}}" (tono: sorpreso poi analitico)
-VISUAL: {{SPEAKER}} parla alla camera
-ON-SCREEN TEXT: keyword animate che compaiono
+AUDIO: "{{EXPLANATION}}" (tone: surprised then analytical)
+VISUAL: {{SPEAKER}} talks to camera
+ON-SCREEN TEXT: animated keywords appearing
 
 [8-15s]
-AUDIO: "{{IMPLICAZIONE_PER_IL_TARGET}}" (tono: diretto)
-VISUAL: primo piano, serio/a
-ON-SCREEN TEXT: "{{TAKEAWAY_BREVE}}"
+AUDIO: "{{IMPLICATION_FOR_TARGET}}" (tone: direct)
+VISUAL: close-up, serious
+ON-SCREEN TEXT: "{{BRIEF_TAKEAWAY}}"
 
 [15-18s]
-AUDIO: "{{CTA_O_DOMANDA}}"
-ON-SCREEN TEXT: "Seguici per altri dati HR"
-VISUAL: logo [tuo brand]
+AUDIO: "{{CTA_OR_QUESTION}}"
+ON-SCREEN TEXT: "Follow us for more HR data"
+VISUAL: [your brand] logo
 ```
 
-### VS4 — La Mini-Lezione (V4)
+### VS4 — The Mini-Lesson (V4)
 
-**Uso**: 3 consigli rapidi in meno di 30 secondi.
-**Pillar**: 2 (Selezione che Funziona)
-**Durata**: 20-30 secondi
-**Speaker**: Marta o Michele
+**Use**: 3 quick tips in under 30 seconds.
+**Pillar**: 2 (Hiring Done Right)
+**Duration**: 20-30 seconds
+**Speaker**: Marta or Michele
 
 ```
 [0-3s]
-AUDIO: "{{HOOK_RAPIDO}}" (es: "3 errori di screening che ti costano candidati")
-VISUAL: {{SPEAKER}} alza 3 dita / usa prop
-ON-SCREEN TEXT: "{{TITOLO}}"
+AUDIO: "{{QUICK_HOOK}}" (e.g.: "3 screening mistakes that cost you candidates")
+VISUAL: {{SPEAKER}} holds up 3 fingers / uses prop
+ON-SCREEN TEXT: "{{TITLE}}"
 
 [3-10s]
-AUDIO: "Primo: {{CONSIGLIO_1}}" (tono: deciso)
-VISUAL: gesto "1" + grafica animata
+AUDIO: "First: {{TIP_1}}" (tone: decisive)
+VISUAL: "1" gesture + animated graphic
 ON-SCREEN TEXT: "1. {{KEYWORD_1}}"
-REGIA: taglio netto al punto 2
+DIRECTING: hard cut to point 2
 
 [10-17s]
-AUDIO: "Secondo: {{CONSIGLIO_2}}"
-VISUAL: gesto "2" + grafica
+AUDIO: "Second: {{TIP_2}}"
+VISUAL: "2" gesture + graphic
 ON-SCREEN TEXT: "2. {{KEYWORD_2}}"
-REGIA: taglio netto al punto 3
+DIRECTING: hard cut to point 3
 
 [17-24s]
-AUDIO: "Terzo: {{CONSIGLIO_3}}"
-VISUAL: gesto "3" + grafica
+AUDIO: "Third: {{TIP_3}}"
+VISUAL: "3" gesture + graphic
 ON-SCREEN TEXT: "3. {{KEYWORD_3}}"
 
 [24-30s]
-AUDIO: "{{RISULTATO_SE_APPLICHI}}"
-VISUAL: {{SPEAKER}} sorride, indica verso il basso
-ON-SCREEN TEXT: "Salva per dopo 💾"
-MUSICA: beat conclusivo
+AUDIO: "{{RESULT_IF_YOU_APPLY}}"
+VISUAL: {{SPEAKER}} smiles, points downward
+ON-SCREEN TEXT: "Save for later"
+MUSIC: closing beat
 ```
 
-### VS5 — Lo Sketch Comico (V5)
+### VS5 — The Comedy Sketch (V5)
 
-**Uso**: scenetta recitata con 1-2 personaggi.
-**Pillar**: 3 (L'HR nel Caos)
-**Durata**: 25-45 secondi
-**Speaker**: Marta (+ eventuale secondo attore per CEO/hiring manager)
+**Use**: acted-out skit with 1-2 characters.
+**Pillar**: 3 (HR in the Trenches)
+**Duration**: 25-45 seconds
+**Speaker**: Marta (+ optional second actor for CEO/hiring manager)
 
 ```
 [0-3s] — INTRO
-VISUAL: {{AMBIENTE_UFFICIO}}
-ON-SCREEN TEXT: "{{TITOLO_SITUAZIONE}}"
-SFX: suono ufficio / notifica
-REGIA: establishing shot rapido
+VISUAL: {{OFFICE_SETTING}}
+ON-SCREEN TEXT: "{{SITUATION_TITLE}}"
+SFX: office sound / notification
+DIRECTING: quick establishing shot
 
 [3-12s] — SETUP
-{{PERSONAGGIO_1}} ({{RUOLO}}): "{{BATTUTA_1}}"
-{{PERSONAGGIO_2}} ({{RUOLO}}): "{{RISPOSTA_1}}"
-VISUAL: campo/controcampo rapido
-REGIA: tagli veloci, camera a mano per dinamismo
+{{CHARACTER_1}} ({{ROLE}}): "{{LINE_1}}"
+{{CHARACTER_2}} ({{ROLE}}): "{{RESPONSE_1}}"
+VISUAL: quick shot/reverse shot
+DIRECTING: fast cuts, handheld camera for dynamism
 
 [12-22s] — ESCALATION
-L'assurdita' cresce:
-{{PERSONAGGIO_1}}: "{{BATTUTA_ESCALATION}}"
-{{PERSONAGGIO_2}}: "{{REAZIONE_ESASPERATA}}"
-ON-SCREEN TEXT: "{{COMMENTO_IRONICO}}"
-REGIA: zoom in sulla reazione
+The absurdity grows:
+{{CHARACTER_1}}: "{{ESCALATION_LINE}}"
+{{CHARACTER_2}}: "{{EXASPERATED_REACTION}}"
+ON-SCREEN TEXT: "{{IRONIC_COMMENT}}"
+DIRECTING: zoom in on the reaction
 
 [22-32s] — PUNCHLINE
-{{PERSONAGGIO_2}}: "{{PUNCHLINE}}"
-VISUAL: espressione che rompe la quarta parete (guarda la camera)
-ON-SCREEN TEXT: "{{MESSAGGIO_CHIAVE}}"
-SFX: suono comico / record scratch / silenzio drammatico
+{{CHARACTER_2}}: "{{PUNCHLINE}}"
+VISUAL: expression breaking the fourth wall (looks at camera)
+ON-SCREEN TEXT: "{{KEY_MESSAGE}}"
+SFX: comedic sound / record scratch / dramatic silence
 
-[32-38s] — CHIUSURA
-VISUAL: {{SPEAKER}} sorride alla camera
-ON-SCREEN TEXT: "{{CTA}}" + logo [tuo brand]
-MUSICA: trending audio
+[32-38s] — CLOSING
+VISUAL: {{SPEAKER}} smiles at camera
+ON-SCREEN TEXT: "{{CTA}}" + [your brand] logo
+MUSIC: trending audio
 ```
 
-### VS6 — Situazione Quotidiana + Plot Twist (V6)
+### VS6 — Everyday Situation + Plot Twist (V6)
 
-**Uso**: il format SIGNATURE di [tuo brand]. La frustrazione → l'escalation → il twist.
-**Pillar**: 3 (L'HR nel Caos) + 4 ([tuo brand] in Azione)
-**Durata**: 20-30 secondi
+**Use**: the SIGNATURE [your brand] format. Frustration → escalation → twist.
+**Pillar**: 3 (HR in the Trenches) + 4 ([your brand] in Action)
+**Duration**: 20-30 seconds
 **Speaker**: Marta
 
 ```
 [0-2s] — HOOK (Pattern Interrupt)
-VISUAL: {{PATTERN_INTERRUPT_VISIVO}}
-ON-SCREEN TEXT: "{{HOOK_TESTO_GRANDE}}"
-SFX: {{SUONO_IMPATTO}}
-REGIA: jump cut o zoom rapido
+VISUAL: {{VISUAL_PATTERN_INTERRUPT}}
+ON-SCREEN TEXT: "{{HOOK_LARGE_TEXT}}"
+SFX: {{IMPACT_SOUND}}
+DIRECTING: jump cut or quick zoom
 
-[2-8s] — SETUP (La Frustrazione)
-AUDIO: "{{DESCRIZIONE_FRUSTRAZIONE}}" (tono: rassegnato/esasperato)
-VISUAL: {{SPEAKER}} vive la situazione — espressioni naturali
-ON-SCREEN TEXT: {{DETTAGLIO_SITUAZIONE}}
-MUSICA: beat lento o assente
-REGIA: camera fissa, primo piano
+[2-8s] — SETUP (The Frustration)
+AUDIO: "{{FRUSTRATION_DESCRIPTION}}" (tone: resigned/exasperated)
+VISUAL: {{SPEAKER}} lives the situation — natural expressions
+ON-SCREEN TEXT: {{SITUATION_DETAIL}}
+MUSIC: slow beat or none
+DIRECTING: fixed camera, close-up
 
-[8-15s] — ESCALATION (Peggiora)
-AUDIO: "{{LA_SITUAZIONE_PEGGIORA}}" (tono: crescendo)
-VISUAL: {{REAZIONI_ESASPERATE}} — faccia, gesti, sguardo al cielo
-ON-SCREEN TEXT: "{{COMMENTO_IRONICO}}"
-REGIA: tagli rapidi, zoom in/out
+[8-15s] — ESCALATION (It Gets Worse)
+AUDIO: "{{SITUATION_GETS_WORSE}}" (tone: crescendo)
+VISUAL: {{EXASPERATED_REACTIONS}} — face, gestures, eyes to the ceiling
+ON-SCREEN TEXT: "{{IRONIC_COMMENT}}"
+DIRECTING: fast cuts, zoom in/out
 
-[15-22s] — PLOT TWIST (Il Capovolgimento)
-AUDIO: "{{FRASE_TWIST}}" (tono: cambio netto — da esasperato a sicuro/sorridente)
-VISUAL: cambio espressione netto. {{SPEAKER}} apre il laptop / mostra qualcosa
-ON-SCREEN TEXT: "{{MESSAGGIO_TWIST}}"
-MUSICA: switch a beat upbeat
-SFX: suono positivo (ding / whoosh)
-REGIA: transizione creativa (wipe, zoom, flash)
+[15-22s] — PLOT TWIST (The Turnaround)
+AUDIO: "{{TWIST_LINE}}" (tone: sharp shift — from exasperated to confident/smiling)
+VISUAL: sharp expression change. {{SPEAKER}} opens laptop / shows something
+ON-SCREEN TEXT: "{{TWIST_MESSAGE}}"
+MUSIC: switch to upbeat beat
+SFX: positive sound (ding / whoosh)
+DIRECTING: creative transition (wipe, zoom, flash)
 
-[22-28s] — CHIUSURA
-AUDIO: "{{BATTUTA_FINALE}}" (tono: soddisfatto/ironico)
-VISUAL: {{SPEAKER}} guarda la camera con sorriso complice
-ON-SCREEN TEXT: "{{CTA}}" + logo [tuo brand] piccolo
-MUSICA: fade out
+[22-28s] — CLOSING
+AUDIO: "{{FINAL_PUNCHLINE}}" (tone: satisfied/ironic)
+VISUAL: {{SPEAKER}} looks at camera with a knowing smile
+ON-SCREEN TEXT: "{{CTA}}" + small [your brand] logo
+MUSIC: fade out
 ```
 
 ---
 
-## Checklist Pre-Produzione Video
+## Video Pre-Production Checklist
 
-### Prima di Registrare
-- [ ] Lo script e' completo (VISUAL + AUDIO + ON-SCREEN TEXT + REGIA + MUSICA)?
-- [ ] L'hook cattura nei primi 2-3 secondi?
-- [ ] Lo script e' stato provato ad alta voce (timing reale)?
-- [ ] La durata e' nel range ottimale (15-30s)?
-- [ ] I sottotitoli sono pianificati?
-- [ ] Il tono e' infotainment (non corporate)?
-- [ ] L'ambiente di registrazione e' pronto (luce, sfondo, audio)?
+### Before Recording
+- [ ] Is the script complete (VISUAL + AUDIO + ON-SCREEN TEXT + DIRECTING + MUSIC)?
+- [ ] Does the hook capture attention in the first 2-3 seconds?
+- [ ] Has the script been read out loud (real-time timing)?
+- [ ] Is the duration within optimal range (15-30s)?
+- [ ] Are subtitles planned?
+- [ ] Is the tone infotainment (not corporate)?
+- [ ] Is the recording environment ready (lighting, background, audio)?
 
-### Durante la Registrazione
-- [ ] Lo speaker guarda la camera (non lo schermo)?
-- [ ] Le espressioni facciali sono naturali e visibili?
-- [ ] Il ritmo del parlato e' energico (non monotono)?
-- [ ] Registrare 2-3 take per ogni segmento (opzioni in montaggio)?
-- [ ] Audio pulito (no rumori di fondo)?
+### During Recording
+- [ ] Is the speaker looking at the camera (not the screen)?
+- [ ] Are facial expressions natural and visible?
+- [ ] Is the speaking pace energetic (not monotonous)?
+- [ ] Record 2-3 takes per segment (options for editing)?
+- [ ] Clean audio (no background noise)?
 
-### In Post-Produzione
-- [ ] Tagli rapidi (ogni 2-4 secondi) per mantenere attenzione?
-- [ ] Sottotitoli aggiunti e nella safe zone?
-- [ ] On-screen text leggibile e ben posizionato?
-- [ ] Musica/SFX al volume giusto (sotto il parlato)?
-- [ ] Logo [tuo brand] presente ma non invasivo?
-- [ ] Cover per il feed Instagram (frame chiaro con testo)?
-- [ ] Nessun watermark da altre piattaforme?
+### In Post-Production
+- [ ] Fast cuts (every 2-4 seconds) to maintain attention?
+- [ ] Subtitles added and within the safe zone?
+- [ ] On-screen text readable and well-positioned?
+- [ ] Music/SFX at proper volume (under speech)?
+- [ ] [your brand] logo present but not intrusive?
+- [ ] Instagram feed cover (clear frame with text)?
+- [ ] No watermarks from other platforms?
 
-### Prima di Pubblicare
-- [ ] Il video funziona SENZA audio (solo sottotitoli + visual)?
-- [ ] L'hook funziona nel feed (i primi 2 frame catturano)?
-- [ ] La caption e' pronta (breve, con CTA e hashtag)?
-- [ ] Hashtag: 5-10 rilevanti (non troppi)?
-- [ ] Orario di pubblicazione ottimale (mattina 8-9 o pranzo 12-13)?
+### Before Publishing
+- [ ] Does the video work WITHOUT audio (subtitles + visuals only)?
+- [ ] Does the hook work in the feed (do the first 2 frames capture attention)?
+- [ ] Is the caption ready (short, with CTA and hashtags)?
+- [ ] Hashtags: 5-10 relevant ones (not too many)?
+- [ ] Optimal posting time (morning 8-9 AM or lunch 12-1 PM)?
 
 ---
 
-## Note Cross-Platform
+## Cross-Platform Notes
 
-| Aspetto | Instagram Reels | TikTok |
-|---------|----------------|--------|
-| **Tono** | Leggermente piu' curato | Piu' spontaneo e raw |
-| **Audio** | Trending audio IG | Suoni TikTok nativi |
-| **Hashtag** | 5-8 nella caption | 3-5 nella caption |
-| **CTA** | "Link in bio" | "Link in bio" / commento fissato |
-| **Durata sweet spot** | 15-25 secondi | 15-45 secondi |
-| **Pubblicazione** | 8:00-9:00 o 12:00-13:00 CET | 12:00-14:00 o 18:00-20:00 CET |
-| **Frequenza** | 3-4 Reels/settimana | 3-5 TikTok/settimana |
+| Aspect | Instagram Reels | TikTok |
+|--------|----------------|--------|
+| **Tone** | Slightly more polished | More spontaneous and raw |
+| **Audio** | IG trending audio | Native TikTok sounds |
+| **Hashtags** | 5-8 in the caption | 3-5 in the caption |
+| **CTA** | "Link in bio" | "Link in bio" / pinned comment |
+| **Duration sweet spot** | 15-25 seconds | 15-45 seconds |
+| **Posting time** | 8:00-9:00 AM or 12:00-1:00 PM CET | 12:00-2:00 PM or 6:00-8:00 PM CET |
+| **Frequency** | 3-4 Reels/week | 3-5 TikToks/week |

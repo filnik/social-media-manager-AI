@@ -1,126 +1,126 @@
 # Brand Voice — AI Social Media Manager
 
-## Chi e'
+## Who It Is
 
-### Identita' del Progetto
-**AI Social Media Manager** e' un framework open-source per generare contenuti social con Claude Code. Non e' un SaaS, non e' un'app, non e' un tool con abbonamento. E' un sistema di knowledge — 60+ profili esperti, 14 template, 4 skill automatizzate — che trasforma Claude Code in un social media manager competente che conosce le strategie dei migliori content creator al mondo.
+### Project Identity
+**AI Social Media Manager** is an open-source framework for generating social content with Claude Code. It's not a SaaS, not an app, not a subscription tool. It's a knowledge system — 60+ expert profiles, 14 templates, 5 automated skills — that turns Claude Code into a competent social media manager who knows the strategies of the world's best content creators.
 
 ### Tagline
 **"Framework > Prompt"**
 
-### Autore
-- **Filippo** — Developer e creator del framework
-- Open-source, contribuzioni benvenute
+### Author
+- **Filippo** — Developer and creator of the framework
+- Open-source, contributions welcome
 
-### Differenziatore Chiave
-Mentre tutti cercano "il prompt perfetto" per generare contenuti, questo progetto dimostra che un **sistema strutturato** (framework, esperti, brand voice, template) batte qualsiasi prompt singolo. Non e' un prompt. E' un intero reparto content, codificato.
+### Key Differentiator
+While everyone is looking for "the perfect prompt" to generate content, this project proves that a **structured system** (framework, experts, brand voice, templates) beats any single prompt. It's not a prompt. It's an entire content department, codified.
 
-**In una frase**: "Il social media manager che non assume, non paga, e conosce le strategie di 60 esperti mondiali."
-
----
-
-## Il Framework StoryBrand Applicato
-
-*(l'eroe e' il creator/marketer, la guida e' il framework)*
-
-### L'Eroe: il creator / marketer / solopreneur
-- Non e' il framework l'eroe. E' la persona che deve creare contenuti ogni giorno
-- L'eroe vuole contenuti di qualita' senza passare ore a scriverli
-- L'eroe sa che i prompt singoli generano contenuti generici. Vuole qualcosa di meglio
-
-### Il Villain: il contenuto generico generato dall'AI
-- Il villain non e' l'AI — e' l'uso superficiale dell'AI
-- Prompt vaghi = output vaghi
-- "Scrivi un post LinkedIn" produce lo stesso risultato per tutti
-- Il villain ruba tempo (riscritture infinite) e credibilita' (contenuti che "suonano come ChatGPT")
-
-### I 3 Problemi dell'Eroe
-
-| Livello | Problema | Esempio |
-|---------|----------|---------|
-| **Esterno** (tangibile) | Creare contenuti richiede troppo tempo | "Passo 2 ore per un post LinkedIn che poi non performa" |
-| **Interno** (emotivo) | Frustrazione per output generici | "Ogni contenuto AI suona uguale. Non suona come ME" |
-| **Filosofico** (principio) | L'AI dovrebbe potenziare la creativita', non appiattirla | "Un buon sistema dovrebbe produrre contenuti unici, non template copia-incolla" |
-
-### La Guida: il framework
-- **Empatia**: "Sappiamo cosa significa riscrivere un post AI 5 volte perche' 'non suona giusto'"
-- **Autorita'**: 60+ esperti studiati, 14 template testati, sistema multi-brand
-
-### Il Piano (3 Step)
-1. **Clona il repo** — setup in 2 minuti
-2. **Configura il tuo brand** — /create-brand ti guida passo passo
-3. **Genera contenuti** — /linkedin-post o /video-script, personalizzati sulla TUA voce
+**In one sentence**: "The social media manager you don't hire, don't pay, and that knows the strategies of 60 world-class experts."
 
 ---
 
-## Il Tono di Voce
+## The StoryBrand Framework Applied
 
-### Formula del Tono
-**Tech-savvy + Pratico + Un po' nerd + Zero hype**
+*(the hero is the creator/marketer, the guide is the framework)*
 
-| Ingrediente | Significato | Esempio |
-|-------------|-------------|---------|
-| **Tech-savvy** | Parla la lingua degli sviluppatori e dei power user | "Un sistema di knowledge engineering applicato al content" |
-| **Pratico** | Mostra risultati concreti, non teoria | "60 esperti, 14 template, 4 skill. Clona e usa" |
-| **Un po' nerd** | Entusiasmo genuino per il sistema, non per il marketing | "Ho passato settimane a codificare come pensa MrBeast" |
-| **Zero hype** | Niente buzzword, niente promesse esagerate | "Non e' magia. E' un buon sistema" |
+### The Hero: the creator / marketer / solopreneur
+- The framework is not the hero. The person who needs to create content every day is
+- The hero wants quality content without spending hours writing it
+- The hero knows single prompts produce generic content. They want something better
 
-### La Lingua
-- **Italiano moderno con "tu"**
-- Mix italiano/inglese naturale nel tech: framework, open-source, skill, prompt, clone, repo
-- Frasi brevi, dirette
-- Ammette limiti: "non sostituisce un social media manager umano — lo potenzia"
+### The Villain: generic AI-generated content
+- The villain is not AI — it's the superficial use of AI
+- Vague prompts = vague output
+- "Write a LinkedIn post" produces the same result for everyone
+- The villain steals time (endless rewrites) and credibility (content that "sounds like ChatGPT")
+
+### The Hero's 3 Problems
+
+| Level | Problem | Example |
+|-------|---------|---------|
+| **External** (tangible) | Creating content takes too much time | "I spend 2 hours on a LinkedIn post that doesn't perform" |
+| **Internal** (emotional) | Frustration with generic output | "Every AI output sounds the same. It doesn't sound like ME" |
+| **Philosophical** (principle) | AI should enhance creativity, not flatten it | "A good system should produce unique content, not copy-paste templates" |
+
+### The Guide: the framework
+- **Empathy**: "We know what it's like to rewrite an AI post 5 times because it 'doesn't sound right'"
+- **Authority**: 60+ experts studied, 14 tested templates, multi-brand system
+
+### The Plan (3 Steps)
+1. **Clone the repo** — setup in 2 minutes
+2. **Configure your brand** — /create-brand walks you through it step by step
+3. **Generate content** — /linkedin-post or /video-script, personalized to YOUR voice
 
 ---
 
-## Regole della Comunicazione
+## Tone of Voice
+
+### Tone Formula
+**Tech-savvy + Practical + A bit nerdy + Zero hype**
+
+| Ingredient | Meaning | Example |
+|------------|---------|---------|
+| **Tech-savvy** | Speaks the language of developers and power users | "A knowledge engineering system applied to content" |
+| **Practical** | Shows concrete results, not theory | "60 experts, 14 templates, 5 skills. Clone and go" |
+| **A bit nerdy** | Genuine enthusiasm for the system, not for marketing | "I spent weeks codifying how MrBeast thinks" |
+| **Zero hype** | No buzzwords, no exaggerated promises | "It's not magic. It's a good system" |
+
+### Language
+- **Modern English with a direct tone**
+- Natural tech terminology: framework, open-source, skill, prompt, clone, repo
+- Short, direct sentences
+- Acknowledges limitations: "it doesn't replace a human social media manager — it empowers them"
+
+---
+
+## Communication Rules
 
 ### DO's
-1. **Mostra il sistema, non vendere il sistema** — E' open-source, non c'e' nulla da vendere
-2. **Numeri specifici** — "60 esperti, 14 template" > "tantissime risorse"
-3. **Framework > Prompt** — Il messaggio ricorrente: i sistemi battono i prompt singoli
-4. **Riconosci i limiti** — L'AI non sostituisce la creativita' umana. La amplifica
-5. **Credita gli esperti** — Il valore viene dalle strategie dei 60+ esperti, non dal codice
+1. **Show the system, don't sell the system** — It's open-source, there's nothing to sell
+2. **Specific numbers** — "60 experts, 14 templates" > "tons of resources"
+3. **Framework > Prompt** — The recurring message: systems beat single prompts
+4. **Acknowledge limitations** — AI doesn't replace human creativity. It amplifies it
+5. **Credit the experts** — The value comes from the strategies of 60+ experts, not from the code
 
 ### DON'Ts
-1. **Mai hype** — Niente "rivoluzionario", "game-changer", "il futuro del marketing"
-2. **Mai vendere** — E' open-source. Il tono e' "condivido qualcosa di utile", non "compra"
-3. **Mai denigrare i tool a pagamento** — Non siamo contro i SaaS. Siamo un'alternativa diversa
-4. **Mai promettere viralita'** — "Contenuti migliori" si'. "Post virali garantiti" no
-5. **Mai tecnicismi inutili** — Anche se e' un progetto tech, il contenuto deve essere accessibile
+1. **Never hype** — No "revolutionary", "game-changer", "the future of marketing"
+2. **Never sell** — It's open-source. The tone is "sharing something useful", not "buy this"
+3. **Never disparage paid tools** — We're not against SaaS. We're a different alternative
+4. **Never promise virality** — "Better content" yes. "Guaranteed viral posts" no
+5. **Never use unnecessary jargon** — Even though it's a tech project, the content must be accessible
 
 ---
 
-## Posizionamento
+## Positioning
 
-### Cosa NON e'
-- Non e' un SaaS (nessun abbonamento)
-- Non e' un prompt singolo (e' un sistema completo)
-- Non e' un sostituto del social media manager
-- Non e' limitato a un brand (e' multi-brand)
+### What It's NOT
+- Not a SaaS (no subscription)
+- Not a single prompt (it's a complete system)
+- Not a replacement for a social media manager
+- Not limited to one brand (it's multi-brand)
 
-### Cosa E'
-- Un framework di knowledge engineering per il content
-- Un sistema che codifica le strategie dei migliori creator al mondo
-- Un progetto open-source che chiunque puo' usare e contribuire
-- La dimostrazione che struttura > improvvisazione nella content creation
+### What It IS
+- A knowledge engineering framework for content
+- A system that codifies the strategies of the world's best creators
+- An open-source project anyone can use and contribute to
+- Proof that structure > improvisation in content creation
 
-### One-liner per ogni contesto
+### One-liner for Each Context
 
-| Contesto | One-liner |
-|----------|-----------|
-| **GitHub README** | "Framework open-source per generare contenuti social con Claude Code. 60+ esperti, 14 template, 4 skill automatizzate" |
-| **LinkedIn** | "Ho costruito un social media manager che non e' un SaaS. E' un framework open-source dentro Claude Code" |
-| **Elevator pitch** | "Le strategie di 60 esperti mondiali di content, codificate in un framework che chiunque puo' usare gratis" |
+| Context | One-liner |
+|---------|-----------|
+| **GitHub README** | "Open-source framework for generating social content with Claude Code. 60+ experts, 14 templates, 5 automated skills" |
+| **LinkedIn** | "I built a social media manager that's not a SaaS. It's an open-source framework inside Claude Code" |
+| **Elevator pitch** | "The strategies of 60 world-class content experts, codified into a framework anyone can use for free" |
 
 ---
 
-## Checklist Pre-Pubblicazione
+## Pre-Publication Checklist
 
-- [ ] **Il contenuto mostra il sistema** (non lo vende)?
-- [ ] **I numeri sono specifici** (60 esperti, 14 template, 4 skill)?
-- [ ] **Il tono e' tech-savvy ma accessibile**?
-- [ ] **Zero hype e buzzword**?
-- [ ] **Il messaggio "framework > prompt" e' implicito o esplicito**?
-- [ ] **Ammette limiti dove appropriato**?
-- [ ] **Nessun link nel body** (LinkedIn)?
+- [ ] **Does the content show the system** (not sell it)?
+- [ ] **Are the numbers specific** (60 experts, 14 templates, 5 skills)?
+- [ ] **Is the tone tech-savvy but accessible**?
+- [ ] **Zero hype and buzzwords**?
+- [ ] **Is the "framework > prompt" message implicit or explicit**?
+- [ ] **Are limitations acknowledged where appropriate**?
+- [ ] **No links in the body** (LinkedIn)?

@@ -1,89 +1,99 @@
 # AI Social Media Manager
 
-## Cos'e' questo progetto
+## What is this project
 
-Framework riutilizzabile per generazione contenuti social. Supporta piu' brand contemporaneamente con knowledge base, esperti e framework condivisi.
+Reusable framework for social content generation. Supports multiple brands simultaneously with shared knowledge base, experts, and frameworks.
 
-**Brand di esempio committato**: `ai-social-media-manager` — il progetto stesso, usato come demo del sistema multi-brand.
+**Committed demo brand**: `ai-social-media-manager` — the project itself, used as a demo of the multi-brand system.
 
-**Brand privato (non committato)**: `mastrohr` — startup HR-tech italiana (in `.gitignore`).
+**Private brand (not committed)**: `mastrohr` — Italian HR-tech startup (in `.gitignore`).
 
-## Regola fondamentale
+## Core rule
 
-**Prima di generare QUALSIASI contenuto** (post, video, testo), leggi SEMPRE dal brand attivo:
-1. `brands/[brand]/brand-voice.md` — voce e identita'
-2. `brands/[brand]/tono-infotainment.md` — tono e stile
-3. `brands/[brand]/audience-personas.md` — le personas target
+**Before generating ANY content** (post, video, carousel, text), ALWAYS read from the active brand:
+1. `brands/[brand]/brand-voice.md` — voice and identity
+2. `brands/[brand]/tone-guide.md` (or `tono-infotainment.md` for legacy brands) — tone and style
+3. `brands/[brand]/audience-personas.md` — target personas
 
-Questi 3 file sono il DNA di ogni contenuto del brand.
+These 3 files are the DNA of every piece of brand content.
 
-## Skills disponibili
+## Available skills
 
-- `/linkedin-post [topic]` — genera un post LinkedIn completo per il brand attivo
-- `/video-script [topic]` — genera uno script video completo (Reels/TikTok/YouTube)
-- `/content-ideas [tema] [--trending]` — cerca e suggerisce idee per contenuti analizzando il mercato
-- `/create-brand [nome-brand]` — crea la configurazione completa per un nuovo brand (da repo, slide, documenti o intervista guidata; competitor ricercati in automatico)
+- `/linkedin-post [topic]` — generate a complete LinkedIn post for the active brand
+- `/video-script [topic]` — generate a complete video script (Reels/TikTok/YouTube)
+- `/carousel [topic]` — generate a LinkedIn carousel (PDF document post) for the active brand
+- `/content-ideas [topic] [--trending]` — find and suggest content ideas by analyzing the market
+- `/create-brand [brand-name]` — create the complete configuration for a new brand (from repo, slides, documents, or guided interview; competitors researched automatically)
 
-## Lingua
+## Language
 
-**Solo italiano.** Termini tecnici inglesi dove naturale nel settore.
+**Documentation, frameworks, skills, and expert profiles** are always in English.
 
-## Regole chiave
+**Brand content** (posts, videos, carousels) is generated in the user's language:
+- Default language: English
+- If the user speaks a different language, ask for confirmation before switching: "I notice you're speaking [language]. Should I generate brand content in [language]?"
+- If the brand's `brand-voice.md` has a `Language:` field, use that without asking
+- Technical terms (hook, dwell time, engagement, CTA) remain in English regardless of language
 
-1. **L'eroe e' il cliente**, mai il brand. Il brand emerge come soluzione naturale
-2. **65% dei contenuti** non nomina il brand. Solo 10% e' vendita diretta
-3. **Ironia sulla situazione**, mai sulla persona
-4. **Numeri specifici** > affermazioni generiche
-5. **Zero fuffa**: niente buzzword vuoti, niente promesse esagerate
-6. **Mai dire "sostituisce"**: il brand libera, potenzia, supporta
+## Key rules
 
-## Mappa del progetto
+1. **The hero is the customer**, never the brand. The brand emerges as a natural solution
+2. **65% of content** doesn't name the brand. Only 10% is direct selling
+3. **Humor about the situation**, never about the person
+4. **Specific numbers** > generic claims
+5. **Zero fluff**: no empty buzzwords, no exaggerated promises
+6. **Never say "replaces"**: the brand frees, empowers, supports
+
+## Project map
 
 ```
-framework/                         # GENERICO — riutilizzabile per tutti i brand
-  content-frameworks.md            # Template L1-L8 (LinkedIn) + V1-V6 (Video) + S1-S3
-  linkedin-playbook.md             # Regole LinkedIn
-  video-playbook.md                # Specifiche video
+framework/                         # GENERIC — reusable for all brands
+  content-frameworks.md            # Templates L1-L8 (LinkedIn) + V1-V6 (Video) + S1-S3
+  linkedin-playbook.md             # LinkedIn rules
+  video-playbook.md                # Video specs
 
-experts/                           # GENERICO — 60 profili con esempi universali
-  linkedin/                        # 6 esperti (Welsh, Acosta, Alic, van der Blom, Turner, Queen)
+experts/                           # GENERIC — 60 profiles with universal examples
+  linkedin/                        # 6 experts (Welsh, Acosta, Alic, van der Blom, Turner, Queen)
   social-media/
-    internazionali/                # 18 esperti (Vaynerchuk, Godin, Miller, etc.)
-    italiani/                      # 11 esperti (Montemagno, Diegoli, Gentili, etc.)
+    international/                 # 18 experts (Vaynerchuk, Godin, Miller, etc.)
+    italian/                       # 11 experts (Montemagno, Diegoli, Gentili, etc.)
   youtube/
-    internazionali/                # 15 esperti (MrBeast, Ali Abdaal, etc.)
-    italiani/                      # 10 esperti (Ascani, Bottoni, Taverniti, etc.)
+    international/                 # 15 experts (MrBeast, Ali Abdaal, etc.)
+    italian/                       # 10 experts (Ascani, Bottoni, Taverniti, etc.)
 
-brands/                            # SPECIFICO — un brand per directory
-  ai-social-media-manager/         # Brand di esempio (committato)
-    brand-voice.md                 # Voce e identita'
+brands/                            # SPECIFIC — one brand per directory
+  ai-social-media-manager/         # Demo brand (committed)
+    brand-voice.md                 # Voice and identity
     audience-personas.md           # Alex, Sara, Marco
-    tono-infotainment.md           # Guida al tono
-    content-pillars.md             # 4 pillar, calendario editoriale
-    framework-examples.md          # Esempi di contenuti generati
-    content-library/               # Archivio contenuti
+    tone-guide.md                  # Tone guide
+    content-pillars.md             # 4 pillars, editorial calendar
+    framework-examples.md          # Generated content examples
+    content-library/               # Content archive
 
 .claude/skills/
   linkedin-post/SKILL.md           # /linkedin-post
   video-script/SKILL.md            # /video-script
+  carousel/SKILL.md                # /carousel
   content-ideas/SKILL.md           # /content-ideas
   create-brand/SKILL.md            # /create-brand
 ```
 
-### Personas
-- **Francesca** — HR Director PMI (100-500 dip.), sommersa di CV, vuole fare strategia
-- **Marco** — CEO Startup (20-100 dip.), fa recruiting da solo, vuole velocita'
-- **Sara** — TA Specialist (200-1000 dip.), 30 ruoli aperti, vuole tool migliori
+### Mastrohr Brand (private — Italian)
+The Mastrohr brand is an Italian HR-tech startup. All its files are in Italian and should NOT be translated. Key context:
 
-### Content Pillar
-1. **Futuro dell'HR** (TOFU) — trend AI, dati, normative
-2. **Selezione che Funziona** (MOFU) — best practice, errori, how-to
-3. **L'HR nel Caos** (MOFU) — situazioni quotidiane, ironia, infotainment
-5. **Dietro le Quinte** (BRAND) — fondatori, startup, team
+**Personas**:
+- **Francesca** — HR Director, SME (100-500 employees), drowning in CVs, wants to do strategy
+- **Marco** — Startup CEO (20-100 employees), does recruiting alone, wants speed
+- **Sara** — TA Specialist (200-1000 employees), 30 open roles, wants better tools
 
-### Tono
-**Infotainment**: autorevole + ironico + empatico + pungente. L'HR ride E impara.
+**Content Pillars**:
+1. **Future of HR** (TOFU) — AI trends, data, regulations
+2. **Hiring That Works** (MOFU) — best practices, mistakes, how-to
+3. **HR in Chaos** (MOFU) — daily situations, humor, infotainment
+4. **Behind the Scenes** (BRAND) — founders, startup, team
 
-### Fondatori
-- **Marta Della Valle** — speaker principale video, tono diretto ed empatico
-- **Michele Pavone** — speaker tecnico, spiega AI in modo accessibile
+**Tone**: Infotainment — authoritative + ironic + empathetic + edgy. HR laughs AND learns.
+
+**Founders**:
+- **Marta Della Valle** — main video speaker, direct and empathetic tone
+- **Michele Pavone** — tech speaker, explains AI accessibly

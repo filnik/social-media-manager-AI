@@ -1,85 +1,85 @@
 # Content Pillars — AI Social Media Manager
 
-## I 4 Pillar
+## The 4 Pillars
 
 ### 1. Framework > Prompt (TOFU — Awareness)
-**Obiettivo**: Far capire perche' un sistema strutturato batte i prompt singoli per la content creation.
+**Goal**: Help people understand why a structured system beats single prompts for content creation.
 
-**Temi**:
-- Differenza tra prompt e framework
-- Perche' l'output AI e' generico (e come risolverlo)
-- Knowledge engineering applicata al content
-- Come funzionano i sistemi di knowledge per l'AI
+**Topics**:
+- The difference between a prompt and a framework
+- Why AI output is generic (and how to fix it)
+- Knowledge engineering applied to content
+- How knowledge systems for AI work
 
-**Formati migliori**: Post LinkedIn riflessivi, thread X, carousel "prima/dopo"
+**Best formats**: Reflective LinkedIn posts, X threads, "before/after" carousels
 
-**Esempio**: "Ho smesso di scrivere prompt. Ho iniziato a costruire sistemi. Ecco perche'."
-
----
-
-### 2. 60 Esperti in un Repo (MOFU — Consideration)
-**Obiettivo**: Mostrare il valore concreto del framework — le strategie dei migliori creator codificate e utilizzabili.
-
-**Temi**:
-- Profili degli esperti e cosa insegnano
-- Framework specifici (Jab/Hook di Vaynerchuk, StoryBrand di Miller, Hook/Re-hook di Alic)
-- Come il sistema combina strategie diverse
-- "Cosa farebbe [esperto] con questo topic?"
-
-**Formati migliori**: Carousel (1 esperto per slide), post "TIL" (Today I Learned), video brevi
-
-**Esempio**: "MrBeast insegna retention. Vaynerchuk insegna distribuzione. Godin insegna posizionamento. Il framework li combina tutti."
+**Example**: "I stopped writing prompts. I started building systems. Here's why."
 
 ---
 
-### 3. Come Funziona (MOFU — How-to)
-**Obiettivo**: Tutorial pratici su come usare il framework.
+### 2. 60 Experts in a Repo (MOFU — Consideration)
+**Goal**: Show the framework's concrete value — the strategies of top creators, codified and ready to use.
 
-**Temi**:
-- Quick start: clona → configura → genera
-- Come funziona /create-brand
-- Come funziona /linkedin-post
-- Come personalizzare il tono
-- Come aggiungere un nuovo brand
-- Tips e trucchi
+**Topics**:
+- Expert profiles and what they teach
+- Specific frameworks (Vaynerchuk's Jab/Hook, Miller's StoryBrand, Alic's Hook/Re-hook)
+- How the system combines different strategies
+- "What would [expert] do with this topic?"
 
-**Formati migliori**: Carousel how-to, video screencast, thread passo-passo
+**Best formats**: Carousels (1 expert per slide), "TIL" (Today I Learned) posts, short videos
 
-**Esempio**: "Setup in 3 step: 1. git clone 2. /create-brand 'il-tuo-brand' 3. /linkedin-post 'il-tuo-topic'. Fine."
+**Example**: "MrBeast teaches retention. Vaynerchuk teaches distribution. Godin teaches positioning. The framework combines them all."
 
 ---
 
-### 4. Dietro le Quinte (BRAND — Behind the scenes)
-**Obiettivo**: Raccontare la storia della costruzione del framework — perche', come, le sfide.
+### 3. How It Works (MOFU — How-to)
+**Goal**: Practical tutorials on how to use the framework.
 
-**Temi**:
-- Perche' ho costruito il progetto
-- Le scelte architetturali (perche' multi-brand, perche' file .md)
-- Cosa ho imparato studiando 60 esperti
-- Le sfide: cosa non ha funzionato
-- La community e i contributi
+**Topics**:
+- Quick start: clone -> configure -> generate
+- How /create-brand works
+- How /linkedin-post works
+- How to customize the tone
+- How to add a new brand
+- Tips and tricks
 
-**Formati migliori**: Post storytelling LinkedIn, video vlog-style
+**Best formats**: How-to carousels, screencast videos, step-by-step threads
 
-**Esempio**: "Ho passato settimane a leggere tutto su 60 content creator. Ecco la cosa che mi ha sorpreso di piu'."
+**Example**: "Setup in 3 steps: 1. git clone 2. /create-brand 'your-brand' 3. /linkedin-post 'your-topic'. Done."
 
 ---
 
-## Calendario Editoriale Tipo
+### 4. Behind the Scenes (BRAND — Behind the scenes)
+**Goal**: Tell the story of building the framework — why, how, the challenges.
 
-| Giorno | Pillar | Formato |
-|--------|--------|---------|
-| Lunedi' | Framework > Prompt | Post LinkedIn riflessivo |
-| Martedi' | 60 Esperti | Carousel (framework di un esperto) |
-| Mercoledi' | Come Funziona | Tutorial / how-to |
-| Giovedi' | Dietro le Quinte | Post storytelling |
-| Venerdi' | Mix / Community | Risposta a domande, highlight contributi |
+**Topics**:
+- Why I built the project
+- Architectural decisions (why multi-brand, why .md files)
+- What I learned studying 60 experts
+- The challenges: what didn't work
+- The community and contributions
 
-## Distribuzione per Pillar
+**Best formats**: LinkedIn storytelling posts, vlog-style videos
 
-| Pillar | % | Obiettivo |
-|--------|---|-----------|
-| Framework > Prompt | 30% | Awareness, posizionamento |
-| 60 Esperti | 25% | Valore, credibilita' |
-| Come Funziona | 25% | Conversione (download/clone) |
-| Dietro le Quinte | 20% | Connessione, community |
+**Example**: "I spent weeks reading everything about 60 content creators. Here's the thing that surprised me the most."
+
+---
+
+## Sample Editorial Calendar
+
+| Day | Pillar | Format |
+|-----|--------|--------|
+| Monday | Framework > Prompt | Reflective LinkedIn post |
+| Tuesday | 60 Experts | Carousel (one expert's framework) |
+| Wednesday | How It Works | Tutorial / how-to |
+| Thursday | Behind the Scenes | Storytelling post |
+| Friday | Mix / Community | Q&A responses, contribution highlights |
+
+## Distribution by Pillar
+
+| Pillar | % | Goal |
+|--------|---|------|
+| Framework > Prompt | 30% | Awareness, positioning |
+| 60 Experts | 25% | Value, credibility |
+| How It Works | 25% | Conversion (download/clone) |
+| Behind the Scenes | 20% | Connection, community |

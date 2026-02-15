@@ -1,290 +1,286 @@
 # Jasmin Alic
 
-## Profilo
+## Profile
 
-### Chi e'
-Jasmin Alic (Jasmin Alić) e' uno dei copywriter piu' influenti su LinkedIn a livello mondiale. Specializzato in hook writing e copywriting persuasivo, ha lavorato come ghostwriter per Fortune 500 e ha costruito un seguito di centinaia di migliaia di persone su LinkedIn grazie alla sua capacita' di scrivere post che catturano l'attenzione nei primi 3 secondi. Basato in Europa.
+### Who He Is
+Jasmin Alic (Jasmin Alic) is one of the most influential copywriters on LinkedIn worldwide. Specializing in hook writing and persuasive copywriting, he has worked as a ghostwriter for Fortune 500 executives and built a following of hundreds of thousands on LinkedIn thanks to his ability to write posts that capture attention in the first 3 seconds. Based in Europe.
 
-### Background e carriera
-- **Inizio**: Background nel copywriting e content writing, con esperienza come ghostwriter per dirigenti di Fortune 500
-- **LinkedIn**: Crescita esplosiva grazie a post sulla scrittura persuasiva che dimostrano in tempo reale le tecniche che insegna
-- **Hey Jay**: Fonda la sua agenzia di copywriting e formazione, offrendo corsi, risorse gratuite e servizi per professionisti e brand
-- **The Futur**: Collabora regolarmente con The Futur (Chris Do) come esperto di LinkedIn copywriting
-- **Approccio**: "Show, don't tell" applicato al copywriting — ogni post e' sia un insegnamento che una dimostrazione pratica
+### Background and Career
+- **Start**: Background in copywriting and content writing, with experience as a ghostwriter for Fortune 500 executives
+- **LinkedIn**: Explosive growth through posts on persuasive writing that demonstrate in real time the techniques he teaches
+- **Hey Jay**: Founded his copywriting and training agency, offering courses, free resources, and services for professionals and brands
+- **The Futur**: Regularly collaborates with The Futur (Chris Do) as a LinkedIn copywriting expert
+- **Approach**: "Show, don't tell" applied to copywriting — every post is both a lesson and a practical demonstration
 
-### Credenziali e riconoscimenti
-- **Fortune 500 ghostwriter**: Ha scritto per dirigenti di grandi corporation
-- **Top LinkedIn creator** nella categoria copywriting/writing
-- **Collaborazione con The Futur**: Apparizioni regolari come esperto
-- **Risorse gratuite scaricate**: Decine di migliaia di download (27 LinkedIn Writing Tips, Carousel Cheatsheet, etc.)
-- **Milioni di impressioni** mensili su LinkedIn
+### Credentials and Recognition
+- **Fortune 500 ghostwriter**: Has written for executives at major corporations
+- **Top LinkedIn creator** in the copywriting/writing category
+- **Collaboration with The Futur**: Regular appearances as an expert
+- **Free resources downloaded**: Tens of thousands of downloads (27 LinkedIn Writing Tips, Carousel Cheatsheet, etc.)
+- **Millions of impressions** monthly on LinkedIn
 
-### Numeri chiave
-| Metrica | Dato |
-|---------|------|
-| Follower LinkedIn | 200.000+ |
+### Key Numbers
+| Metric | Figure |
+|--------|--------|
+| LinkedIn followers | 200,000+ |
 | Background | Fortune 500 ghostwriter |
-| Risorse gratuite | 10+ framework scaricabili |
-| Impressioni mensili | Milioni |
+| Free resources | 10+ downloadable frameworks |
+| Monthly impressions | Millions |
 
 ---
 
-## Filosofia Core
+## Core Philosophy
 
-### I 5 principi fondamentali
+### The 5 Fundamental Principles
 
-**1. "The hook gets you in the room. The re-hook slams the door" — Il hook ti fa entrare, il re-hook chiude la porta**
-Su LinkedIn, hai 3 righe visibili prima del "vedi altro". L'hook (prima riga) cattura l'attenzione. Il re-hook (seconda/terza riga) elimina qualsiasi ragione per scrollare via. Insieme, decidono se il post viene letto o ignorato.
+**1. "The hook gets you in the room. The re-hook slams the door"**
+On LinkedIn, you have 3 visible lines before "see more." The hook (first line) captures attention. The re-hook (second/third line) eliminates any reason to scroll away. Together, they decide whether the post gets read or ignored.
 
-**2. "Write your last line first" — Scrivi l'ultima riga per prima**
-La frase piu' potente di un post e' spesso l'ultima. Ma la maggior parte delle persone la spreca. Il trucco: scrivi PRIMA la conclusione, poi costruisci il post che porta a quella conclusione. Questo inverte il processo creativo e rende ogni post piu' incisivo.
+**2. "Write your last line first"**
+The most powerful line in a post is often the last one. But most people waste it. The trick: write the conclusion FIRST, then build the post that leads to that conclusion. This reverses the creative process and makes every post more impactful.
 
-**3. "Position your thoughts as facts" — Posiziona i tuoi pensieri come fatti**
-Non scrivere "penso che forse il keyword matching non funzioni bene". Scrivi "il keyword matching non funziona". La sicurezza nella scrittura trasmette autorita'. Le persone seguono chi ha opinioni forti, non chi ha dubbi.
+**3. "Position your thoughts as facts"**
+Don't write "I think maybe keyword matching doesn't work well." Write "keyword matching doesn't work." Confidence in writing conveys authority. People follow those with strong opinions, not those with doubts.
 
-**4. "One idea, one post" — Un'idea, un post**
-Ogni post deve avere UN solo messaggio chiaro. Non tre insight, non cinque lezioni. Uno. Se hai 5 idee, hai 5 post. La chiarezza e' il prerequisito della viralita'.
+**4. "One idea, one post"**
+Every post must have ONE clear message. Not three insights, not five lessons. One. If you have 5 ideas, you have 5 posts. Clarity is the prerequisite for virality.
 
-**5. "Signposting > Bragging" — Segnalare > Vantarsi**
-Non dire "sono un esperto di X". Dimostralo attraverso il contenuto. Il "signposting" e' l'arte di far emergere la tua competenza in modo naturale, attraverso le storie che racconti e i framework che condividi, senza mai doverti auto-proclamare esperto.
+**5. "Signposting > Bragging"**
+Don't say "I'm an expert in X." Prove it through your content. "Signposting" is the art of letting your expertise emerge naturally, through the stories you tell and the frameworks you share, without ever having to proclaim yourself an expert.
 
-### Come si differenzia dagli altri
-- **Copywriter puro**: mentre altri insegnano "LinkedIn strategy", Alic insegna COME SCRIVERE — la skill fondamentale
-- **Show don't tell incarnato**: ogni suo post e' una dimostrazione pratica della tecnica che insegna
-- **Hook obsessed**: nessuno ha studiato e sistematizzato gli hook LinkedIn come lui
-- **Risorse gratuite eccezionali**: condivide framework dettagliati gratuitamente (PDF, cheatsheet, guide)
-- **Cross-platform applicabile**: le sue tecniche di copywriting funzionano su qualsiasi piattaforma, non solo LinkedIn
+### How He Differs from Others
+- **Pure copywriter**: while others teach "LinkedIn strategy," Alic teaches HOW TO WRITE — the foundational skill
+- **Show don't tell embodied**: every one of his posts is a practical demonstration of the technique he teaches
+- **Hook obsessed**: no one has studied and systematized LinkedIn hooks like him
+- **Exceptional free resources**: shares detailed frameworks for free (PDFs, cheatsheets, guides)
+- **Cross-platform applicable**: his copywriting techniques work on any platform, not just LinkedIn
 
 ---
 
-## Framework e Metodologie
+## Frameworks and Methodologies
 
-### 1. L'Hook Framework — Le 3 Righe che Decidono Tutto
+### 1. The Hook Framework — The 3 Lines That Decide Everything
 
-**Il contesto**: Su LinkedIn, il feed mostra solo le prime 3 righe di un post. Se quelle 3 righe non catturano, il post muore. L'hook e' la skill #1 su LinkedIn.
+**The context**: On LinkedIn, the feed only shows the first 3 lines of a post. If those 3 lines don't capture attention, the post dies. The hook is the #1 skill on LinkedIn.
 
-**Riga 1 — L'Hook (cattura l'attenzione)**
+**Line 1 — The Hook (captures attention)**
 
-Tipi di hook che funzionano:
+Types of hooks that work:
 
-| Tipo | Formula | Esempio |
+| Type | Formula | Example |
 |------|---------|---------|
-| **Bold statement** | [Affermazione forte e chiara] | "Il keyword matching e' morto." |
-| **Number hook** | [Numero] + [risultato sorprendente] | "200 CV. 3 ore. Zero candidati persi." |
-| **Question hook** | [Domanda che il target non puo' ignorare] | "Quanto tempo sprechi ogni settimana sullo screening?" |
-| **Contrarian hook** | [Opinione che va contro il consenso] | "L'ATS non ha migliorato il recruiting." |
-| **Curiosity gap** | [Informazione parziale che crea curiosita'] | "Ho scoperto perche' il 73% dei recruiter sbaglia lo screening." |
-| **Story hook** | [Inizio di una storia in medias res] | "Erano le 18:30 di venerdi'. 200 CV. Zero shortlist." |
+| **Bold statement** | [Strong, clear statement] | "Keyword matching is dead." |
+| **Number hook** | [Number] + [surprising result] | "200 resumes. 3 hours. Zero candidates lost." |
+| **Question hook** | [Question the target can't ignore] | "How much time do you waste every week on screening?" |
+| **Contrarian hook** | [Opinion against the consensus] | "ATS hasn't improved recruiting." |
+| **Curiosity gap** | [Partial information that creates curiosity] | "I discovered why 73% of recruiters get screening wrong." |
+| **Story hook** | [Start of a story in medias res] | "It was 6:30 PM on a Friday. 200 resumes. Zero shortlist." |
 
-**Regole dell'hook:**
-- UNA riga. Mai due
-- Breve. Max 10-12 parole
-- Specifica. No generalita'
-- Testa forte. Niente "forse", "penso", "potrebbe"
+**Hook rules:**
+- ONE line. Never two
+- Short. Max 10-12 words
+- Specific. No generalities
+- Strong stance. No "maybe," "I think," "could be"
 
-**Riga 2 — Lo Spazio Bianco**
-- Dopo l'hook, riga vuota
-- Crea pausa visiva
-- L'occhio "cade" nella riga successiva
-- E' un trucco visivo ma funziona
+**Line 2 — White Space**
+- After the hook, blank line
+- Creates a visual pause
+- The eye "falls" into the next line
+- It's a visual trick but it works
 
-**Riga 3 — Il Re-Hook (elimina l'obiezione allo scrolling)**
+**Line 3 — The Re-Hook (eliminates the objection to scrolling)**
 
-Il re-hook risponde alla domanda inconscia del lettore: "Perche' dovrei continuare a leggere?"
+The re-hook answers the reader's unconscious question: "Why should I keep reading?"
 
-| Tipo | Formula | Esempio |
+| Type | Formula | Example |
 |------|---------|---------|
-| **Promise re-hook** | "Ecco [cosa otterrai]" | "Ecco i 5 errori che nessuno ti dice." |
-| **Credibility re-hook** | "[Prova che sai di cosa parli]" | "L'ho imparato dopo 10.000 screening." |
-| **Stakes re-hook** | "[Cosa perdi se non leggi]" | "Se non lo correggi, perdi candidati ogni giorno." |
-| **Teaser re-hook** | "[Preview del contenuto]" | "Il #3 mi ha sorpreso piu' di tutti." |
+| **Promise re-hook** | "Here's [what you'll get]" | "Here are the 5 mistakes nobody tells you about." |
+| **Credibility re-hook** | "[Proof you know what you're talking about]" | "I learned this after 10,000 screenings." |
+| **Stakes re-hook** | "[What you lose if you don't read]" | "If you don't fix this, you're losing candidates every day." |
+| **Teaser re-hook** | "[Preview of the content]" | "#3 surprised me the most." |
 
-> *Esempio per un brand B2B*:
-> Hook: "Il 73% dei CV viene scartato senza essere letto."
-> [spazio]
-> Re-hook: "E il candidato perfetto? Probabilmente era in quel 73%."
+> *Example for a B2B brand*:
+> Hook: "73% of resumes get discarded without being read."
+> [space]
+> Re-hook: "And the perfect candidate? Probably in that 73%."
 
 ---
 
-### 2. La Struttura del Post LinkedIn Perfetto
+### 2. The Perfect LinkedIn Post Structure
 
-**Anatomia di un post ad alto engagement:**
+**Anatomy of a high-engagement post:**
 
 ```
-[HOOK — 1 riga]
+[HOOK — 1 line]
 
-[RE-HOOK — 1-2 righe]
+[RE-HOOK — 1-2 lines]
 
-[BODY — il valore del post]
-- Usa frasi brevi
-- Una idea per riga
-- Spazio bianco tra i concetti
-- Liste quando possibile
-- Numeri specifici > affermazioni generiche
+[BODY — the post's value]
+- Use short sentences
+- One idea per line
+- White space between concepts
+- Lists when possible
+- Specific numbers > generic statements
 
-[POWER CLOSE — la frase finale memorabile]
+[POWER CLOSE — the memorable closing line]
 
-[CTA — la domanda o l'azione]
+[CTA — the question or action]
 ```
 
-**Il Power Close:**
-- L'ultima frase del post deve essere memorabile, quotabile, condivisibile
-- E' la frase che il lettore porta con se'
-- Spesso e' la frase da scrivere PRIMA di tutto il resto
+**The Power Close:**
+- The last line of the post must be memorable, quotable, shareable
+- It's the line the reader takes with them
+- It's often the line you should write BEFORE everything else
 
-**Regola del ritmo:**
-- Frasi brevi (3-8 parole) per impatto
-- Frasi medie (8-15 parole) per spiegazione
-- Mai frasi lunghe (20+ parole) — spezzale
-- Alterna brevi e medie per creare ritmo
+**The rhythm rule:**
+- Short sentences (3-8 words) for impact
+- Medium sentences (8-15 words) for explanation
+- Never long sentences (20+ words) — break them up
+- Alternate short and medium to create rhythm
 
-> *Esempio*:
-> "200 CV." (breve — impatto)
-> "3 ore di screening." (breve — impatto)
-> "Il risultato? 5 candidati perfetti, di cui uno scartato dal keyword matching." (media — spiegazione)
-> "Il problema non e' l'HR. E' il processo." (breve — power close)
-
----
-
-### 3. Il "Signposting" — Mostrare Competenza Senza Vantarsi
-
-**Il problema**: Come dimostrare che sei un esperto senza dire "sono un esperto" (che non funziona)?
-
-**La soluzione — Signposting**: Inserisci "segnali" di competenza nel contenuto in modo naturale.
-
-**Tecniche di signposting:**
-
-| Tecnica | Come funziona | Esempio |
-|---------|---------------|---------|
-| **L'esperienza contestuale** | Inserisci l'esperienza nel contesto della storia | "Dopo aver analizzato 10.000 CV nel nostro primo anno..." |
-| **Il dato proprietario** | Condividi dati che solo un esperto avrebbe | "Il 43% dei CV che analizziamo contiene la parola 'team player'." |
-| **Il framework originale** | Insegna un framework tuo, non generico | "Il metodo che usiamo internamente e' in 3 step..." |
-| **La correzione gentile** | Correggi un errore comune del settore | "Molti pensano che l'AI sostituisca l'HR. In realta'..." |
-| **Il retroscena** | Condividi il "dietro le quinte" | "Quando abbiamo costruito il nostro sistema, il primo errore e' stato..." |
-
-> *Esempio*: Invece di "Siamo esperti di [settore]", scrivi "La settimana scorsa abbiamo analizzato 500 CV per un'azienda di 80 dipendenti. Il risultato? 7 candidati perfetti in 3 ore. Uno era stato scartato dal loro ATS." — Signposting: dimostri competenza senza dirlo.
+> *Example*:
+> "200 resumes." (short — impact)
+> "3 hours of screening." (short — impact)
+> "The result? 5 perfect candidates, one of them discarded by keyword matching." (medium — explanation)
+> "The problem isn't HR. It's the process." (short — power close)
 
 ---
 
-### 4. Strategie LinkedIn 2025 di Alic
+### 3. "Signposting" — Showing Expertise Without Bragging
 
-**Cosa funziona nel 2025 su LinkedIn (secondo la ricerca di Alic):**
+**The problem**: How do you demonstrate you're an expert without saying "I'm an expert" (which doesn't work)?
 
-1. **Il testo batte l'immagine**: I post solo testo spesso superano i post con immagine in termini di reach
-2. **Il video sta crescendo**: LinkedIn sta spingendo il video, ma il testo rimane re per l'engagement
-3. **Hook + Re-hook e' non-negoziabile**: Le prime 3 righe decidono tutto, piu' che mai
-4. **Commenti > Like**: L'algoritmo 2025 premia i commenti (conversazioni) piu' dei like passivi
-5. **Consistenza > Viralita'**: 3-5 post/settimana costanti battono 1 post virale al mese
-6. **Il "dwell time" conta**: Quanto tempo le persone passano a leggere il post e' un segnale per l'algoritmo
+**The solution — Signposting**: Insert "signals" of expertise into content naturally.
 
----
+**Signposting techniques:**
 
-## Come Applicare al Tuo Brand
+| Technique | How it works | Example |
+|-----------|-------------|---------|
+| **Contextual experience** | Insert your experience within the story's context | "After analyzing 10,000 resumes in our first year..." |
+| **Proprietary data** | Share data that only an expert would have | "43% of the resumes we analyze contain the phrase 'team player.'" |
+| **Original framework** | Teach a framework that's yours, not generic | "The method we use internally has 3 steps..." |
+| **Gentle correction** | Correct a common industry misconception | "Many think AI replaces HR. In reality..." |
+| **Behind the scenes** | Share the "behind the scenes" | "When we built our system, the first mistake was..." |
 
-### 1. Hook irresistibili per ogni post
-
-Ogni post del tuo brand deve avere un hook studiato:
-- Mai iniziare con "Siamo lieti di annunciare..."
-- Mai iniziare con "In [il tuo brand], crediamo..."
-- Sempre iniziare con: un dato, una domanda, una storia, un'opinione forte
-
-**Template di hook per brand B2B:**
-- "[Numero] [target] [azione sorprendente]. Ecco perche'."
-- "Ho [azione] [numero] volte. Il risultato mi ha sorpreso."
-- "[Processo comune] nel 2026? Ecco l'alternativa."
-
-### 2. Signposting per brand B2B
-
-Non vendere direttamente. Dimostra competenza attraverso:
-- Dati proprietari (dal vostro prodotto/servizio)
-- Storie di clienti reali (anonimizzate se serve)
-- Framework originali (che solo voi potete insegnare)
-- Retroscena dello sviluppo prodotto
-
-### 3. La struttura hook/re-hook per tutti i contenuti
-
-Applicare la struttura di Alic a OGNI contenuto:
-- Post LinkedIn: hook + spazio + re-hook
-- Video Reels: hook visivo nei primi 2 sec + re-hook audio nei secondi 3-5
-- Carousel: slide 1 = hook, slide 2 = re-hook/promessa
+> *Example*: Instead of "We're experts in [industry]," write "Last week we analyzed 500 resumes for an 80-person company. The result? 7 perfect candidates in 3 hours. One had been discarded by their ATS." — Signposting: you demonstrate expertise without saying it.
 
 ---
 
-## Tecniche di Hook e Viralita'
+### 4. Alic's LinkedIn Strategies for 2025
 
-### Come cattura l'attenzione su LinkedIn
+**What works on LinkedIn in 2025 (according to Alic's research):**
 
-**1. Il bold statement inaspettato**
-- Apri con un'affermazione che sembra sbagliata o esagerata
-- Il lettore deve pensare "davvero?" → clicca "vedi altro"
-- *Esempio*: "Il CV e' il peggior strumento di selezione mai inventato."
-
-**2. Il numero + il contrasto**
-- Un numero concreto che rivela un gap o un'assurdita'
-- *Esempio*: "3 settimane di screening. 200 CV. 1 assunzione. Il rapporto e' assurdo."
-
-**3. La micro-storia in 1 riga**
-- Una scena specifica che crea immediatamente un'immagine
-- *Esempio*: "Lunedi' mattina, 8:30. 200 CV sulla scrivania. Il CEO vuole i nomi per venerdi'."
-
-**4. L'anti-consiglio**
-- "Smetti di fare X" o "Non fare mai X"
-- Genera curiosita': "perche' no?"
-- *Esempio*: "Smetti di cercare il candidato perfetto. Non esiste."
-
-### Pattern ricorrenti
-1. **Hook boldissimo → Spiegazione razionale → Framework**: "X e' morto → ecco perche' → ecco l'alternativa"
-2. **Numero shock → Contesto → Soluzione**: "73% → ecco cosa significa → ecco come risolvere"
-3. **Errore comune → Correzione → Nuovo approccio**: "Tutti fanno X → e' sbagliato → prova Y"
+1. **Text beats images**: Text-only posts often outperform image posts in terms of reach
+2. **Video is growing**: LinkedIn is pushing video, but text remains king for engagement
+3. **Hook + re-hook is non-negotiable**: The first 3 lines decide everything, more than ever
+4. **Comments > Likes**: The 2025 algorithm rewards comments (conversations) more than passive likes
+5. **Consistency > Virality**: 3-5 consistent posts/week beat 1 viral post per month
+6. **Dwell time matters**: How long people spend reading the post is a signal for the algorithm
 
 ---
 
-## Citazioni e Concetti Memorabili
+## How to Apply to Your Brand
 
-### Sulla scrittura
+### 1. Irresistible hooks for every post
+
+Every post from your brand must have a studied hook:
+- Never start with "We're delighted to announce..."
+- Never start with "At [your brand], we believe..."
+- Always start with: a data point, a question, a story, a strong opinion
+
+**Hook templates for B2B brands:**
+- "[Number] [targets] [surprising action]. Here's why."
+- "I [action] [number] times. The result surprised me."
+- "[Common process] in 2026? Here's the alternative."
+
+### 2. Signposting for B2B brands
+
+Don't sell directly. Demonstrate expertise through:
+- Proprietary data (from your product/service)
+- Real client stories (anonymized if needed)
+- Original frameworks (that only you can teach)
+- Product development behind the scenes
+
+### 3. The hook/re-hook structure for all content
+
+Apply Alic's structure to EVERY piece of content:
+- LinkedIn posts: hook + space + re-hook
+- Video Reels: visual hook in the first 2 sec + audio re-hook in seconds 3-5
+- Carousels: slide 1 = hook, slide 2 = re-hook/promise
+
+---
+
+## Hook and Virality Techniques
+
+### How He Captures Attention on LinkedIn
+
+**1. The unexpected bold statement**
+- Open with a statement that seems wrong or exaggerated
+- The reader must think "really?" — clicks "see more"
+- *Example*: "The resume is the worst selection tool ever invented."
+
+**2. The number + contrast**
+- A concrete number that reveals a gap or an absurdity
+- *Example*: "3 weeks of screening. 200 resumes. 1 hire. The ratio is absurd."
+
+**3. The micro-story in 1 line**
+- A specific scene that immediately creates an image
+- *Example*: "Monday morning, 8:30. 200 resumes on the desk. The CEO wants names by Friday."
+
+**4. The anti-advice**
+- "Stop doing X" or "Never do X"
+- Generates curiosity: "why not?"
+- *Example*: "Stop looking for the perfect candidate. They don't exist."
+
+### Recurring Patterns
+1. **Bold hook — Rational explanation — Framework**: "X is dead — here's why — here's the alternative"
+2. **Shock number — Context — Solution**: "73% — here's what it means — here's how to fix it"
+3. **Common mistake — Correction — New approach**: "Everyone does X — it's wrong — try Y"
+
+---
+
+## Memorable Quotes and Concepts
+
+### On Writing
 > **"The hook gets you in the room. The re-hook slams the door behind you."**
-> L'hook ti fa entrare nella stanza. Il re-hook chiude la porta dietro di te.
 
 > **"Write your last line first. We leave the power statement last. But by leading with it, everything changes."**
-> Scrivi l'ultima riga per prima. Lasciamo la frase potente alla fine. Ma iniziando da li', tutto cambia.
 
-### Sull'attenzione
+### On Attention
 > **"LinkedIn only shows 3 lines. Those 3 lines need your entire value proposition."**
-> LinkedIn mostra solo 3 righe. Quelle 3 righe devono contenere tutta la tua proposta di valore.
 
 > **"Position your thoughts as facts. Confidence in writing signals authority."**
-> Posiziona i tuoi pensieri come fatti. La sicurezza nella scrittura segnala autorita'.
 
-### Concetti citabili per il tuo brand
-- "Il tuo post LinkedIn ha 3 righe per convincere qualcuno a leggere. 3. Non sprecarle con 'siamo lieti di annunciare'."
-- "Un hook forte + un contenuto mediocre batte un contenuto eccellente con un hook debole. Sempre."
-- "Il lettore non decide se il tuo post e' buono. Decide se vale la pena leggerlo. E lo decide in 2 secondi."
+### Quotable Concepts for Your Brand
+- "Your LinkedIn post has 3 lines to convince someone to read it. 3. Don't waste them with 'we're delighted to announce.'"
+- "A strong hook + mediocre content beats excellent content with a weak hook. Every time."
+- "The reader doesn't decide if your post is good. They decide if it's worth reading. And they decide in 2 seconds."
 
 ---
 
-## Risorse Principali
+## Key Resources
 
-### Sito web
+### Website
 - **Hey Jay**: https://www.hey-jay.com/
 
-### Risorse gratuite
-| Risorsa | Focus | Rilevanza per il tuo brand |
-|---------|-------|--------------------------|
-| **27 Proven LinkedIn Writing Tips** (PDF) | Tecniche di scrittura LinkedIn | **Essenziale** — applicabile subito |
-| **LinkedIn Carousel Cheatsheet** | Framework per carousel | **Utile** — per contenuti visual |
-| **Free Resources page** | Vari template e guide | **Utile** — framework scaricabili |
+### Free Resources
+| Resource | Focus | Relevance for your brand |
+|----------|-------|--------------------------|
+| **27 Proven LinkedIn Writing Tips** (PDF) | LinkedIn writing techniques | **Essential** — immediately applicable |
+| **LinkedIn Carousel Cheatsheet** | Carousel frameworks | **Useful** — for visual content |
+| **Free Resources page** | Various templates and guides | **Useful** — downloadable frameworks |
 
-### Collaborazioni
-- **The Futur** (con Chris Do): Masterclass e interviste su LinkedIn copywriting e strategie 2025
+### Collaborations
+- **The Futur** (with Chris Do): Masterclasses and interviews on LinkedIn copywriting and 2025 strategies
 
 ### Social
-- **LinkedIn**: https://www.linkedin.com/in/alicjasmin/ (200K+ follower)
+- **LinkedIn**: https://www.linkedin.com/in/alicjasmin/ (200K+ followers)
 
-### Per [il tuo brand] — risorse prioritarie
-1. **27 Proven LinkedIn Writing Tips** — Le regole fondamentali della scrittura su LinkedIn
-2. **I post di Alic su LinkedIn** — Ogni post e' una dimostrazione pratica. Studiare la struttura hook/re-hook
-3. **Le interviste su The Futur** — Approfondimenti video sulle strategie LinkedIn 2025
+### For [your brand] — Priority Resources
+1. **27 Proven LinkedIn Writing Tips** — The foundational rules of LinkedIn writing
+2. **Alic's LinkedIn posts** — Every post is a practical demonstration. Study the hook/re-hook structure
+3. **The Futur interviews** — Video deep dives on LinkedIn strategies for 2025
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Last updated: February 2026*

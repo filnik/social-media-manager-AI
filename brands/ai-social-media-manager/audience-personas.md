@@ -2,138 +2,138 @@
 
 ## Overview
 
-Il framework si rivolge a 3 personas principali. Tutti condividono un problema: creare contenuti social di qualita' richiede troppo tempo e i risultati con l'AI generica sono mediocri. Ma le motivazioni e il contesto sono diversi.
+The framework targets 3 main personas. They all share one problem: creating quality social content takes too much time and results with generic AI are mediocre. But their motivations and contexts differ.
 
-**Regola d'oro**: Se il contenuto non risuona con almeno una di queste personas, non pubblicarlo.
+**Golden rule**: If the content doesn't resonate with at least one of these personas, don't publish it.
 
 ---
 
 ## Persona 1: Alex — Developer / AI Enthusiast
 
-### Profilo
-- **Eta'**: 25-40 anni
-- **Ruolo**: Developer, AI engineer, tech lead, indie hacker
-- **Contesto**: Usa gia' Claude Code o tool AI per il lavoro quotidiano
-- **Piattaforme**: GitHub, LinkedIn, X/Twitter, Hacker News
-- **Motivazione**: Curioso di vedere come si puo' strutturare la knowledge per l'AI
+### Profile
+- **Age**: 25-40
+- **Role**: Developer, AI engineer, tech lead, indie hacker
+- **Context**: Already uses Claude Code or AI tools for daily work
+- **Platforms**: GitHub, LinkedIn, X/Twitter, Hacker News
+- **Motivation**: Curious to see how knowledge can be structured for AI
 
-### Frustrazioni
-1. **"I prompt singoli non scalano"** — Ha provato a scrivere prompt per contenuti social, ma ogni volta deve ricominciare da zero
-2. **"L'output e' sempre generico"** — ChatGPT/Claude senza contesto producono contenuti intercambiabili
-3. **"Non ho tempo per il marketing"** — Sa che dovrebbe costruire un personal brand ma il codice viene prima
-4. **"I tool di marketing costano troppo"** — Buffer, Hootsuite, Jasper... abbonamenti su abbonamenti
+### Frustrations
+1. **"Single prompts don't scale"** — Has tried writing prompts for social content, but has to start from scratch every time
+2. **"The output is always generic"** — ChatGPT/Claude without context produce interchangeable content
+3. **"I don't have time for marketing"** — Knows they should build a personal brand but code comes first
+4. **"Marketing tools cost too much"** — Buffer, Hootsuite, Jasper... subscription after subscription
 
-### Linguaggio
-- "Interessante come architettura"
-- "Quanti token consuma?"
-- "Posso contribuire?"
-- "Come gestisce il contesto?"
-- "Fork e personalizzazione?"
+### Language
+- "Interesting architecture"
+- "How many tokens does it consume?"
+- "Can I contribute?"
+- "How does it handle context?"
+- "Fork and customization?"
 
-### Cosa lo Attira
-- La struttura del progetto (architettura pulita, file organizzati)
-- Il fatto che sia open-source
-- L'idea di "knowledge engineering" applicata al content
-- La possibilita' di personalizzare ed estendere
-- I numeri specifici (60 esperti, 14 template — non "tante risorse")
+### What Attracts Them
+- The project structure (clean architecture, organized files)
+- The fact that it's open-source
+- The idea of "knowledge engineering" applied to content
+- The ability to customize and extend
+- Specific numbers (60 experts, 14 templates — not "lots of resources")
 
-### Come Raggiungerlo
-- **GitHub**: README chiaro, struttura ben documentata
-- **LinkedIn**: post tech con angle "come ho strutturato il sistema"
-- **X/Twitter**: thread tecnici sul knowledge engineering
-- **Hacker News**: se il progetto e' abbastanza interessante, lo trova da solo
+### How to Reach Them
+- **GitHub**: Clear README, well-documented structure
+- **LinkedIn**: Tech posts with a "how I built the system" angle
+- **X/Twitter**: Technical threads on knowledge engineering
+- **Hacker News**: If the project is interesting enough, they'll find it on their own
 
 ---
 
 ## Persona 2: Sara — Content Creator / Marketer
 
-### Profilo
-- **Eta'**: 28-45 anni
-- **Ruolo**: Content marketer, social media manager, freelance writer, marketing manager
-- **Contesto**: Crea contenuti ogni giorno, usa gia' AI come assistente
-- **Piattaforme**: LinkedIn (primaria), Instagram, TikTok
-- **Motivazione**: Vuole contenuti migliori in meno tempo
+### Profile
+- **Age**: 28-45
+- **Role**: Content marketer, social media manager, freelance writer, marketing manager
+- **Context**: Creates content every day, already uses AI as an assistant
+- **Platforms**: LinkedIn (primary), Instagram, TikTok
+- **Motivation**: Wants better content in less time
 
-### Frustrazioni
-1. **"L'AI scrive come un robot"** — I contenuti generati suonano tutti uguali, senza personalita'
-2. **"Passo piu' tempo a editare che a scrivere"** — L'AI genera una bozza, ma riscriverla richiede piu' tempo che scriverla da zero
-3. **"Non conosco tutte le strategie"** — Sa che MrBeast, Vaynerchuk, Godin hanno framework specifici, ma non ha tempo di studiarli tutti
-4. **"Ogni brand ha un tono diverso"** — Gestisce piu' clienti/brand e passare da uno all'altro e' faticoso
+### Frustrations
+1. **"AI writes like a robot"** — Generated content all sounds the same, with no personality
+2. **"I spend more time editing than writing"** — AI generates a draft, but rewriting it takes longer than writing from scratch
+3. **"I don't know every strategy out there"** — Knows that MrBeast, Vaynerchuk, Godin have specific frameworks, but doesn't have time to study them all
+4. **"Every brand has a different tone"** — Manages multiple clients/brands and switching between them is exhausting
 
-### Linguaggio
-- "Ma suona naturale?"
-- "Posso personalizzare il tono?"
-- "Funziona per il mio settore?"
-- "Quanto ci vuole per impostarlo?"
-- "Devo sapere programmare?"
+### Language
+- "But does it sound natural?"
+- "Can I customize the tone?"
+- "Does it work for my industry?"
+- "How long does it take to set up?"
+- "Do I need to know how to code?"
 
-### Cosa la Attira
-- La qualita' dell'output (contenuti che suonano "umani")
-- I 60+ esperti come knowledge base (non deve studiarli tutti)
-- Il sistema multi-brand (un setup, molti clienti)
-- I template pronti (L1-L8, V1-V6)
-- Il fatto che il tono si configuri una volta e poi il sistema lo mantiene
+### What Attracts Them
+- Output quality (content that sounds "human")
+- 60+ experts as a knowledge base (no need to study them all)
+- The multi-brand system (one setup, many clients)
+- Ready-made templates (L1-L8, V1-V6)
+- The fact that tone is configured once and the system maintains it
 
-### Come Raggiungerla
-- **LinkedIn**: post con prima/dopo (prompt generico vs framework)
-- **Instagram**: carousel con tips pratici dal framework
-- **Newsletter**: approfondimenti su come il sistema usa le strategie degli esperti
+### How to Reach Them
+- **LinkedIn**: Before/after posts (generic prompt vs framework)
+- **Instagram**: Carousel with practical tips from the framework
+- **Newsletter**: Deep dives on how the system uses expert strategies
 
 ---
 
 ## Persona 3: Marco — Founder / Solopreneur
 
-### Profilo
-- **Eta'**: 30-50 anni
-- **Ruolo**: Founder, CEO, solopreneur, indie maker
-- **Contesto**: Ha un prodotto/servizio e deve creare contenuti per promuoverlo
-- **Piattaforme**: LinkedIn (primaria), X/Twitter
-- **Motivazione**: Vuole personal branding e lead generation senza assumere un social media manager
+### Profile
+- **Age**: 30-50
+- **Role**: Founder, CEO, solopreneur, indie maker
+- **Context**: Has a product/service and needs to create content to promote it
+- **Platforms**: LinkedIn (primary), X/Twitter
+- **Motivation**: Wants personal branding and lead generation without hiring a social media manager
 
-### Frustrazioni
-1. **"Non sono un content creator"** — Il suo lavoro e' il prodotto, non il marketing
-2. **"Assumere un SMM costa troppo"** — Un freelance costa 1.000-3.000 euro/mese. Un'agenzia il doppio
-3. **"I contenuti AI non mi rappresentano"** — Ogni post generato "suona come ChatGPT", non come lui
-4. **"Non so da dove iniziare"** — Sa che LinkedIn funziona per il B2B ma non ha una strategia
+### Frustrations
+1. **"I'm not a content creator"** — Their job is the product, not marketing
+2. **"Hiring a SMM costs too much"** — A freelancer costs $1,000-3,000/month. An agency, double that
+3. **"AI content doesn't represent me"** — Every generated post "sounds like ChatGPT", not like them
+4. **"I don't know where to start"** — Knows LinkedIn works for B2B but doesn't have a strategy
 
-### Linguaggio
-- "Quanto tempo mi serve?"
-- "Funziona per il mio caso?"
-- "Non ho competenze tecniche"
+### Language
+- "How much time do I need?"
+- "Does it work for my use case?"
+- "I don't have technical skills"
 - "ROI?"
-- "Posso vedere un esempio?"
+- "Can I see an example?"
 
-### Cosa lo Attira
-- Il risparmio economico (gratis vs migliaia di euro/mese per un SMM)
-- Il setup guidato (/create-brand che fa le domande giuste)
-- Il fatto che una volta configurato, il sistema "conosce" il suo brand
-- Esempi concreti di output
-- La credibilita' di un sistema basato su 60+ esperti reali
+### What Attracts Them
+- The cost savings (free vs thousands of dollars/month for a SMM)
+- The guided setup (/create-brand asks the right questions)
+- The fact that once configured, the system "knows" their brand
+- Concrete output examples
+- The credibility of a system based on 60+ real experts
 
-### Come Raggiungerlo
-- **LinkedIn**: post storytelling ("ho costruito il mio social media manager")
-- **X/Twitter**: thread su "come faccio content marketing a costo zero"
-- **Community**: indie maker, startup, solopreneur community
+### How to Reach Them
+- **LinkedIn**: Storytelling posts ("I built my own social media manager")
+- **X/Twitter**: Threads on "how I do content marketing at zero cost"
+- **Community**: Indie maker, startup, solopreneur communities
 
 ---
 
-## Matrice dei Contenuti per Persona
+## Content Matrix by Persona
 
-| Tipo di contenuto | Alex (Developer) | Sara (Marketer) | Marco (Founder) |
+| Content type | Alex (Developer) | Sara (Marketer) | Marco (Founder) |
 |---|---|---|---|
-| **Post tecnico (architettura)** | ⭐⭐⭐ | ⭐ | ⭐ |
-| **Prima/dopo (output quality)** | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| **Technical post (architecture)** | ⭐⭐⭐ | ⭐ | ⭐ |
+| **Before/after (output quality)** | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
 | **Tutorial/how-to** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
-| **Storytelling (dietro le quinte)** | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
-| **Lista esperti/framework** | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
-| **Open-source / contribuire** | ⭐⭐⭐ | ⭐ | ⭐ |
-| **ROI / risparmio** | ⭐ | ⭐⭐ | ⭐⭐⭐ |
+| **Storytelling (behind the scenes)** | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
+| **Expert/framework list** | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+| **Open-source / contributing** | ⭐⭐⭐ | ⭐ | ⭐ |
+| **ROI / cost savings** | ⭐ | ⭐⭐ | ⭐⭐⭐ |
 
 ---
 
-## Distribuzione Contenuti
+## Content Distribution
 
-- **40% dei contenuti**: Sara (content creator/marketer — il core user)
-- **30% dei contenuti**: Marco (founder/solopreneur — chi ne ha piu' bisogno)
-- **20% dei contenuti**: Alex (developer — chi lo estendera')
-- **10% dei contenuti**: trasversale (tutti e 3 si riconoscono)
+- **40% of content**: Sara (content creator/marketer — the core user)
+- **30% of content**: Marco (founder/solopreneur — the one who needs it most)
+- **20% of content**: Alex (developer — the one who will extend it)
+- **10% of content**: cross-persona (all 3 can relate)

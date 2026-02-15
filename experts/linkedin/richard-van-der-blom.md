@@ -1,275 +1,272 @@
 # Richard van der Blom
 
-## Profilo
+## Profile
 
-### Chi e'
-Richard van der Blom e' il massimo esperto mondiale di dati e algoritmo LinkedIn. Fondatore di **Just Connecting**, pubblica ogni anno il **LinkedIn Algorithm Insights Report** — la ricerca piu' completa e citata al mondo sull'algoritmo LinkedIn, basata sull'analisi di oltre 1.5 milioni di post. Basato nei Paesi Bassi.
+### Who He Is
+Richard van der Blom is the world's foremost expert on LinkedIn data and algorithm. Founder of **Just Connecting**, he publishes the annual **LinkedIn Algorithm Insights Report** — the most comprehensive and cited research on the LinkedIn algorithm worldwide, based on the analysis of over 1.5 million posts. Based in the Netherlands.
 
-### Background e carriera
-- **2012**: Inizia a studiare l'algoritmo LinkedIn in modo sistematico
-- **Just Connecting**: Fonda l'agenzia specializzata in LinkedIn strategy e social selling
-- **2018**: Pubblica il primo Algorithm Insights Report. Diventa il riferimento globale per i dati LinkedIn
-- **2024**: Pubblica la 5a edizione del report, analizzando 1.5M+ post da 34.000 profili e 26.000 company page in 50+ paesi
-- **Partnership con AuthoredUp**: Collabora con la piattaforma AuthoredUp per l'analisi dei dati
-- **Speaker internazionale**: Keynote in conferenze su social selling e LinkedIn marketing in tutto il mondo
+### Background and Career
+- **2012**: Begins systematically studying the LinkedIn algorithm
+- **Just Connecting**: Founds the agency specializing in LinkedIn strategy and social selling
+- **2018**: Publishes the first Algorithm Insights Report. Becomes the global reference for LinkedIn data
+- **2024**: Publishes the 5th edition of the report, analyzing 1.5M+ posts from 34,000 profiles and 26,000 company pages across 50+ countries
+- **Partnership with AuthoredUp**: Collaborates with the AuthoredUp platform for data analysis
+- **International speaker**: Keynotes at conferences on social selling and LinkedIn marketing worldwide
 
-### Credenziali e riconoscimenti
-- **LinkedIn Algorithm Insights Report**: 5 edizioni, la ricerca piu' citata al mondo sull'algoritmo LinkedIn
-- **1.5 milioni di post analizzati** nell'ultima edizione
-- **34.000 profili individuali** nel dataset
-- **50+ paesi** coperti dalla ricerca
-- **1.100 ore di ricerca** per l'edizione 2024
-- **Top Voice LinkedIn** e riconosciuto come il #1 esperto di algoritmo LinkedIn
+### Credentials and Recognition
+- **LinkedIn Algorithm Insights Report**: 5 editions, the most cited research on the LinkedIn algorithm worldwide
+- **1.5 million posts analyzed** in the latest edition
+- **34,000 individual profiles** in the dataset
+- **50+ countries** covered by the research
+- **1,100 hours of research** for the 2024 edition
+- **LinkedIn Top Voice** and recognized as the #1 LinkedIn algorithm expert
 
-### Numeri chiave
-| Metrica | Dato |
-|---------|------|
-| Post analizzati (2024 report) | 1.500.000+ |
-| Profili nel dataset | 34.000+ |
-| Company page nel dataset | 26.000+ |
-| Paesi coperti | 50+ |
-| Lingue analizzate | 25+ |
-| Edizioni del report | 5 (dal 2018) |
-| Ore di ricerca (2024) | 1.100+ |
-
----
-
-## Filosofia Core
-
-### I 5 principi fondamentali
-
-**1. "Data over opinions" — I dati battono le opinioni**
-Su LinkedIn, tutti hanno un'opinione su "cosa funziona". Van der Blom ha i DATI. Ogni sua raccomandazione e' basata sull'analisi di centinaia di migliaia di post reali, non su aneddoti o sensazioni.
-
-**2. "The algorithm rewards relevance, not reach" — L'algoritmo premia la rilevanza, non la portata**
-L'algoritmo LinkedIn non distribuisce contenuto al maggior numero di persone possibile. Lo distribuisce alle persone PIU' RILEVANTI. La qualita' dell'engagement (commenti profondi, salvataggi, condivisioni) conta piu' della quantita'.
-
-**3. "Dwell time is the hidden metric" — Il tempo di lettura e' la metrica nascosta**
-LinkedIn misura quanto tempo le persone passano a leggere il tuo post. Un post letto per 30 secondi da 100 persone performa meglio di un post letto per 2 secondi da 1.000 persone. La capacita' di trattenere l'attenzione e' cruciale.
-
-**4. "Consistency compounds, virality fades" — La costanza si accumula, la viralita' svanisce**
-I dati dimostrano che chi pubblica costantemente (3-5 volte/settimana) per mesi ottiene risultati migliori di chi cerca il post virale. La viralita' e' un picco. La costanza e' una rampa.
-
-**5. "Native always wins" — Il nativo vince sempre**
-LinkedIn premia i contenuti nativi (testo, immagini, video caricati direttamente, PDF/carousel) e penalizza i link esterni. Ogni contenuto deve vivere DENTRO LinkedIn, non rimandare fuori.
-
-### Come si differenzia dagli altri
-- **Data-driven puro**: Non opinioni, non aneddoti — dati su milioni di post
-- **Ricerca annuale pubblica**: Il report e' disponibile per tutti, creando un bene comune
-- **Cross-country**: I dati coprono 50+ paesi, mostrando che l'algoritmo funziona globalmente
-- **Aggiornamento continuo**: Pubblica update durante l'anno quando l'algoritmo cambia
-- **Pratico + scientifico**: Trasforma i dati in raccomandazioni operative concrete
+### Key Numbers
+| Metric | Figure |
+|--------|--------|
+| Posts analyzed (2024 report) | 1,500,000+ |
+| Profiles in dataset | 34,000+ |
+| Company pages in dataset | 26,000+ |
+| Countries covered | 50+ |
+| Languages analyzed | 25+ |
+| Report editions | 5 (since 2018) |
+| Research hours (2024) | 1,100+ |
 
 ---
 
-## Framework e Metodologie
+## Core Philosophy
 
-### 1. L'Algoritmo LinkedIn — Come Funziona (dai Dati)
+### The 5 Fundamental Principles
 
-**Fase 1 — Initial Distribution (0-90 minuti)**
-- LinkedIn mostra il post a un campione piccolo della tua rete (circa 5-10%)
-- Misura: click su "vedi altro", tempo di lettura (dwell time), reazioni, commenti
-- Se i segnali sono positivi, espande la distribuzione
+**1. "Data over opinions"**
+On LinkedIn, everyone has an opinion on "what works." Van der Blom has the DATA. Every recommendation he makes is based on the analysis of hundreds of thousands of real posts, not anecdotes or gut feelings.
 
-**Fase 2 — Extended Distribution (90 min - 24 ore)**
-- Il post viene mostrato a una porzione piu' ampia della rete
-- I commenti pesano piu' dei like (circa 4-5x)
-- Le condivisioni pesano piu' dei commenti
-- I salvataggi sono un segnale fortissimo (relativamente nuovo)
+**2. "The algorithm rewards relevance, not reach"**
+The LinkedIn algorithm doesn't distribute content to as many people as possible. It distributes it to the MOST RELEVANT people. The quality of engagement (deep comments, saves, shares) matters more than quantity.
 
-**Fase 3 — Viral Distribution (24 ore+)**
-- Se il post supera le soglie, viene mostrato oltre la rete diretta
-- Appare nei feed di connessioni di 2° e 3° grado
-- Puo' entrare nelle notifiche "Trending" o nelle sezioni editoriali
+**3. "Dwell time is the hidden metric"**
+LinkedIn measures how long people spend reading your post. A post read for 30 seconds by 100 people performs better than a post read for 2 seconds by 1,000 people. The ability to hold attention is crucial.
 
-**Fase 4 — Long Tail (giorni/settimane)**
-- Post con alto engagement iniziale continuano a ricevere views per giorni
-- Il "long tail" e' piu' lungo di quanto la maggior parte delle persone pensi
+**4. "Consistency compounds, virality fades"**
+The data shows that those who publish consistently (3-5 times/week) for months achieve better results than those who chase viral posts. Virality is a spike. Consistency is a ramp.
 
-**Fattori che AUMENTANO la distribuzione:**
-| Fattore | Impatto |
-|---------|---------|
-| Commenti (specialmente lunghi) | +++ |
-| Dwell time elevato | +++ |
-| Salvataggi | ++ |
-| Click su "vedi altro" | ++ |
-| Condivisioni con commento | ++ |
-| Reazioni (like, applauso, etc.) | + |
-| Risposte ai commenti dall'autore | ++ |
+**5. "Native always wins"**
+LinkedIn rewards native content (text, images, directly uploaded video, PDF/carousels) and penalizes external links. Every piece of content must live INSIDE LinkedIn, not redirect elsewhere.
 
-**Fattori che RIDUCONO la distribuzione:**
-| Fattore | Impatto |
-|---------|---------|
-| Link esterni nel post | --- |
-| Edit del post nelle prime 2 ore | -- |
-| Tag di persone che non interagiscono | - |
-| Hashtag eccessivi (>5) | - |
-| Post troppo brevi (<50 caratteri) | - |
-
-> *Esempio*: Per massimizzare la reach di un post, la strategia e': (1) hook forte per il "vedi altro", (2) contenuto lungo per il dwell time, (3) domanda finale per stimolare commenti, (4) rispondere a ogni commento nelle prime 2 ore, (5) nessun link nel post (mettilo nel primo commento).
+### How He Differs from Others
+- **Pure data-driven**: No opinions, no anecdotes — data on millions of posts
+- **Public annual research**: The report is available to everyone, creating a common good
+- **Cross-country**: The data covers 50+ countries, showing the algorithm works globally
+- **Continuous updates**: Publishes updates throughout the year when the algorithm changes
+- **Practical + scientific**: Transforms data into concrete, actionable recommendations
 
 ---
 
-### 2. La Performance dei Formati (Dati 2024)
+## Frameworks and Methodologies
 
-**Ranking dei formati per reach media (profili individuali):**
+### 1. The LinkedIn Algorithm — How It Works (from the Data)
 
-| Formato | Reach relativa | Note |
-|---------|---------------|------|
-| **Document/PDF (carousel)** | Altissima | Il formato con piu' dwell time. 8-12 slide ideali |
-| **Testo lungo (>1200 caratteri)** | Alta | Il "classico LinkedIn". Funziona quando ben strutturato |
-| **Video nativo** | Alta (in crescita) | LinkedIn sta spingendo il video. Sottotitoli obbligatori |
-| **Sondaggio (poll)** | Media-alta | Facile engagement ma bassa qualita' di conversazione |
-| **Testo + immagine singola** | Media | L'immagine rallenta lo scroll ma non sempre aggiunge valore |
-| **Testo breve (<300 caratteri)** | Bassa | Troppo poco dwell time per l'algoritmo |
-| **Condivisione di link** | Bassa | L'algoritmo penalizza i link. Sempre nel primo commento |
-| **Re-share senza commento** | Molto bassa | Quasi inutile. Se condividi, aggiungi SEMPRE il tuo commento |
+**Phase 1 — Initial Distribution (0-90 minutes)**
+- LinkedIn shows the post to a small sample of your network (about 5-10%)
+- Measures: "see more" clicks, reading time (dwell time), reactions, comments
+- If signals are positive, it expands distribution
 
-**Insight chiave dai dati 2024:**
-- I carousel/PDF generano 2-3x la reach dei post solo testo
-- Il video nativo sta crescendo rapidamente (+40% anno su anno)
-- I post con link nel body hanno -40% di reach rispetto ai post senza link
-- I post con 3-5 hashtag performano meglio di quelli con 0 o con 10+
-- La lunghezza ideale del post e' tra 800 e 1500 caratteri
+**Phase 2 — Extended Distribution (90 min - 24 hours)**
+- The post is shown to a larger portion of your network
+- Comments weigh more than likes (roughly 4-5x)
+- Shares weigh more than comments
+- Saves are a very strong signal (relatively new)
+
+**Phase 3 — Viral Distribution (24 hours+)**
+- If the post exceeds thresholds, it's shown beyond the direct network
+- Appears in the feeds of 2nd and 3rd degree connections
+- May enter "Trending" notifications or editorial sections
+
+**Phase 4 — Long Tail (days/weeks)**
+- Posts with high initial engagement continue to receive views for days
+- The "long tail" is longer than most people think
+
+**Factors that INCREASE distribution:**
+| Factor | Impact |
+|--------|--------|
+| Comments (especially long ones) | +++ |
+| High dwell time | +++ |
+| Saves | ++ |
+| "See more" clicks | ++ |
+| Shares with comment | ++ |
+| Reactions (like, applause, etc.) | + |
+| Author's replies to comments | ++ |
+
+**Factors that REDUCE distribution:**
+| Factor | Impact |
+|--------|--------|
+| External links in the post | --- |
+| Editing the post in the first 2 hours | -- |
+| Tagging people who don't interact | - |
+| Excessive hashtags (>5) | - |
+| Posts that are too short (<50 characters) | - |
+
+> *Example*: To maximize a post's reach, the strategy is: (1) strong hook for the "see more" click, (2) long content for dwell time, (3) closing question to stimulate comments, (4) reply to every comment in the first 2 hours, (5) no link in the post (put it in the first comment).
 
 ---
 
-### 3. Le Regole Operative per Massimizzare la Reach
+### 2. Format Performance (2024 Data)
+
+**Format ranking by average reach (individual profiles):**
+
+| Format | Relative Reach | Notes |
+|--------|---------------|-------|
+| **Document/PDF (carousel)** | Very high | The format with the highest dwell time. 8-12 slides ideal |
+| **Long text (>1200 characters)** | High | The LinkedIn "classic." Works when well structured |
+| **Native video** | High (growing) | LinkedIn is pushing video. Subtitles mandatory |
+| **Poll** | Medium-high | Easy engagement but low quality conversation |
+| **Text + single image** | Medium | The image slows scrolling but doesn't always add value |
+| **Short text (<300 characters)** | Low | Too little dwell time for the algorithm |
+| **Link share** | Low | The algorithm penalizes links. Always in the first comment |
+| **Re-share without comment** | Very low | Nearly useless. If sharing, ALWAYS add your own comment |
+
+**Key insights from 2024 data:**
+- Carousels/PDFs generate 2-3x the reach of text-only posts
+- Native video is growing rapidly (+40% year over year)
+- Posts with a link in the body have -40% reach compared to posts without a link
+- Posts with 3-5 hashtags perform better than those with 0 or 10+
+- The ideal post length is between 800 and 1500 characters
+
+---
+
+### 3. Operational Rules for Maximizing Reach
 
 **Timing:**
-| Giorno | Orario migliore (Europa) | Note |
-|--------|--------------------------|------|
-| Martedi' | 7:30-8:30 | Miglior giorno in assoluto |
-| Mercoledi' | 7:30-8:30 | Secondo miglior giorno |
-| Giovedi' | 7:30-8:30 | Terzo miglior giorno |
-| Lunedi' | 8:00-9:00 | Buono ma le persone sono in "catch-up mode" |
-| Venerdi' | 7:30-8:30 | Buono al mattino, crolla nel pomeriggio |
-| Weekend | Da evitare | Reach significativamente inferiore |
+| Day | Best time (Europe) | Notes |
+|-----|-------------------|-------|
+| Tuesday | 7:30-8:30 AM | Best day overall |
+| Wednesday | 7:30-8:30 AM | Second best day |
+| Thursday | 7:30-8:30 AM | Third best day |
+| Monday | 8:00-9:00 AM | Good but people are in "catch-up mode" |
+| Friday | 7:30-8:30 AM | Good in the morning, drops in the afternoon |
+| Weekend | Avoid | Significantly lower reach |
 
-**Frequenza ottimale:**
-- **Profili individuali**: 3-5 post/settimana (sweet spot per costanza senza saturazione)
-- **Company page**: 2-4 post/settimana
-- **Mai piu' di 1 post/giorno**: LinkedIn penalizza i post multipli nello stesso giorno
-- **Distanza minima tra post**: 18-24 ore
+**Optimal frequency:**
+- **Individual profiles**: 3-5 posts/week (sweet spot for consistency without saturation)
+- **Company page**: 2-4 posts/week
+- **Never more than 1 post/day**: LinkedIn penalizes multiple posts on the same day
+- **Minimum gap between posts**: 18-24 hours
 
 **Engagement strategy:**
-- Rispondi a TUTTI i commenti entro le prime 2 ore
-- Ogni tua risposta e' un "boost" per l'algoritmo
-- Commenta 5-10 post di altri PRIMA di pubblicare il tuo
-- Non modificare il post nelle prime 2 ore dopo la pubblicazione
+- Reply to ALL comments within the first 2 hours
+- Every reply you give is a "boost" for the algorithm
+- Comment on 5-10 other people's posts BEFORE publishing yours
+- Don't edit the post in the first 2 hours after publishing
 
-**Hashtag:**
-- 3-5 hashtag per post (sweet spot)
-- Mix di hashtag: 1-2 ampi (#HR, #Recruiting), 2-3 specifici (#ScreeningCV, #AIperHR)
-- Mettili alla fine del post, non nel mezzo
-- Mai piu' di 5: ogni hashtag in piu' riduce la reach
+**Hashtags:**
+- 3-5 hashtags per post (sweet spot)
+- Mix of hashtags: 1-2 broad (#HR, #Recruiting), 2-3 specific (#ResumeScreening, #AIforHR)
+- Place them at the end of the post, not in the middle
+- Never more than 5: each extra hashtag reduces reach
 
-> *Esempio*: Calendario ottimale per un brand B2B: Martedi' (post educativo lungo), Mercoledi' (carousel/PDF), Giovedi' (storia fondatore), con pubblicazione alle 8:00 e engagement attivo nelle prime 2 ore.
-
----
-
-### 4. Company Page vs Personal Profile (Dati)
-
-**I dati parlano chiaro:**
-- I profili personali hanno **5-10x la reach organica** delle company page
-- I post dei profili personali generano **3x piu' engagement** dei post aziendali
-- Le company page sono utili per: SEO, credibilita' brand, job posting, employer branding
-
-**La strategia raccomandata:**
-1. I fondatori/dipendenti pubblicano contenuti sui LORO profili personali
-2. La company page pubblica contenuti istituzionali (case study, news, job)
-3. I dipendenti interagiscono con i post della company page (engagement boost)
-4. Non duplicare gli stessi contenuti su profilo e page
-
-> *Esempio*: I fondatori del tuo brand dovrebbero essere la voce principale su LinkedIn (profilo personale). La company page e' di supporto: pubblica case study, annunci, contenuti istituzionali. Il grosso del "lavoro algoritmico" lo fanno i profili personali.
+> *Example*: Optimal schedule for a B2B brand: Tuesday (long educational post), Wednesday (carousel/PDF), Thursday (founder story), publishing at 8:00 AM with active engagement in the first 2 hours.
 
 ---
 
-## Come Applicare al Tuo Brand
+### 4. Company Page vs Personal Profile (Data)
 
-### 1. Strategia basata sui dati
+**The data speaks clearly:**
+- Personal profiles have **5-10x the organic reach** of company pages
+- Posts from personal profiles generate **3x more engagement** than company posts
+- Company pages are useful for: SEO, brand credibility, job postings, employer branding
 
-Applicare i dati di van der Blom alla strategia LinkedIn:
-- **Formato**: Alternare carousel/PDF (alto reach) + testo lungo (alto engagement) + video (in crescita)
-- **Timing**: Pubblicare Martedi'-Giovedi', ore 7:30-8:30
-- **Frequenza**: 3-5 post/settimana dai profili dei fondatori
-- **Engagement**: Rispondere a tutti i commenti entro 2 ore
+**The recommended strategy:**
+1. Founders/employees publish content on THEIR personal profiles
+2. The company page publishes institutional content (case studies, news, jobs)
+3. Employees interact with company page posts (engagement boost)
+4. Don't duplicate the same content on profile and page
 
-### 2. Zero link nel post
-
-I dati sono inequivocabili: -40% di reach con link nel body.
-- Tutte le CTA nel primo commento o in bio
-- Se devi condividere un link, usa la formula: post di valore + "Link nel primo commento"
-
-### 3. Carousel come formato signature
-
-I carousel hanno la reach piu' alta. Per un brand B2B:
-- "5 errori nello screening CV" (educativo)
-- "Keyword matching vs AI reasoning in 5 slide" (confronto)
-- "Il processo di selezione in 5 step" (how-to)
+> *Example*: Your brand's founders should be the primary voice on LinkedIn (personal profile). The company page is support: publishes case studies, announcements, institutional content. The bulk of the "algorithmic work" is done by personal profiles.
 
 ---
 
-## Tecniche di Hook e Viralita'
+## How to Apply to Your Brand
 
-### Cosa dicono i dati sugli hook
+### 1. Data-driven strategy
 
-**I dati di van der Blom sui post ad alta performance mostrano:**
-1. Il 65% dei post virali ha un hook basato su numeri specifici
-2. Le domande retoriche nel titolo aumentano il "vedi altro" del 30%
-3. Le affermazioni controintuitive generano 2x i commenti
-4. I post con "lista" nell'hook ("5 errori", "3 lezioni") hanno reach sopra la media
+Apply van der Blom's data to your LinkedIn strategy:
+- **Format**: Alternate carousel/PDF (high reach) + long text (high engagement) + video (growing)
+- **Timing**: Publish Tuesday-Thursday, 7:30-8:30 AM
+- **Frequency**: 3-5 posts/week from founders' profiles
+- **Engagement**: Reply to all comments within 2 hours
 
-### Pattern data-driven
-1. **Numero specifico → Insight → Framework**: I numeri catturano l'attenzione perche' promettono concretezza
-2. **Dato di settore → Opinione forte → Domanda**: Il dato crea credibilita', l'opinione crea engagement
-3. **Carousel educativo → CTA nel commento**: Massimo reach + massima conversione
+### 2. Zero links in the post
+
+The data is unequivocal: -40% reach with a link in the body.
+- All CTAs in the first comment or in bio
+- If you must share a link, use the formula: value post + "Link in the first comment"
+
+### 3. Carousels as a signature format
+
+Carousels have the highest reach. For a B2B brand:
+- "5 resume screening mistakes" (educational)
+- "Keyword matching vs AI reasoning in 5 slides" (comparison)
+- "The selection process in 5 steps" (how-to)
 
 ---
 
-## Citazioni e Concetti Memorabili
+## Hook and Virality Techniques
 
-### Sull'algoritmo
+### What the Data Says About Hooks
+
+**Van der Blom's data on high-performance posts shows:**
+1. 65% of viral posts have a hook based on specific numbers
+2. Rhetorical questions in the title increase "see more" clicks by 30%
+3. Counterintuitive statements generate 2x the comments
+4. Posts with a "list" in the hook ("5 mistakes," "3 lessons") have above-average reach
+
+### Data-Driven Patterns
+1. **Specific number — Insight — Framework**: Numbers capture attention because they promise concreteness
+2. **Industry data point — Strong opinion — Question**: Data creates credibility, opinion creates engagement
+3. **Educational carousel — CTA in comment**: Maximum reach + maximum conversion
+
+---
+
+## Memorable Quotes and Concepts
+
+### On the Algorithm
 > **"LinkedIn rewards conversations, not broadcasts. The brands that engage win."**
-> LinkedIn premia le conversazioni, non i broadcast. I brand che interagiscono vincono.
 
 > **"The algorithm doesn't care about your brand. It cares about your audience's reaction."**
-> All'algoritmo non interessa il tuo brand. Gli interessa la reazione del tuo pubblico.
 
-### Sui dati
+### On Data
 > **"Everyone has an opinion about LinkedIn. I have data."**
-> Tutti hanno un'opinione su LinkedIn. Io ho i dati.
 
-### Concetti citabili per il tuo brand
-- "Il tuo post LinkedIn ha 90 minuti per dimostrare il suo valore. L'algoritmo decide in quel tempo se mostrarlo a 100 o a 10.000 persone."
-- "Metti il link nel primo commento. -40% di reach non e' un'opinione. E' un dato."
-- "I carousel generano 2-3x la reach dei post testuali. Se non li stai usando, stai lasciando visibilita' sul tavolo."
+### Quotable Concepts for Your Brand
+- "Your LinkedIn post has 90 minutes to prove its value. The algorithm decides in that time whether to show it to 100 or 10,000 people."
+- "Put the link in the first comment. -40% reach isn't an opinion. It's data."
+- "Carousels generate 2-3x the reach of text posts. If you're not using them, you're leaving visibility on the table."
 
 ---
 
-## Risorse Principali
+## Key Resources
 
-### Report e ricerche
-| Risorsa | Anno | Focus | Rilevanza per il tuo brand |
-|---------|------|-------|----|
-| **Algorithm Insights Report (5th ed.)** | 2024 | Analisi completa algoritmo LinkedIn | **Essenziale** — la bibbia dei dati LinkedIn |
-| **October 2024 Update** | 2024 | Aggiornamento post-update algoritmo | **Molto utile** — dati aggiornati |
+### Reports and Research
+| Resource | Year | Focus | Relevance for your brand |
+|----------|------|-------|--------------------------|
+| **Algorithm Insights Report (5th ed.)** | 2024 | Complete LinkedIn algorithm analysis | **Essential** — the bible of LinkedIn data |
+| **October 2024 Update** | 2024 | Post-algorithm update data | **Very useful** — updated data |
 
-### Piattaforme
+### Platforms
 - **Just Connecting**: https://justconnecting.nl/
 - **Gumroad (report)**: https://richardvanderblom.gumroad.com/
 
 ### Social
-- **LinkedIn**: https://www.linkedin.com/in/richardvanderblom/ (Top Voice, dataset globale)
+- **LinkedIn**: https://www.linkedin.com/in/richardvanderblom/ (Top Voice, global dataset)
 
 ### Partnership
-- **AuthoredUp**: Piattaforma di analytics LinkedIn, co-produttore del dataset
+- **AuthoredUp**: LinkedIn analytics platform, co-producer of the dataset
 
-### Per [il tuo brand] — risorse prioritarie
-1. **Algorithm Insights Report 2024** — Leggerlo e applicarlo alla lettera. E' il documento piu' importante per la strategia LinkedIn
-2. **Il profilo LinkedIn di van der Blom** — Segui per aggiornamenti real-time su cambiamenti dell'algoritmo
-3. **AuthoredUp** — Tool per analytics dei propri post LinkedIn (utile per misurare i risultati)
+### For [your brand] — Priority Resources
+1. **Algorithm Insights Report 2024** — Read it and apply it to the letter. It's the most important document for LinkedIn strategy
+2. **Van der Blom's LinkedIn profile** — Follow for real-time updates on algorithm changes
+3. **AuthoredUp** — Tool for analyzing your own LinkedIn post performance (useful for measuring results)
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Last updated: February 2026*

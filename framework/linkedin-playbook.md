@@ -1,434 +1,520 @@
 # 04 — LinkedIn Playbook
 
-## Regole della Piattaforma
+## Platform Rules
 
-### Algoritmo LinkedIn (Italia, 2026)
-1. **I primi 90 minuti decidono tutto**: l'engagement nelle prime 1.5 ore determina la distribuzione
-2. **I commenti valgono piu' dei like**: un commento = 5-10x il valore di un like per l'algoritmo
-3. **I link esterni penalizzano**: post con link nel body hanno ~40% meno reach. Link nei commenti
-4. **Il dwell time conta**: post piu' lunghi che trattengono il lettore vengono premiati
-5. **Le conversazioni amplificano**: quando rispondi ai commenti entro 1 ora, l'algoritmo spinge il post
-6. **Carousel e documenti** hanno reach elevata (formato nativo)
-7. **I video nativi** hanno buona reach, ma inferiore ai post testuali ben scritti
-8. **I repost** hanno reach bassissima. Commenta con valore invece di repostare
+### LinkedIn Algorithm (2026)
+1. **The first 90 minutes decide everything**: engagement in the first 1.5 hours determines distribution
+2. **Comments are worth more than likes**: one comment = 5-10x the value of a like for the algorithm
+3. **External links get penalized**: posts with links in the body get ~40% less reach. Put links in comments
+4. **Dwell time matters**: longer posts that hold the reader's attention get rewarded
+5. **Conversations amplify**: when you reply to comments within 1 hour, the algorithm pushes the post
+6. **Carousels and documents** get high reach (native format)
+7. **Native videos** get decent reach, but lower than well-written text posts
+8. **Reposts** get very low reach. Leave a valuable comment instead of reposting
 
-### Orari Ottimali (CET, Italia)
-| Giorno | Orario migliore | Orario buono |
-|--------|----------------|-------------|
-| Lunedi' | 8:00-9:00 | 12:30-13:30 |
-| Martedi' | 8:00-9:00 | 12:30-13:30 |
-| Mercoledi' | 8:00-9:00 | 17:00-18:00 |
-| Giovedi' | 8:00-9:00 | 12:30-13:30 |
-| Venerdi' | 8:00-9:00 | 12:00-13:00 |
+### Optimal Posting Times (CET)
+| Day | Best time | Good time |
+|-----|-----------|-----------|
+| Monday | 8:00-9:00 | 12:30-13:30 |
+| Tuesday | 8:00-9:00 | 12:30-13:30 |
+| Wednesday | 8:00-9:00 | 17:00-18:00 |
+| Thursday | 8:00-9:00 | 12:30-13:30 |
+| Friday | 8:00-9:00 | 12:00-13:00 |
 
-**Nota**: i professionisti HR italiani controllano LinkedIn la mattina presto (pendolarismo) e in pausa pranzo.
+**Note**: adjust posting times to your audience's timezone and habits. Professionals typically check LinkedIn during their morning commute and lunch break.
 
-### Lunghezza Ottimale
-- **Post testuale**: 800-1300 caratteri (il "sweet spot" per dwell time senza perdere attenzione)
-- **Hook**: prima riga visibile senza "vedi altro" = max 140-150 caratteri
-- **Paragrafi**: max 2-3 righe per paragrafo. Righe vuote tra i paragrafi
-- **CTA**: 1 sola per post. Chiara, naturale
+### Optimal Length
+- **Text post**: 800-1300 characters (the sweet spot for dwell time without losing attention)
+- **Hook**: first visible line without "see more" = max 140-150 characters
+- **Paragraphs**: max 2-3 lines per paragraph. Blank lines between paragraphs
+- **CTA**: 1 per post. Clear, natural
 
-### Strategia Hashtag
+### Hashtag Strategy
 
-**Hashtag primari** (usare in ogni post, alternare 3-5):
+**Primary hashtags** (use in every post, rotate 3-5):
 - #HR
-- #RisorseUmane
+- #HumanResources
 - #Recruiting
-- #SelezionePersonale
-- #PMI
+- #TalentAcquisition
+- #SMB
 
-**Hashtag secondari** (usare quando pertinente):
+**Secondary hashtags** (use when relevant):
 - #AIRecruiting
 - #HRTech
-- #ScreeningCV
+- #CVScreening
 - #HRManager
-- #LavoroItalia
+- #Hiring
 - #TalentAcquisition
 - #CandidateExperience
 
-**Hashtag brand** (usare in post Livello 2-4):
-- #[tuo brand]
+**Brand hashtags** (use in Level 2-4 posts):
+- #[your brand]
 
-**Regole hashtag**:
-- Max 3-5 per post (troppi = spam per l'algoritmo)
-- Posizionare alla fine del post, non nel body
-- Mai hashtag irrilevanti per gonfiare la reach
-
----
-
-## Struttura del Post LinkedIn [tuo brand]
-
-### Anatomia di un Post
-
-```
-[HOOK — prima riga, visibile senza "vedi altro"]
-↑ Deve fermare lo scroll. 140-150 caratteri max
-
-[RIGA VUOTA]
-
-[BODY — il contenuto di valore]
-Paragrafi brevi (2-3 righe)
-Righe vuote tra i paragrafi
-Elenchi puntati quando appropriato
-Numeri e dati specifici
-
-[RIGA VUOTA]
-
-[CTA — call to action naturale]
-Domanda aperta per commenti
-OPPURE indicazione al link nei commenti
-
-[RIGA VUOTA]
-
-[HASHTAG — 3-5, alla fine]
-```
-
-### Tipi di Hook (prima riga)
-
-**Hook con dato**:
-- "Il 72% dei recruiter non ha tempo di leggere tutti i CV."
-- "3 settimane. 200 CV. 0 candidati convincenti."
-
-**Hook con domanda**:
-- "Se il tuo screening e' identico a 10 anni fa, perche' aspetti risultati diversi?"
-- "Qual e' il vero costo di un'assunzione sbagliata?"
-
-**Hook con frustrazione**:
-- "Alza la mano se il tuo ATS ha mai scartato un candidato valido."
-- "Lunedi' mattina. 200 CV sulla scrivania. Il CEO vuole i nomi per venerdi'."
-
-**Hook con opinione**:
-- "Unpopular opinion: il keyword matching ha fatto piu' danni che benefici al recruiting."
-- "Il problema del recruiting nelle PMI non sono i candidati. E' il processo."
-
-**Hook con storia**:
-- "La settimana scorsa abbiamo trovato un candidato che era stato scartato 3 volte."
-- "Quando ho iniziato a fare HR, lo screening manuale mi sembrava normale."
-
-### Formattazione
-
-**Usa**:
-- Righe vuote per separare i concetti
-- Elenchi con → o • per i punti chiave
-- Numeri specifici (non "molti" ma "200")
-- Virgolette per le citazioni
-- Bold sparso (massimo 2-3 per post — LinkedIn lo supporta con **testo**)
-
-**Evita**:
-- Muri di testo senza interruzioni
-- Emoji come decorazione (max 1-2 funzionali: →, 📊)
-- MAIUSCOLE URLATE
-- Hashtag nel body del testo
-- Link nel body
+**Hashtag rules**:
+- Max 3-5 per post (too many = spam for the algorithm)
+- Place them at the end of the post, not in the body
+- Never use irrelevant hashtags to inflate reach
 
 ---
 
-## I Template Compilabili
+## [your brand] LinkedIn Post Structure
 
-### Template 1: Post Dato (L1)
+### Anatomy of a Post
+
 ```
-{{DATO}} — {{FONTE}}.
+[HOOK — first line, visible without "see more"]
+↑ Must stop the scroll. 140-150 characters max
 
-{{TRADUZIONE_IN_PAROLE_SEMPLICI}}.
+[BLANK LINE]
 
-{{CONTESTO_PRATICO}}:
-→ {{IMPLICAZIONE_1}}
-→ {{IMPLICAZIONE_2}}
-→ {{IMPLICAZIONE_3}}
+[BODY — the valuable content]
+Short paragraphs (2-3 lines)
+Blank lines between paragraphs
+Bullet lists where appropriate
+Specific numbers and data
 
-{{INSIGHT_FINALE}}.
+[BLANK LINE]
 
-E tu? {{DOMANDA_PER_COMMENTI}}
+[CTA — natural call to action]
+Open question to prompt comments
+OR pointer to the link in comments
 
-#HR #Recruiting #{{HASHTAG_TEMATICO}} #PMI #RisorseUmane
-```
+[BLANK LINE]
 
-### Template 2: Post Prima/Dopo (L2)
-```
-Prima: {{SITUAZIONE_NEGATIVA}}.
-Dopo: {{SITUAZIONE_POSITIVA}}.
-
-{{COSA_E_CAMBIATO}} (1-2 righe)
-
-→ {{DETTAGLIO_PRIMA}}
-→ {{DETTAGLIO_DOPO}}
-→ {{RISULTATO_CHIAVE}}
-
-{{LEZIONE_UNIVERSALE}}.
-
-{{CTA_LEGGERA}}
-
-#HR #Screening #AIRecruiting #PMI #[tuo brand]
+[HASHTAGS — 3-5, at the end]
 ```
 
-### Template 3: Post How-To (L3)
+### Hook Types (first line)
+
+**Data hook**:
+- "72% of recruiters don't have time to read every CV."
+- "3 weeks. 200 CVs. 0 convincing candidates."
+
+**Question hook**:
+- "If your screening process is the same as 10 years ago, why do you expect different results?"
+- "What's the real cost of a bad hire?"
+
+**Frustration hook**:
+- "Raise your hand if your ATS has ever rejected a qualified candidate."
+- "Monday morning. 200 CVs on your desk. The CEO wants names by Friday."
+
+**Opinion hook**:
+- "Unpopular opinion: keyword matching has done more damage than good to recruiting."
+- "The problem with recruiting in SMBs isn't the candidates. It's the process."
+
+**Story hook**:
+- "Last week we found a candidate who had been rejected 3 times."
+- "When I started working in HR, manual screening seemed normal."
+
+### Formatting
+
+**Do**:
+- Use blank lines to separate concepts
+- Use bullet points with → or • for key points
+- Use specific numbers (not "many" but "200")
+- Use quotation marks for quotes
+- Use bold sparingly (max 2-3 per post — LinkedIn supports it with **text**)
+
+**Don't**:
+- Walls of text with no breaks
+- Emoji as decoration (max 1-2 functional ones: →, 📊)
+- ALL CAPS SCREAMING
+- Hashtags in the body text
+- Links in the body
+
+---
+
+## Fill-in Templates
+
+### Template 1: Data Post (L1)
 ```
-{{NUMERO}} {{COSE}} per {{OBIETTIVO}}:
+{{DATA_POINT}} — {{SOURCE}}.
 
-1. {{CONSIGLIO_1}}
-→ {{PERCHE_FUNZIONA}}
+{{PLAIN_LANGUAGE_TRANSLATION}}.
 
-2. {{CONSIGLIO_2}}
-→ {{PERCHE_FUNZIONA}}
+{{PRACTICAL_CONTEXT}}:
+→ {{IMPLICATION_1}}
+→ {{IMPLICATION_2}}
+→ {{IMPLICATION_3}}
 
-3. {{CONSIGLIO_3}}
-→ {{PERCHE_FUNZIONA}}
+{{CLOSING_INSIGHT}}.
 
-{{CONSIGLIO_BONUS}}: {{TIP_EXTRA}}.
+What about you? {{QUESTION_FOR_COMMENTS}}
 
-Qual e' il primo che proverai? Scrivi nei commenti.
-
-#HR #SelezionePersonale #Recruiting #{{HASHTAG_TEMATICO}}
-```
-
-### Template 4: Post Frustrazione (L8)
-```
-Alza la mano se {{SITUAZIONE_RICONOSCIBILE}}.
-
-{{ESPANSIONE_IRONICA}} (2-3 righe)
-
-Il dettaglio migliore: {{DETTAGLIO_COSI_SPECIFICO_CHE_NON_PUOI_NON_RICONOSCERTI}}.
-
-{{FRASE_CHE_IL_TARGET_ODIA}}: "{{CITAZIONE}}."
-
-{{CHIUSURA_IRONICA}}.
-
-Tagga quel collega che sa ESATTAMENTE di cosa parlo.
-
-#HR #VitaDaHR #Recruiting #RisorseUmane #PMI
-```
-
-### Template 5: Post Opinione (L7)
-```
-Unpopular opinion: {{OPINIONE}}.
-
-Lo so, {{PERCHE_E_CONTROCORRENTE}}.
-
-Ma i dati dicono altro:
-→ {{DATO_1}}
-→ {{DATO_2}}
-→ {{EVIDENZA}}
-
-{{ARGOMENTAZIONE_BREVE}}.
-
-Non dico che {{POSIZIONE_COMUNE}} sia sbagliata.
-Dico che non e' l'unica risposta.
-
-Sei d'accordo? Argomenta nei commenti.
-
-#HR #{{HASHTAG_TEMATICO}} #InnovazioneHR #Recruiting
-```
-
-### Template 6: Post Fondatore (L6)
-```
-{{APERTURA_PERSONALE}}.
-
-{{CONTESTO}} — cosa stava succedendo (2-3 righe)
-
-{{SVILUPPO}} — cosa e' successo, cosa ho capito.
-
-La lezione: {{INSIGHT_PERSONALE}}.
-
-Per questo in [tuo brand] {{COLLEGAMENTO_LEGGERO}}.
-
-Ti e' mai capitato qualcosa di simile? Raccontamelo.
-
-#Startup #HR #{{HASHTAG_TEMATICO}} #[tuo brand]
+#HR #Recruiting #{{TOPIC_HASHTAG}} #SMB #HumanResources
 ```
 
-### Template 7: Post Case Study (L5)
+### Template 2: Before/After Post (L2)
 ```
-Un'azienda di {{DIMENSIONE}} dipendenti aveva un problema: {{PROBLEMA}}.
+Before: {{NEGATIVE_SITUATION}}.
+After: {{POSITIVE_SITUATION}}.
 
-{{CONTESTO}} (settore, situazione, numeri — 2-3 righe)
+{{WHAT_CHANGED}} (1-2 lines)
 
-Avevano provato {{TENTATIVO_PRECEDENTE}}. Non funzionava.
+→ {{BEFORE_DETAIL}}
+→ {{AFTER_DETAIL}}
+→ {{KEY_RESULT}}
 
-{{COSA_HANNO_FATTO_DI_DIVERSO}}.
+{{UNIVERSAL_LESSON}}.
 
-Risultato:
-→ {{RISULTATO_1}}
-→ {{RISULTATO_2}}
-→ {{RISULTATO_3}}
+{{SOFT_CTA}}
 
-La lezione: {{INSIGHT}}.
+#HR #Screening #AIRecruiting #SMB #[your brand]
+```
+
+### Template 3: How-To Post (L3)
+```
+{{NUMBER}} {{THINGS}} to {{GOAL}}:
+
+1. {{TIP_1}}
+→ {{WHY_IT_WORKS}}
+
+2. {{TIP_2}}
+→ {{WHY_IT_WORKS}}
+
+3. {{TIP_3}}
+→ {{WHY_IT_WORKS}}
+
+{{BONUS_TIP}}: {{EXTRA_TIP}}.
+
+Which one will you try first? Drop it in the comments.
+
+#HR #TalentAcquisition #Recruiting #{{TOPIC_HASHTAG}}
+```
+
+### Template 4: Frustration Post (L8)
+```
+Raise your hand if {{RELATABLE_SITUATION}}.
+
+{{IRONIC_EXPANSION}} (2-3 lines)
+
+The best part: {{DETAIL_SO_SPECIFIC_YOU_CANT_HELP_BUT_RELATE}}.
+
+{{PHRASE_YOUR_TARGET_HATES}}: "{{QUOTE}}."
+
+{{IRONIC_CLOSING}}.
+
+Tag that colleague who knows EXACTLY what I'm talking about.
+
+#HR #HRLife #Recruiting #HumanResources #SMB
+```
+
+### Template 5: Opinion Post (L7)
+```
+Unpopular opinion: {{OPINION}}.
+
+I know, {{WHY_ITS_CONTRARIAN}}.
+
+But the data says otherwise:
+→ {{DATA_1}}
+→ {{DATA_2}}
+→ {{EVIDENCE}}
+
+{{BRIEF_ARGUMENT}}.
+
+I'm not saying {{COMMON_POSITION}} is wrong.
+I'm saying it's not the only answer.
+
+Agree? Make your case in the comments.
+
+#HR #{{TOPIC_HASHTAG}} #HRInnovation #Recruiting
+```
+
+### Template 6: Founder Post (L6)
+```
+{{PERSONAL_OPENING}}.
+
+{{CONTEXT}} — what was happening (2-3 lines)
+
+{{DEVELOPMENT}} — what happened, what I learned.
+
+The lesson: {{PERSONAL_INSIGHT}}.
+
+That's why at [your brand] {{LIGHT_CONNECTION}}.
+
+Has something similar ever happened to you? Tell me about it.
+
+#Startup #HR #{{TOPIC_HASHTAG}} #[your brand]
+```
+
+### Template 7: Case Study Post (L5)
+```
+A company with {{SIZE}} employees had a problem: {{PROBLEM}}.
+
+{{CONTEXT}} (industry, situation, numbers — 2-3 lines)
+
+They had tried {{PREVIOUS_ATTEMPT}}. It wasn't working.
+
+{{WHAT_THEY_DID_DIFFERENTLY}}.
+
+Result:
+→ {{RESULT_1}}
+→ {{RESULT_2}}
+→ {{RESULT_3}}
+
+The lesson: {{INSIGHT}}.
 
 {{CTA}}
 
-#HR #CaseStudy #Recruiting #AIRecruiting #PMI
+#HR #CaseStudy #Recruiting #AIRecruiting #SMB
 ```
 
-### Template 8: Post Domanda Scomoda (L4)
+### Template 8: Uncomfortable Question Post (L4)
 ```
-{{DOMANDA_SCOMODA}}
+{{UNCOMFORTABLE_QUESTION}}
 
-(pausa)
+(pause)
 
-{{PERCHE_CONTA}} (3-4 righe)
+{{WHY_IT_MATTERS}} (3-4 lines)
 
-{{PROVOCAZIONE}} — la risposta scomoda.
+{{PROVOCATION}} — the uncomfortable answer.
 
-Ma la buona notizia: {{APERTURA_POSITIVA}}.
+But the good news: {{POSITIVE_OPENING}}.
 
-Tu cosa ne pensi? {{DOMANDA_PER_COMMENTI}}
+What do you think? {{QUESTION_FOR_COMMENTS}}
 
-#HR #Recruiting #{{HASHTAG_TEMATICO}} #PMI #RisorseUmane
+#HR #Recruiting #{{TOPIC_HASHTAG}} #SMB #HumanResources
 ```
 
 ---
 
-## Strategia di Engagement
+## Engagement Strategy
 
-### Rispondere ai Commenti
-- **Entro 1 ora** dal post: rispondi a TUTTI i commenti
-- **Risposte di valore**: non solo "grazie!" ma aggiungi un dato, un aneddoto, una domanda
-- **Tagga persone rilevanti** quando appropriato (non spam, solo se genuino)
-- Le risposte ai commenti = nuovi contenuti che l'algoritmo distribuisce
+### Responding to Comments
+- **Within 1 hour** of posting: reply to ALL comments
+- **Valuable replies**: not just "thanks!" — add a data point, an anecdote, a question
+- **Tag relevant people** when appropriate (no spam, only when genuine)
+- Replies to comments = new content that the algorithm distributes
 
-### Commentare sui Post Altrui
-- 5-10 commenti di valore al giorno su post di HR influencer italiani
-- Commenti lunghi (3+ righe) con insight proprio, non solo "ottimo post!"
-- Questo porta visibilita' al profilo [tuo brand] senza pubblicare
+### Commenting on Other People's Posts
+- 5-10 valuable comments per day on posts from HR influencers in your niche
+- Long comments (3+ lines) with your own insight, not just "great post!"
+- This drives visibility to the [your brand] profile without publishing
 
-### Profilo Aziendale vs Profili Personali
-- **Profili Marta/Michele**: i post principali vengono dai profili personali (reach 5-10x piu' alta)
-- **Pagina aziendale [tuo brand]**: repost selettivi + contenuti istituzionali (feature, news, jobs)
-- **Regola**: 80% dei contenuti dai profili personali, 20% dalla pagina aziendale
-
----
-
-## Quality Checklist Pre-Pubblicazione
-
-### Verifica Contenuto
-- [ ] Hook: cattura in 140 caratteri?
-- [ ] Body: da' valore genuino (anche senza [tuo brand])?
-- [ ] Dati: sono specifici e verificabili?
-- [ ] Brand voice: e' coerente con `01-brand-voice.md`?
-- [ ] Tono: e' infotainment (non corporate, non fuffa)?
-- [ ] L'eroe e' l'HR (non [tuo brand])?
-- [ ] [tuo brand] emerge naturalmente (se presente)?
-
-### Verifica Formato
-- [ ] Nessun link nel body?
-- [ ] Paragrafi brevi (max 2-3 righe)?
-- [ ] Righe vuote tra i paragrafi?
-- [ ] Max 3-5 hashtag alla fine?
-- [ ] Max 1-2 emoji funzionali?
-- [ ] CTA chiara e naturale?
-- [ ] Lunghezza 800-1300 caratteri?
-
-### Verifica Strategia
-- [ ] Il pillar e' appropriato per il giorno della settimana?
-- [ ] Il livello [tuo brand] e' coerente con la distribuzione (65% assente/implicito)?
-- [ ] La persona target e' identificata?
-- [ ] Il funnel stage e' chiaro (TOFU/MOFU/BOFU)?
+### Company Page vs Personal Profiles
+- **Personal profiles (founders/team)**: main posts come from personal profiles (reach is 5-10x higher)
+- **[your brand] company page**: selective reposts + institutional content (features, news, jobs)
+- **Rule**: 80% of content from personal profiles, 20% from the company page
 
 ---
 
-## Nota sulla Frequenza
+## Pre-Publishing Quality Checklist
 
-**Minimo**: 3 post/settimana (lunedi', mercoledi', venerdi')
-**Ottimale**: 5 post/settimana (lunedi'-venerdi')
-**Massimo**: 1 post/giorno (di piu' = cannibalizzazione)
+### Content Check
+- [ ] Hook: does it capture attention in 140 characters?
+- [ ] Body: does it deliver genuine value (even without [your brand])?
+- [ ] Data: is it specific and verifiable?
+- [ ] Brand voice: is it consistent with `brand-voice.md`?
+- [ ] Tone: is it infotainment (not corporate, not fluff)?
+- [ ] Is the hero the reader (not [your brand])?
+- [ ] Does [your brand] emerge naturally (when present)?
 
-La costanza batte la quantita'. Meglio 3 post eccellenti a settimana per 1 anno che 7 post mediocri per 3 mesi.
+### Format Check
+- [ ] No links in the body?
+- [ ] Short paragraphs (max 2-3 lines)?
+- [ ] Blank lines between paragraphs?
+- [ ] Max 3-5 hashtags at the end?
+- [ ] Max 1-2 functional emoji?
+- [ ] Clear and natural CTA?
+- [ ] Length 800-1300 characters?
+
+### Strategy Check
+- [ ] Is the pillar appropriate for the day of the week?
+- [ ] Is the [your brand] level consistent with the distribution (65% absent/implicit)?
+- [ ] Is the target persona identified?
+- [ ] Is the funnel stage clear (TOFU/MOFU/BOFU)?
 
 ---
 
-## Strategia per Launch Post (Promuovere un Progetto/Prodotto)
+## Posting Frequency
 
-Questa sezione raccoglie best practice ricavate dall'analisi di post virali su LinkedIn per il lancio di progetti open-source, tool AI e side project (ricerca febbraio 2026).
+**Minimum**: 3 posts/week (Monday, Wednesday, Friday)
+**Optimal**: 5 posts/week (Monday-Friday)
+**Maximum**: 1 post/day (more = cannibalization)
 
-### I Principi Chiave
+Consistency beats volume. 3 excellent posts per week for 1 year beats 7 mediocre posts for 3 months every time.
 
-**1. Build in Public > Annuncio Freddo**
-Racconta il *perche'* e il *come* hai costruito qualcosa. Il pubblico si connette con il viaggio, non con il prodotto. "Ho passato X settimane a studiare Y" batte "Lancio il mio nuovo tool" ogni volta.
+---
 
-**2. Hook Personale + Numero Specifico**
-I post con apertura tipo "Ho studiato 60 esperti mondiali" o metriche concrete performano molto meglio del generico "Unpopular opinion". La prima riga deve fermare lo scroll con qualcosa di specifico e umano.
+## Launch Post Strategy (Promoting a Project/Product)
+
+This section gathers best practices from analyzing viral LinkedIn posts for launching open-source projects, AI tools, and side projects (research February 2026).
+
+### Key Principles
+
+**1. Build in Public > Cold Announcement**
+Tell the *why* and the *how* behind what you built. Your audience connects with the journey, not the product. "I spent X weeks studying Y" beats "Launching my new tool" every time.
+
+**2. Personal Hook + Specific Number**
+Posts that open with something like "I studied 60 world-class experts" or concrete metrics perform far better than a generic "Unpopular opinion." The first line must stop the scroll with something specific and human.
 
 **3. Proof > Claims**
-Mostra il lavoro reale: screenshot del repo, struttura del progetto, nomi concreti. Il pubblico tech riconosce e apprezza la trasparenza. Un'affermazione senza prova e' rumore.
+Show the real work: repo screenshots, project structure, actual names. The tech audience recognizes and appreciates transparency. A claim without proof is noise.
 
-**4. I Commenti Valgono 2x i Like**
-Per l'algoritmo LinkedIn, un commento pesa il doppio di un like. La CTA deve provocare risposte lunghe e genuine, non un "bel post!".
+**4. Comments Are Worth 2x Likes**
+For the LinkedIn algorithm, a comment weighs twice as much as a like. Your CTA should provoke long, genuine responses — not a "nice post!"
 
-**CTA deboli** (risposte binarie):
-- "Sei d'accordo o no?"
-- "Metti like se anche tu..."
+**Weak CTAs** (binary answers):
+- "Agree or disagree?"
+- "Like if you also..."
 
-**CTA forti** (risposte elaborate):
-- "Voi come fate X? Prompt singoli, tool a pagamento, o avete un vostro sistema?"
-- "Qual e' il pezzo del vostro processo che cambiereste per primo?"
+**Strong CTAs** (elaborate answers):
+- "How do you handle X? Single prompts, paid tools, or do you have your own system?"
+- "What's the one part of your process you'd change first?"
 
-**5. I Primi 60-90 Minuti Decidono Tutto**
-Rispondi a OGNI commento nella prima ora. L'algoritmo misura la velocita' di interazione e decide in questa finestra se spingere il post o lasciarlo morire.
+**5. The First 60-90 Minutes Decide Everything**
+Reply to EVERY comment in the first hour. The algorithm measures interaction speed and decides in this window whether to push the post or let it die.
 
-**6. Carousel/PDF > Immagine Singola > Solo Testo**
-I documenti nativi (carousel PDF) aumentano il dwell time e hanno la reach piu' alta. Per un launch post, 3-4 slide con schema visivo del progetto funzionano meglio di un'immagine generata con AI.
+**6. Carousel/PDF > Single Image > Text Only**
+Native documents (PDF carousels) increase dwell time and have the highest reach. For a launch post, 3-4 slides with a visual breakdown of the project work better than an AI-generated image.
 
-### Struttura Ottimale del Launch Post
+### Optimal Launch Post Structure
 
 ```
-[HOOK — storia personale + numero specifico]
-"Ho studiato/costruito/analizzato {{X}} per {{TEMPO}}. Ecco cosa ho scoperto."
+[HOOK — personal story + specific number]
+"I studied/built/analyzed {{X}} over {{TIME_PERIOD}}. Here's what I found."
 
-[RIGA VUOTA]
+[BLANK LINE]
 
-[CONTESTO — il perche', la motivazione personale]
-Non per {{OBIETTIVO OVVIO}} — per {{OBIETTIVO REALE PIU' PROFONDO}}.
+[CONTEXT — the why, the personal motivation]
+Not for {{OBVIOUS_GOAL}} — for {{DEEPER_REAL_GOAL}}.
 
-[RIGA VUOTA]
+[BLANK LINE]
 
-[RISULTATO — cosa hai costruito, con numeri specifici]
-→ {{NUMERO}} + {{COSA}}
-→ {{NUMERO}} + {{COSA}}
-→ {{NUMERO}} + {{COSA}}
-→ Setup/costo/tempo: {{DETTAGLIO CONCRETO}}
+[RESULT — what you built, with specific numbers]
+→ {{NUMBER}} + {{THING}}
+→ {{NUMBER}} + {{THING}}
+→ {{NUMBER}} + {{THING}}
+→ Setup/cost/time: {{CONCRETE_DETAIL}}
 
-[RIGA VUOTA]
+[BLANK LINE]
 
-[INSIGHT — la lezione chiave, il "cosa ho capito"]
-Il problema non e' mai {{COSA OVVIA}}. E' {{COSA NON OVVIA}}.
+[INSIGHT — the key lesson, the "what I realized"]
+The problem is never {{THE_OBVIOUS_THING}}. It's {{THE_NON_OBVIOUS_THING}}.
 
-[RIGA VUOTA]
+[BLANK LINE]
 
-[ACCESSIBILITA' — togli le barriere]
-Non e' un {{COSA COSTOSA}}. E' {{COSA ACCESSIBILE}}.
+[ACCESSIBILITY — remove the barriers]
+It's not a {{EXPENSIVE_THING}}. It's a {{ACCESSIBLE_THING}}.
 
-[RIGA VUOTA]
+[BLANK LINE]
 
-[CTA — domanda aperta che invita risposte lunghe]
-Link nei commenti.
-{{DOMANDA}} — sono curioso di confrontarmi.
+[CTA — open question that invites long replies]
+Link in comments.
+{{QUESTION}} — I'm curious to hear your take.
 
-[HASHTAG — 3-5, alla fine]
+[HASHTAGS — 3-5, at the end]
 ```
 
-### Pattern Vincenti per Hook di Lancio
+### Winning Hook Patterns for Launch Posts
 
-| Pattern | Esempio | Perche' funziona |
-|---------|---------|-----------------|
-| **Numero + azione inaspettata** | "Ho studiato 60 esperti mondiali. Poi li ho codificati in un repo git" | Specifico, incuriosisce, rompe le aspettative |
-| **Tempo investito + risultato** | "3 mesi di ricerca. 14 template. Un sistema che chiunque puo' usare gratis" | Mostra impegno, il "gratis" sorprende |
-| **Prima/Dopo personale** | "Un anno fa scrivevo ogni post da zero. Oggi scrivo /linkedin-post" | Trasformazione concreta, il lettore si immagina al posto tuo |
-| **Contrarian + dato** | "Il prompt perfetto non esiste. Ho i dati per dimostrarlo" | Sfida il consenso, promette prove |
+| Pattern | Example | Why it works |
+|---------|---------|-------------|
+| **Number + unexpected action** | "I studied 60 world-class experts. Then I coded them into a git repo" | Specific, sparks curiosity, breaks expectations |
+| **Time invested + result** | "3 months of research. 14 templates. A system anyone can use for free" | Shows effort, the "free" part surprises |
+| **Personal before/after** | "A year ago I wrote every post from scratch. Today I type /linkedin-post" | Concrete transformation, the reader pictures themselves in your shoes |
+| **Contrarian + data** | "The perfect prompt doesn't exist. I have the data to prove it" | Challenges consensus, promises proof |
 
-### Cosa NON Fare in un Launch Post
+### What NOT to Do in a Launch Post
 
-| Errore | Perche' | Alternativa |
-|--------|---------|-------------|
-| Ritardare l'annuncio | Il lettore perde interesse se non capisce subito di cosa parli | Metti il "cosa" nell'hook, il "perche'" nel body |
-| Elencare feature | Nessuno legge una lista di funzionalita' | Mostra il beneficio per l'utente |
-| Nessun social proof | Senza prova, e' solo un'opinione | Screenshot, numeri, nomi reali |
-| CTA vaga | "Scopri di piu'" non genera azione | "Link nei commenti" + domanda specifica |
-| Immagini AI generiche | Il pubblico tech le riconosce e le ignora | Screenshot reali, carousel, schema del progetto |
-| Link nel body | LinkedIn penalizza i link esterni nel testo (~40% reach in meno) | Sempre "link nei commenti" |
+| Mistake | Why | Alternative |
+|---------|-----|-------------|
+| Delaying the announcement | The reader loses interest if they can't tell what you're talking about right away | Put the "what" in the hook, the "why" in the body |
+| Listing features | Nobody reads a feature list | Show the benefit to the user |
+| No social proof | Without proof, it's just an opinion | Screenshots, numbers, real names |
+| Vague CTA | "Learn more" doesn't drive action | "Link in comments" + specific question |
+| Generic AI images | The tech audience spots them and scrolls past | Real screenshots, carousels, project diagrams |
+| Links in the body | LinkedIn penalizes external links in the text (~40% less reach) | Always use "link in comments" |
 
-### Timing per Launch Post
+### Launch Post Timing
 
-- **Giorno migliore**: Lunedi' o Martedi' 8:00-9:00 CET (primo slot premium della settimana)
-- **Mai nel weekend**: l'engagement LinkedIn crolla sabato-domenica
-- **Distanzia i post**: se hai 3 varianti, pubblicale Lunedi'-Mercoledi'-Venerdi'
-- **Prepara le risposte**: i primi 60-90 minuti post-pubblicazione devi essere disponibile per rispondere a ogni commento
+- **Best day**: Monday or Tuesday 8:00-9:00 CET (first premium slot of the week)
+- **Never on weekends**: LinkedIn engagement drops sharply on Saturday-Sunday
+- **Space out your posts**: if you have 3 variants, publish them Monday-Wednesday-Friday
+- **Prepare your replies**: in the first 60-90 minutes after publishing, you need to be available to respond to every comment
+
+---
+
+## Carousel Strategy (Document Posts)
+
+LinkedIn carousels are PDF documents uploaded as native posts. Users swipe through slides directly in the feed. They are the format with the highest dwell time and among the best for engagement rate.
+
+### Why Carousels Work
+
+- **Average engagement rate**: ~6.1% (higher than single images, videos, text)
+- **Dwell time**: users swipe through slides → the algorithm registers time spent → distribution boost
+- **Multi-image**: multi-image posts reach up to 6.6% engagement
+- **Completion rate**: a good carousel maintains a 60%+ completion rate
+- **Performance**: 2-3x the engagement of a standard image post
+
+### Optimal Number of Slides
+
+| Slides | When |
+|--------|------|
+| **4-5** | Simple concepts, short lists, a single insight |
+| **6-8** | Sweet spot. Depth + accessibility. The ideal format for most content |
+| **9-10** | Complex topics that require detailed development |
+| **11+** | Not recommended — engagement drops after the 10th slide |
+
+### Structure of an Effective Carousel
+
+```
+SLIDE 1 — COVER (The Hook)
+  Bold title that stops the scroll (max 8-10 words)
+  Subtitle with a value promise
+  Author name + brand logo
+
+SLIDE 2 — THE PROBLEM / CONTEXT
+  Relatable situation or surprising data point
+  Creates the "open loop" that drives swiping
+
+SLIDE 3 to N-1 — THE CONTENT
+  One idea per slide (never more)
+  Tagline + Title + Short paragraph (max 40 words)
+  Logical flow: each slide builds on the previous one
+
+SLIDE N — CTA (The Close)
+  Key takeaway in one sentence
+  CTA: comment, save, share, follow me
+  Author name + brand logo
+```
+
+### Design Rules
+
+1. **One idea per slide** — if you can't summarize it in 6-8 words for the title, it's too complex for a single slide
+2. **Max 40 words per slide** — the carousel should feel "light" even on deep topics
+3. **Visual consistency** — same fonts, colors, layout across all slides
+4. **Readable fonts** — minimum 24pt for body, 36pt+ for titles
+5. **White space** — visual breathing room. Better an extra slide than one that's too dense
+6. **Arrows/indicators** — visual cues that invite swiping to the next slide
+7. **The cover is everything** — only slide 1 appears in the feed. It must work as a standalone
+
+### Technical Specs
+
+| Aspect | Value |
+|--------|-------|
+| **Format** | PDF (document post) |
+| **Recommended ratio** | 4:5 (1080x1350px) — takes up more space in the feed |
+| **Alternative ratio** | 1:1 (1080x1080px) |
+| **Max slides** | 300 (LinkedIn limit) |
+| **Tools to create** | aicarousels.com, Canva, Figma, Google Slides |
+
+### Effective Carousel Types
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Numbered list** | "N mistakes/tips/lessons" — one point per slide | "5 screening mistakes that cost you candidates" |
+| **Step-by-step how-to** | Guided process with numbered steps | "How to set up a hiring process in 6 steps" |
+| **Data + analysis** | Surprising data point → explanation → implications | "72% of CVs get rejected without being read: here's why" |
+| **Myth vs reality** | Common belief → why it's wrong → the truth | "3 recruiting myths that are slowing down your company" |
+| **Before/After** | Old situation → transformation → result | "Recruiting in 2020 vs 2026" |
+| **Framework/Model** | Visual model explained slide by slide | "The STAR framework for evaluating candidates" |
+
+### Carousel Caption
+
+The text that accompanies the carousel:
+- **Complementary**, not repetitive (don't rewrite the slides in the text)
+- 2-4 sentences that add context
+- A question to generate comments
+- "Link in comments" if appropriate
+- 3-5 hashtags at the end

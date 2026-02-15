@@ -1,275 +1,271 @@
 # Justin Welsh
 
-## Profilo
+## Profile
 
-### Chi e'
-Justin Welsh e' il riferimento mondiale per il personal branding su LinkedIn e il modello solopreneur. Ex executive nel SaaS B2B (VP Sales in startup da 0 a 50M+ ARR), nel 2019 lascia il mondo corporate dopo un burnout e costruisce un business da solo che supera i 10 milioni di dollari di fatturato. Basato negli USA.
+### Who He Is
+Justin Welsh is the world's leading authority on LinkedIn personal branding and the solopreneur model. A former B2B SaaS executive (VP Sales at startups from 0 to $50M+ ARR), he left the corporate world in 2019 after a burnout and built a solo business that surpassed $10 million in revenue. Based in the USA.
 
-### Background e carriera
-- **Carriera corporate**: VP Sales in due startup SaaS (PatientPop e un'altra health-tech), portandole da 0 a 50M+ ARR
-- **2019**: Burnout. Lascia il corporate e inizia a costruire il personal brand su LinkedIn da zero
-- **2019-2020**: In 6 mesi passa da 0 a 20.000 follower su LinkedIn con contenuti quotidiani
-- **2020-oggi**: Costruisce un ecosistema di prodotti digitali (corsi, newsletter, consulenza) interamente da solo
-- **Autore**: "The Saturday Solopreneur" — newsletter settimanale con 200.000+ iscritti
+### Background and Career
+- **Corporate career**: VP Sales at two SaaS startups (PatientPop and another health-tech), taking them from 0 to $50M+ ARR
+- **2019**: Burnout. Leaves corporate and starts building his personal brand on LinkedIn from scratch
+- **2019-2020**: Grows from 0 to 20,000 LinkedIn followers in 6 months with daily content
+- **2020-present**: Builds an ecosystem of digital products (courses, newsletter, consulting) entirely on his own
+- **Author**: "The Saturday Solopreneur" — weekly newsletter with 200,000+ subscribers
 
-### Credenziali e riconoscimenti
-- **$10M+ di fatturato** generato come solopreneur (nessun dipendente, nessun investitore)
-- **500.000+ follower** su LinkedIn
-- **330.000+ follower** su X/Twitter
-- **200.000+ iscritti** alla newsletter "The Saturday Solopreneur"
-- **100.000+ studenti** nei suoi corsi digitali
-- Riconosciuto come uno dei top creator LinkedIn a livello globale
+### Credentials and Recognition
+- **$10M+ in revenue** generated as a solopreneur (no employees, no investors)
+- **500,000+ followers** on LinkedIn
+- **330,000+ followers** on X/Twitter
+- **200,000+ subscribers** to "The Saturday Solopreneur" newsletter
+- **100,000+ students** across his digital courses
+- Recognized as one of the top LinkedIn creators globally
 
-### Numeri chiave
-| Metrica | Dato |
-|---------|------|
-| Fatturato solopreneur | $10M+ |
-| Follower LinkedIn | 500.000+ |
-| Follower X/Twitter | 330.000+ |
-| Iscritti newsletter | 200.000+ |
-| Studenti corsi | 100.000+ |
-| Dipendenti | 0 |
-
----
-
-## Filosofia Core
-
-### I 5 principi fondamentali
-
-**1. "Build once, sell forever" — Costruisci una volta, vendi per sempre**
-Il modello solopreneur si basa su asset digitali (corsi, template, sistemi) che vengono creati una volta e venduti infinite volte. Non scambi tempo per denaro. Costruisci sistemi che lavorano per te.
-
-**2. "Content is compounding interest" — Il contenuto e' interesse composto**
-Ogni post LinkedIn e' un investimento. Non produce risultati oggi, ma si accumula nel tempo. Chi pubblica costantemente per 12-24 mesi costruisce un asset inattaccabile: fiducia e top-of-mind nella propria nicchia.
-
-**3. "Niche of one" — La nicchia di uno**
-Non cercare una nicchia nel mercato. Diventa tu la nicchia. L'intersezione unica tra la tua esperienza, le tue competenze e la tua personalita' e' impossibile da replicare. Nessuno puo' essere te.
-
-**4. "Simplicity scales" — La semplicita' scala**
-I sistemi semplici scalano. I sistemi complessi crollano. Welsh gestisce un business da $10M con zero dipendenti perche' tutto e' sistematizzato e semplificato al massimo.
-
-**5. "Teach what you know, learn in public" — Insegna quello che sai, impara in pubblico**
-Non serve essere un esperto mondiale. Serve essere un passo avanti rispetto al tuo pubblico. Condividere il proprio percorso (inclusi errori e fallimenti) costruisce fiducia piu' di qualsiasi credenziale.
-
-### Come si differenzia dagli altri
-- **Solopreneur puro**: zero dipendenti, zero investitori, zero complessita'. Dimostra che si puo' costruire un business milionario da soli
-- **Ex-executive, non guru**: viene dal mondo reale (VP Sales in SaaS) — non ha mai venduto "come diventare ricchi"
-- **Sistemi > ispirazione**: insegna framework replicabili, non motivazione generica
-- **LinkedIn-first**: ha costruito tutto partendo da LinkedIn, poi espanso
-- **Trasparenza radicale**: condivide numeri reali di fatturato, errori, fallimenti
+### Key Numbers
+| Metric | Figure |
+|--------|--------|
+| Solopreneur revenue | $10M+ |
+| LinkedIn followers | 500,000+ |
+| X/Twitter followers | 330,000+ |
+| Newsletter subscribers | 200,000+ |
+| Course students | 100,000+ |
+| Employees | 0 |
 
 ---
 
-## Framework e Metodologie
+## Core Philosophy
 
-### 1. Il Content Operating System (COS)
+### The 5 Fundamental Principles
 
-Il framework fondamentale per produrre contenuti LinkedIn in modo costante senza burnout creativo.
+**1. "Build once, sell forever"**
+The solopreneur model is built on digital assets (courses, templates, systems) that are created once and sold infinitely. You don't trade time for money. You build systems that work for you.
 
-**Il principio**: Non creare contenuti da zero ogni giorno. Costruisci un SISTEMA che genera idee automaticamente.
+**2. "Content is compounding interest"**
+Every LinkedIn post is an investment. It doesn't produce results today, but it accumulates over time. Those who publish consistently for 12-24 months build an unassailable asset: trust and top-of-mind positioning in their niche.
 
-**Step 1 — Definisci i tuoi 3-4 Content Pillar**
-- Identifica 3-4 temi su cui hai competenza ed esperienza diretta
-- Ogni pillar deve essere: (a) rilevante per il tuo target, (b) basato sulla tua esperienza, (c) differenziante rispetto agli altri
-- Esempio per un brand B2B: "Efficienza operativa", "Errori comuni del settore", "Trend del mercato", "Dietro le quinte"
+**3. "Niche of one"**
+Don't look for a niche in the market. Become the niche yourself. The unique intersection of your experience, skills, and personality is impossible to replicate. No one can be you.
 
-**Step 2 — Crea il tuo "Idea Bank"**
-- Ogni volta che hai un'idea, un'osservazione, un feedback da un cliente → annotala
-- Usa un sistema semplice (Notion, Google Doc, note del telefono)
-- L'idea bank elimina il "blank page problem" — non ti siedi mai davanti a una pagina vuota
+**4. "Simplicity scales"**
+Simple systems scale. Complex systems collapse. Welsh runs a $10M business with zero employees because everything is systematized and simplified to the maximum.
 
-**Step 3 — Usa template ricorrenti**
-- 4-5 formati che funzionano per te e ruotali
-- Non reinventare il formato ogni volta. Reinventa solo il contenuto
-- Formati che funzionano su LinkedIn: storia personale, lista di lezioni, contrarian take, how-to pratico, osservazione di settore
+**5. "Teach what you know, learn in public"**
+You don't need to be a world-class expert. You just need to be one step ahead of your audience. Sharing your journey (including mistakes and failures) builds trust more than any credential.
+
+### How He Differs from Others
+- **Pure solopreneur**: zero employees, zero investors, zero complexity. Proves you can build a million-dollar business alone
+- **Former executive, not a guru**: comes from the real world (VP Sales in SaaS) — never sold "how to get rich"
+- **Systems > inspiration**: teaches replicable frameworks, not generic motivation
+- **LinkedIn-first**: built everything starting from LinkedIn, then expanded
+- **Radical transparency**: shares real revenue numbers, mistakes, and failures
+
+---
+
+## Frameworks and Methodologies
+
+### 1. The Content Operating System (COS)
+
+The foundational framework for producing LinkedIn content consistently without creative burnout.
+
+**The principle**: Don't create content from scratch every day. Build a SYSTEM that generates ideas automatically.
+
+**Step 1 — Define Your 3-4 Content Pillars**
+- Identify 3-4 topics where you have direct expertise and experience
+- Each pillar must be: (a) relevant to your target, (b) based on your experience, (c) differentiating from others
+- Example for a B2B brand: "Operational efficiency", "Common industry mistakes", "Market trends", "Behind the scenes"
+
+**Step 2 — Create Your "Idea Bank"**
+- Every time you have an idea, an observation, or client feedback, write it down
+- Use a simple system (Notion, Google Doc, phone notes)
+- The idea bank eliminates the "blank page problem" — you never sit in front of an empty page
+
+**Step 3 — Use Recurring Templates**
+- 4-5 formats that work for you and rotate them
+- Don't reinvent the format every time. Only reinvent the content
+- Formats that work on LinkedIn: personal story, list of lessons, contrarian take, practical how-to, industry observation
 
 **Step 4 — Batch creation**
-- Blocca 2-3 ore una volta a settimana per scrivere contenuti
-- Produci 5-7 post in una sessione
-- Pianifica la pubblicazione per la settimana
-- Il batching elimina la pressione quotidiana
+- Block 2-3 hours once a week to write content
+- Produce 5-7 posts in one session
+- Schedule publishing for the week
+- Batching eliminates the daily pressure
 
-**Step 5 — Analizza e ottimizza**
-- Ogni mese, rivedi i post con piu' engagement
-- Identifica pattern: quali temi? quali formati? quale tono?
-- Fai di piu' di quello che funziona, meno di quello che non funziona
+**Step 5 — Analyze and Optimize**
+- Every month, review your posts with the highest engagement
+- Identify patterns: which topics? which formats? which tone?
+- Do more of what works, less of what doesn't
 
-> *Esempio*: Per un brand B2B, il COS significa: 4 pillar legati al settore (es. problemi del target, soluzioni pratiche, trend, behind the scenes), un'idea bank alimentata dalle conversazioni con i clienti, 3-4 template ruotati, e una sessione settimanale di batching.
+> *Example*: For a B2B brand, the COS means: 4 pillars tied to the industry (e.g., target pain points, practical solutions, trends, behind the scenes), an idea bank fed by client conversations, 3-4 rotating templates, and a weekly batching session.
 
 ---
 
-### 2. Il LinkedIn Profile Optimization Framework
+### 2. The LinkedIn Profile Optimization Framework
 
-**Il profilo LinkedIn non e' un CV. E' una landing page.**
+**Your LinkedIn profile is not a resume. It's a landing page.**
 
-**Headline (la riga piu' importante)**
-- Non il job title. Il VALORE che offri
-- Formula: "Aiuto [target] a [risultato] | [credenziale]"
-- Esempio: "Aiuto le PMI a trovare talenti 10x piu' veloce | Co-founder [tuo brand]"
+**Headline (the most important line)**
+- Not your job title. The VALUE you offer
+- Formula: "I help [target] achieve [result] | [credential]"
+- Example: "I help SMBs find talent 10x faster | Co-founder [your brand]"
 
 **Banner**
-- Comunica la proposta di valore in modo visivo
-- Include: beneficio chiave, social proof (numeri), CTA implicita
+- Visually communicate your value proposition
+- Include: key benefit, social proof (numbers), implicit CTA
 
 **About Section**
-- Scritto in prima persona, tono conversazionale
-- Struttura: (1) Per chi e' — identifica il target, (2) Il problema — mostra che capisci, (3) La soluzione — cosa offri, (4) Credibilita' — numeri e risultati, (5) CTA — come contattarti
-- NO: elenco di competenze, linguaggio corporate, terza persona
+- Written in first person, conversational tone
+- Structure: (1) Who it's for — identify the target, (2) The problem — show you understand, (3) The solution — what you offer, (4) Credibility — numbers and results, (5) CTA — how to reach you
+- NO: list of skills, corporate language, third person
 
 **Featured Section**
-- I tuoi 3-4 contenuti migliori o risorse chiave
-- Lead magnet, case study, post virali, link al sito
+- Your 3-4 best pieces of content or key resources
+- Lead magnet, case studies, viral posts, website link
 
-> *Esempio*: I fondatori del tuo brand dovrebbero ottimizzare il profilo come landing page: headline centrata sul valore per il target, about section che parla dei problemi del target (non delle feature del prodotto), e featured section con contenuti di valore.
-
----
-
-### 3. Il "Content Recycling" System
-
-**Il principio**: I tuoi migliori contenuti meritano di essere ripubblicati. Il 95% della tua audience non ha visto il post originale.
-
-**Come funziona:**
-1. Ogni 90 giorni, rivedi i tuoi top 20 post per engagement
-2. Riscrivi i top 5 con angolo leggermente diverso
-3. Espandi i top 3 in formato piu' lungo (articolo, newsletter, carosello)
-4. Combina 2-3 temi correlati in un "mega-post"
-
-**Regola di Welsh**: "Un'idea buona merita 10 esecuzioni diverse". Lo stesso concetto puo' essere un post testuale, un carosello, un video, un thread, una newsletter.
-
-> *Esempio*: Se un post sui "5 errori che le PMI fanno nel [vostro settore]" ha performato bene, riscrivetelo come: (a) versione aggiornata con nuovi dati, (b) carosello con un errore per slide, (c) video di 60 secondi, (d) newsletter approfondita. Da 1 idea: 4 contenuti.
+> *Example*: Your brand's founders should optimize their profiles as landing pages: headline centered on the value for the target, about section that speaks to the target's problems (not product features), and featured section with valuable content.
 
 ---
 
-### 4. La Monetization Ladder
+### 3. The "Content Recycling" System
 
-**Come trasformare follower in fatturato, step by step:**
+**The principle**: Your best content deserves to be republished. 95% of your audience didn't see the original post.
 
-1. **Contenuto gratuito** (LinkedIn, X) → Costruisci audience e fiducia
-2. **Lead magnet** (template, checklist, guida) → Raccogli email
-3. **Newsletter gratuita** → Nutri la relazione settimanalmente
-4. **Prodotto low-ticket** ($50-150) → Primo acquisto, bassa barriera
-5. **Prodotto mid-ticket** ($150-500) → Corso completo, valore profondo
-6. **Prodotto high-ticket** ($500+) → Coaching, consulenza, programma premium
+**How it works:**
+1. Every 90 days, review your top 20 posts by engagement
+2. Rewrite the top 5 with a slightly different angle
+3. Expand the top 3 into a longer format (article, newsletter, carousel)
+4. Combine 2-3 related topics into a "mega-post"
 
-**Il principio**: non vendere mai al primo contatto. Porta le persone attraverso la scala: valore gratuito → fiducia → acquisto piccolo → acquisto grande.
+**Welsh's Rule**: "A good idea deserves 10 different executions." The same concept can be a text post, a carousel, a video, a thread, a newsletter.
 
-> *Esempio*: Per un brand B2B/SaaS, la ladder si adatta: contenuto LinkedIn gratuito → lead magnet (guida pratica, template) → newsletter con insight settimanali → free trial del prodotto → conversione a piano paid. Ogni step costruisce fiducia.
-
----
-
-## Come Applicare al Tuo Brand
-
-### 1. Content Operating System per brand B2B
-
-Il COS di Welsh e' perfetto per brand B2B perche':
-- Elimina la pressione creativa quotidiana
-- Crea costanza (l'ingrediente #1 su LinkedIn)
-- Permette di scalare anche con team piccoli
-
-**Applicazione diretta:**
-- I fondatori definiscono 3-4 pillar legati al settore
-- Alimentano l'idea bank con: feedback clienti, domande frequenti, frustrazioni del target, trend del mercato
-- Producono 4-5 post/settimana in batch
-- Riciclano i top performer ogni trimestre
-
-### 2. "Niche of one" per i fondatori
-
-Welsh conferma: il personal brand dei fondatori e' il veicolo piu' potente.
-
-- Non comunicare come "l'azienda". Comunica come "il fondatore che ha creato l'azienda per risolvere un problema reale"
-- La storia personale del fondatore (perche' ha creato il prodotto, quali frustrazioni ha vissuto) e' piu' potente di qualsiasi feature list
-
-### 3. Simplicity scales per startup
-
-Il modello Welsh dimostra che non servono team enormi per avere impatto su LinkedIn:
-- 1 persona dedicata al contenuto
-- 1 sistema (COS) ben definito
-- Costanza > perfezione
-- Batching > creazione quotidiana
+> *Example*: If a post about "5 mistakes SMBs make in [your industry]" performed well, rewrite it as: (a) an updated version with new data, (b) a carousel with one mistake per slide, (c) a 60-second video, (d) a deep-dive newsletter. From 1 idea: 4 pieces of content.
 
 ---
 
-## Tecniche di Hook e Viralita'
+### 4. The Monetization Ladder
 
-### Come cattura l'attenzione su LinkedIn
+**How to turn followers into revenue, step by step:**
 
-**1. L'apertura controintuitiva**
-- Frase che va contro il consenso della nicchia
-- Genera curiosita' → "vedi altro" → engagement
-- *Esempio*: "Smetti di cercare clienti su LinkedIn. Fai che siano loro a cercare te."
+1. **Free content** (LinkedIn, X) — Build audience and trust
+2. **Lead magnet** (template, checklist, guide) — Collect emails
+3. **Free newsletter** — Nurture the relationship weekly
+4. **Low-ticket product** ($50-150) — First purchase, low barrier
+5. **Mid-ticket product** ($150-500) — Full course, deep value
+6. **High-ticket product** ($500+) — Coaching, consulting, premium program
 
-**2. Il dato personale specifico**
-- Numero concreto dalla propria esperienza
-- Credibilita' immediata + curiosita'
-- *Esempio*: "Ho generato $2.3M con LinkedIn nel 2024. Senza un singolo cold DM."
+**The principle**: never sell on the first contact. Move people through the ladder: free value — trust — small purchase — large purchase.
 
-**3. La lista numerata con promessa**
-- Numero + beneficio chiaro nel titolo
-- Il lettore sa esattamente cosa ottera'
-- *Esempio*: "7 errori che il 90% delle PMI fa nel recruiting (il #4 costa migliaia)"
-
-**4. La domanda provocatoria**
-- Domanda che il target non puo' ignorare
-- *Esempio*: "Il tuo processo di [attivita'] e' cambiato negli ultimi 5 anni? Se no, ecco il problema."
-
-### Pattern ricorrenti
-1. **Dato personale → Framework → Azione**: "Ho fatto X → ecco come → prova questo"
-2. **Contrarian take → Spiegazione → Prova**: "Tutti dicono X. E' sbagliato. Ecco perche'"
-3. **Storia breve → Lezione → Domanda**: "Mi e' successo X → ho imparato Y → tu cosa faresti?"
+> *Example*: For a B2B/SaaS brand, the ladder adapts: free LinkedIn content — lead magnet (practical guide, template) — newsletter with weekly insights — free product trial — conversion to paid plan. Each step builds trust.
 
 ---
 
-## Citazioni e Concetti Memorabili
+## How to Apply to Your Brand
 
-### Sul personal brand
+### 1. Content Operating System for B2B brands
+
+Welsh's COS is perfect for B2B brands because:
+- It eliminates daily creative pressure
+- It creates consistency (the #1 ingredient on LinkedIn)
+- It scales even with small teams
+
+**Direct application:**
+- Founders define 3-4 pillars tied to the industry
+- Feed the idea bank with: client feedback, frequent questions, target frustrations, market trends
+- Produce 4-5 posts/week in batch
+- Recycle top performers every quarter
+
+### 2. "Niche of one" for founders
+
+Welsh confirms: the founders' personal brand is the most powerful vehicle.
+
+- Don't communicate as "the company." Communicate as "the founder who created the company to solve a real problem"
+- The founder's personal story (why they created the product, what frustrations they experienced) is more powerful than any feature list
+
+### 3. Simplicity scales for startups
+
+Welsh's model proves that you don't need huge teams to make an impact on LinkedIn:
+- 1 person dedicated to content
+- 1 well-defined system (COS)
+- Consistency > perfection
+- Batching > daily creation
+
+---
+
+## Hook and Virality Techniques
+
+### How He Captures Attention on LinkedIn
+
+**1. The counterintuitive opening**
+- A statement that goes against the niche consensus
+- Generates curiosity — "see more" — engagement
+- *Example*: "Stop looking for clients on LinkedIn. Make them come looking for you."
+
+**2. The specific personal data point**
+- A concrete number from your own experience
+- Instant credibility + curiosity
+- *Example*: "I generated $2.3M from LinkedIn in 2024. Without a single cold DM."
+
+**3. The numbered list with a promise**
+- Number + clear benefit in the title
+- The reader knows exactly what they'll get
+- *Example*: "7 mistakes 90% of SMBs make in recruiting (#4 costs thousands)"
+
+**4. The provocative question**
+- A question the target can't ignore
+- *Example*: "Has your [activity] process changed in the last 5 years? If not, here's the problem."
+
+### Recurring Patterns
+1. **Personal data point — Framework — Action**: "I did X — here's how — try this"
+2. **Contrarian take — Explanation — Proof**: "Everyone says X. They're wrong. Here's why"
+3. **Short story — Lesson — Question**: "X happened to me — I learned Y — what would you do?"
+
+---
+
+## Memorable Quotes and Concepts
+
+### On Personal Branding
 > **"Your personal brand is what people say about you when you're not in the room. LinkedIn is how you influence what they say."**
-> Il tuo personal brand e' quello che dicono di te quando non ci sei. LinkedIn e' come influenzi quello che dicono.
 
 > **"Don't build a brand. Live a life."**
-> Non costruire un brand. Vivi una vita. Il brand nasce naturalmente.
+> The brand emerges naturally.
 
-### Sulla costanza
+### On Consistency
 > **"Content is compounding interest. The first 6 months feel like nothing. The next 6 months change everything."**
-> Il contenuto e' interesse composto. I primi 6 mesi sembrano inutili. I successivi 6 cambiano tutto.
 
-### Sui sistemi
+### On Systems
 > **"Systems beat motivation. Every time."**
-> I sistemi battono la motivazione. Sempre.
 
 > **"Simplicity scales. Complexity collapses."**
-> La semplicita' scala. La complessita' crolla.
 
-### Concetti citabili per il tuo brand
-- "Il tuo profilo LinkedIn non e' un CV. E' la tua landing page. Se non converte, non funziona."
-- "Non serve pubblicare ogni giorno. Serve pubblicare costantemente. C'e' una differenza."
-- "Il 90% dei brand pubblica contenuti SU di se'. I brand che vincono pubblicano contenuti PER il loro target."
+### Quotable Concepts for Your Brand
+- "Your LinkedIn profile is not a resume. It's your landing page. If it doesn't convert, it doesn't work."
+- "You don't need to post every day. You need to post consistently. There's a difference."
+- "90% of brands publish content ABOUT themselves. Winning brands publish content FOR their target."
 
 ---
 
-## Risorse Principali
+## Key Resources
 
-### Sito web
+### Website
 - **justinwelsh.me**: https://www.justinwelsh.me/
 
-### Corsi e prodotti
-| Prodotto | Focus | Rilevanza per il tuo brand |
-|----------|-------|--------------------------|
-| **The Operating System** | Content system per LinkedIn | **Essenziale** — il playbook per la costanza |
-| **The Content Matrix** | Framework per generare idee | **Molto utile** — elimina il blank page problem |
-| **LinkedIn Profile Optimization Guide** | Ottimizzazione profilo | **Utile** — per i fondatori |
+### Courses and Products
+| Product | Focus | Relevance for your brand |
+|---------|-------|--------------------------|
+| **The Operating System** | Content system for LinkedIn | **Essential** — the playbook for consistency |
+| **The Content Matrix** | Framework for generating ideas | **Very useful** — eliminates the blank page problem |
+| **LinkedIn Profile Optimization Guide** | Profile optimization | **Useful** — for founders |
 
 ### Newsletter
-- **The Saturday Solopreneur**: newsletter settimanale su solopreneurship, content, business — 200K+ iscritti
+- **The Saturday Solopreneur**: weekly newsletter on solopreneurship, content, business — 200K+ subscribers
 
 ### Social
-- **LinkedIn**: https://www.linkedin.com/in/justinwelsh/ (500K+ follower)
-- **X/Twitter**: https://x.com/thejustinwelsh (330K+ follower)
+- **LinkedIn**: https://www.linkedin.com/in/justinwelsh/ (500K+ followers)
+- **X/Twitter**: https://x.com/thejustinwelsh (330K+ followers)
 
-### Per [il tuo brand] — risorse prioritarie
-1. **Il profilo LinkedIn di Justin Welsh** — Studiare come struttura headline, about, featured. E' un esempio vivente del suo framework
-2. **The Operating System** — Il sistema per produrre contenuti LinkedIn in modo costante
-3. **La newsletter** — Ogni sabato, un framework applicabile subito
+### For [your brand] — Priority Resources
+1. **Justin Welsh's LinkedIn profile** — Study how he structures his headline, about, and featured sections. He's a living example of his own framework
+2. **The Operating System** — The system for producing LinkedIn content consistently
+3. **The newsletter** — Every Saturday, an immediately actionable framework
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Last updated: February 2026*

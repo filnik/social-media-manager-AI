@@ -1,136 +1,136 @@
 # Framework Examples — AI Social Media Manager
 
-## Esempio 1 — Post LinkedIn L6 (Post Fondatore)
+## Example 1 — LinkedIn Post L6 (Founder Post)
 
-**Pillar**: Dietro le Quinte
-**Persona target**: Marco (Founder), Sara (Marketer)
-**Livello brand**: Diretto (il post parla del progetto)
+**Pillar**: Behind the Scenes
+**Target persona**: Marco (Founder), Sara (Marketer)
+**Brand level**: Direct (the post talks about the project)
 
 ---
 
-Ho passato settimane a costruire un social media manager che non e' un SaaS.
+I spent weeks building a social media manager that's not a SaaS.
 
-E' un framework open-source che funziona dentro Claude Code.
+It's an open-source framework that runs inside Claude Code.
 
-L'idea: invece di pagare tool che generano contenuti generici,
-perche' non creare un sistema che sa COME pensano i migliori content creator?
+The idea: instead of paying for tools that generate generic content,
+why not build a system that knows HOW the best content creators think?
 
-Cosa c'e' dentro:
-→ 60+ profili esperti (da MrBeast a Seth Godin, da Montemagno a Vaynerchuk)
-→ 14 template pronti per LinkedIn e video
-→ 4 skill automatizzate (/linkedin-post, /video-script, /content-ideas, /create-brand)
-→ Sistema multi-brand: configuri il tuo brand una volta, generi contenuti per sempre
+What's inside:
+-> 60+ expert profiles (from MrBeast to Seth Godin, from Montemagno to Vaynerchuk)
+-> 14 ready-made templates for LinkedIn and video
+-> 5 automated skills (/linkedin-post, /video-script, /content-ideas, /create-brand, /carousel)
+-> Multi-brand system: configure your brand once, generate content forever
 
-Come funziona:
-1. Cloni il repo
-2. Lanci /create-brand "il-tuo-brand"
-3. Rispondi a qualche domanda su tono, personas, pillar
-4. Generi post LinkedIn o script video che suonano come te, non come ChatGPT
+How it works:
+1. Clone the repo
+2. Run /create-brand "your-brand"
+3. Answer a few questions about tone, personas, pillars
+4. Generate LinkedIn posts or video scripts that sound like you, not like ChatGPT
 
-Tutto open-source su GitHub.
+Everything is open-source on GitHub.
 
-Lo condivido perche' credo che i framework > i prompt singoli.
-Un buon sistema batte un buon prompt, ogni volta.
+I'm sharing this because I believe that frameworks > single prompts.
+A good system beats a good prompt, every time.
 
-Link al repo nel primo commento.
+Link to the repo in the first comment.
 
 #ClaudeCode #AI #ContentCreation #OpenSource
 
 ---
 
-**Analisi**: Hook con dato ("settimane"), differenziatore chiaro ("non e' un SaaS"), numeri specifici (60+, 14, 4), CTA leggera (link nei commenti), zero hype.
+**Analysis**: Hook with a fact ("weeks"), clear differentiator ("not a SaaS"), specific numbers (60+, 14, 5), soft CTA (link in comments), zero hype.
 
 ---
 
-## Esempio 2 — Post LinkedIn L3 (Post Educativo)
+## Example 2 — LinkedIn Post L3 (Educational Post)
 
 **Pillar**: Framework > Prompt
-**Persona target**: Sara (Marketer), Alex (Developer)
-**Livello brand**: Implicito (il progetto non e' nominato direttamente)
+**Target persona**: Sara (Marketer), Alex (Developer)
+**Brand level**: Implicit (the project is not mentioned directly)
 
 ---
 
-Il 90% delle persone usa l'AI per i contenuti nel modo sbagliato.
+90% of people use AI for content the wrong way.
 
-Scrivono: "Crea un post LinkedIn sulla produttivita'."
+They type: "Create a LinkedIn post about productivity."
 
-L'AI risponde con qualcosa di generico, pieno di buzzword, che suona come ogni altro post.
+The AI responds with something generic, full of buzzwords, that sounds like every other post.
 
-Il problema non e' l'AI. E' l'input.
+The problem isn't AI. It's the input.
 
-Un prompt e' un messaggio in bottiglia.
-Un framework e' una nave.
+A prompt is a message in a bottle.
+A framework is a ship.
 
-La differenza:
-→ Il prompt non sa chi sei
-→ Il prompt non conosce il tuo tono
-→ Il prompt non sa chi e' il tuo target
-→ Il prompt non ha studiato cosa funziona su LinkedIn
+The difference:
+-> A prompt doesn't know who you are
+-> A prompt doesn't know your tone
+-> A prompt doesn't know your target audience
+-> A prompt hasn't studied what works on LinkedIn
 
-Un framework ha tutto questo. Configurato una volta, funziona per sempre.
+A framework has all of that. Configured once, it works forever.
 
-Non serve scrivere prompt migliori.
-Serve costruire sistemi migliori.
+You don't need to write better prompts.
+You need to build better systems.
 
-Sei d'accordo o pensi che il prompt giusto basti?
+Agree, or do you think the right prompt is enough?
 
 #AI #ContentMarketing #Framework
 
 ---
 
-**Analisi**: Hook provocatorio ("nel modo sbagliato"), contrasto prompt vs framework, zero menzione del progetto (il lettore cerca nei commenti), CTA con domanda polarizzante.
+**Analysis**: Provocative hook ("the wrong way"), prompt vs framework contrast, zero mention of the project (readers look in the comments), CTA with a polarizing question.
 
 ---
 
-## Esempio 3 — Carousel V-style (Educativo)
+## Example 3 — V-style Carousel (Educational)
 
-**Pillar**: 60 Esperti
-**Persona target**: Sara (Marketer)
-**Formato**: Carousel 8 slide
+**Pillar**: 60 Experts
+**Target persona**: Sara (Marketer)
+**Format**: 8-slide carousel
 
 ---
 
-**Slide 1 (Copertina)**:
-"5 strategie dai migliori content creator al mondo
-(che puoi applicare oggi)"
+**Slide 1 (Cover)**:
+"5 strategies from the world's best content creators
+(that you can apply today)"
 
 **Slide 2**:
 🎯 Gary Vaynerchuk — "Document, Don't Create"
-Non inventare storie. Documenta il tuo percorso reale.
-Piu' scalabile, piu' autentico, piu' sostenibile.
+Don't make up stories. Document your real journey.
+More scalable, more authentic, more sustainable.
 
 **Slide 3**:
-📖 Donald Miller — "L'eroe e' il cliente"
-Il tuo brand non e' il protagonista.
-Il tuo cliente si'. Tu sei la guida.
+📖 Donald Miller — "The hero is the customer"
+Your brand is not the protagonist.
+Your customer is. You're the guide.
 
 **Slide 4**:
-⚡ Brendan Kane — "3 secondi"
-Se non catturi l'attenzione nei primi 3 secondi, hai perso.
-Ogni contenuto inizia con un hook irresistibile.
+⚡ Brendan Kane — "3 seconds"
+If you don't capture attention in the first 3 seconds, you've lost.
+Every piece of content starts with an irresistible hook.
 
 **Slide 5**:
 🔄 Justin Welsh — "Content is compounding interest"
-I primi 6 mesi sembrano inutili.
-I successivi 6 cambiano tutto. Costanza > viralita'.
+The first 6 months feel pointless.
+The next 6 change everything. Consistency > virality.
 
 **Slide 6**:
 🎣 Jasmin Alic — "Hook + Re-hook"
-La prima riga cattura. La seconda chiude la porta.
-LinkedIn mostra solo 3 righe. Usale bene.
+The first line captures. The second closes the door.
+LinkedIn only shows 3 lines. Use them well.
 
 **Slide 7**:
-📊 Bonus: i dati di Richard van der Blom
-I carousel generano 2-3x la reach dei post testuali.
-(Come questo che stai leggendo.)
+📊 Bonus: Richard van der Blom's data
+Carousels generate 2-3x the reach of text posts.
+(Like this one you're reading right now.)
 
 **Slide 8 (CTA)**:
-Queste sono 5 su 60+ strategie.
-Tutte codificate in un framework open-source.
-Link nel primo commento.
+These are 5 out of 60+ strategies.
+All codified in an open-source framework.
+Link in the first comment.
 
-Salva questo post per dopo →
+Save this post for later ->
 
 ---
 
-**Analisi**: Carousel educativo con 1 esperto per slide, valore puro, CTA leggera, formato che dimostra il formato (meta-carousel).
+**Analysis**: Educational carousel with 1 expert per slide, pure value, soft CTA, format that demonstrates the format (meta-carousel).

@@ -1,268 +1,266 @@
 # Tim Queen
 
-## Profilo
+## Profile
 
-### Chi e'
-Tim Queen e' un LinkedIn content strategist specializzato in crescita B2B e carousel marketing. Aiuta aziende B2B con fatturato superiore al milione di dollari a creare strategie di content marketing su LinkedIn, YouTube e Google che generano lead qualificati. E' particolarmente riconosciuto per la sua expertise nei carousel LinkedIn (document post/PDF), formato che ha studiato e ottimizzato in modo approfondito.
+### Who He Is
+Tim Queen is a LinkedIn content strategist specializing in B2B growth and carousel marketing. He helps B2B companies with revenue above one million dollars create content marketing strategies on LinkedIn, YouTube, and Google that generate qualified leads. He is particularly recognized for his expertise in LinkedIn carousels (document post/PDF), a format he has studied and optimized extensively.
 
-### Background e carriera
-- **Background**: Content marketing strategist con focus B2B, specializzato in piattaforme professionali
-- **Tim Queen LLC**: Fonda la propria agenzia di consulenza per B2B content marketing
-- **Specializzazione carousel**: Diventa uno dei massimi esperti di carousel/document post su LinkedIn, creando framework, template e corsi dedicati
-- **Multi-piattaforma**: Oltre a LinkedIn, lavora su YouTube e Google per creare strategie di content marketing integrate
-- **LinkedIn Accelerator**: Programma di formazione per professionisti e aziende B2B
+### Background and Career
+- **Background**: Content marketing strategist with a B2B focus, specializing in professional platforms
+- **Tim Queen LLC**: Founded his own consulting agency for B2B content marketing
+- **Carousel specialization**: Became one of the top experts on carousel/document posts on LinkedIn, creating frameworks, templates, and dedicated courses
+- **Multi-platform**: Beyond LinkedIn, works on YouTube and Google to create integrated content marketing strategies
+- **LinkedIn Accelerator**: Training program for B2B professionals and companies
 
-### Credenziali e riconoscimenti
-- **"The LinkedIn Content Strategist"**: posizionamento riconosciuto nella nicchia
-- **Target**: Aziende B2B con fatturato $1M+ — non freelancer o solopreneur, ma business consolidati
-- **Carousel Mastery**: Riconosciuto come esperto di riferimento per i carousel LinkedIn
-- **LinkedIn Accelerator Program**: Programma di formazione flagship
+### Credentials and Recognition
+- **"The LinkedIn Content Strategist"**: recognized positioning in the niche
+- **Target**: B2B companies with $1M+ revenue — not freelancers or solopreneurs, but established businesses
+- **Carousel Mastery**: Recognized as the go-to expert for LinkedIn carousels
+- **LinkedIn Accelerator Program**: Flagship training program
 
-### Numeri chiave
-| Metrica | Dato |
-|---------|------|
-| Target clienti | B2B con $1M+ fatturato |
-| Piattaforme | LinkedIn, YouTube, Google |
-| Specializzazione | Carousel/document post |
-| Programma flagship | LinkedIn Accelerator |
-
----
-
-## Filosofia Core
-
-### I 5 principi fondamentali
-
-**1. "Carousel is king on LinkedIn" — Il carousel e' il re su LinkedIn**
-I dati mostrano che i carousel (document post/PDF) sono il formato con il piu' alto engagement e reach su LinkedIn. Combinano visual appeal, interattivita' e alto dwell time — tutto cio' che l'algoritmo ama.
-
-**2. "B2B content must educate first, sell never" — Il contenuto B2B deve educare prima, vendere mai**
-Nel B2B, il contenuto che vende direttamente non funziona. Il contenuto che educa, risolve problemi e dimostra competenza genera lead in modo organico. La vendita e' il sottoprodotto del valore.
-
-**3. "Screenspace is attention" — Lo spazio sullo schermo e' attenzione**
-Piu' spazio occupa il tuo contenuto nel feed, piu' attenzione cattura. I carousel in formato US Letter occupano il massimo spazio possibile nel feed LinkedIn, sia verticale che orizzontale.
-
-**4. "System over creativity" — Il sistema batte la creativita'**
-La costanza su LinkedIn non si ottiene con la creativita' spontanea. Si ottiene con SISTEMI: template riutilizzabili, format ricorrenti, processo di creazione standardizzato. Il sistema libera la creativita' invece di soffocarla.
-
-**5. "LinkedIn is a search engine" — LinkedIn e' un motore di ricerca**
-LinkedIn non e' solo un social network. E' un motore di ricerca professionale. Ottimizzare il profilo e i contenuti per la ricerca (keyword nel titolo, nell'about, nei post) e' fondamentale quanto l'engagement.
-
-### Come si differenzia dagli altri
-- **B2B puro**: Non insegna tattiche per influencer o personal brand generico — si focalizza su aziende B2B con revenue reale
-- **Carousel expert**: Ha la competenza piu' profonda sui carousel LinkedIn di qualsiasi altro creator
-- **Multi-piattaforma strategico**: LinkedIn + YouTube + Google come ecosistema integrato, non piattaforme isolate
-- **Pratico e template-driven**: Offre template e framework pronti all'uso, non solo teoria
-- **ROI-focused**: Misura il successo in lead e revenue, non in vanity metrics
+### Key Numbers
+| Metric | Figure |
+|--------|--------|
+| Target clients | B2B with $1M+ revenue |
+| Platforms | LinkedIn, YouTube, Google |
+| Specialization | Carousel/document posts |
+| Flagship program | LinkedIn Accelerator |
 
 ---
 
-## Framework e Metodologie
+## Core Philosophy
 
-### 1. Il Carousel Mastery Framework
+### The 5 Fundamental Principles
 
-**Perche' i carousel funzionano su LinkedIn:**
-1. **Alto dwell time**: L'utente swipa tra le slide → passa piu' tempo sul contenuto → l'algoritmo premia
-2. **Massimo screenspace**: In formato US Letter, il carousel occupa il massimo spazio nel feed
-3. **Interattivita'**: Lo swipe e' un'azione attiva → segnale positivo per l'algoritmo
-4. **Salvataggi**: I carousel educativi vengono salvati molto piu' dei post testuali
-5. **Condivisioni**: Contenuto visivo ben fatto viene condiviso piu' facilmente
+**1. "Carousel is king on LinkedIn"**
+The data shows that carousels (document post/PDF) are the format with the highest engagement and reach on LinkedIn. They combine visual appeal, interactivity, and high dwell time — everything the algorithm loves.
 
-**Le regole del carousel perfetto:**
+**2. "B2B content must educate first, sell never"**
+In B2B, content that sells directly doesn't work. Content that educates, solves problems, and demonstrates expertise generates leads organically. Selling is the byproduct of value.
 
-**Slide 1 — La Copertina (l'Hook visivo)**
-- Titolo grande, leggibile, specifico
-- Massimo 8-10 parole
-- Deve funzionare come un hook: il lettore deve voler swipare
-- Include: numero + beneficio chiaro
-- Esempio: "5 errori che costano candidati alla tua PMI"
+**3. "Screenspace is attention"**
+The more space your content takes up in the feed, the more attention it captures. Carousels in US Letter format take up the maximum possible space in the LinkedIn feed, both vertically and horizontally.
 
-**Slide 2-N — Il Contenuto**
-- UN concetto per slide (mai due)
-- Testo grande e leggibile (minimo 24pt)
-- Max 50-60 parole per slide
-- Visual hierarchy chiara: titolo → sottotitolo → body
-- Spazio bianco generoso
-- Freccia o indicatore "swipa" nelle prime slide
+**4. "System over creativity"**
+Consistency on LinkedIn isn't achieved through spontaneous creativity. It's achieved through SYSTEMS: reusable templates, recurring formats, standardized creation processes. The system frees creativity rather than stifling it.
 
-**Slide Finale — La CTA**
-- Riassumi il valore in 1 frase
-- CTA chiara: "Salva per dopo", "Commenta con la tua esperienza", "Seguimi per altri contenuti"
-- Mai link nella slide (mettilo nel post o nel commento)
+**5. "LinkedIn is a search engine"**
+LinkedIn isn't just a social network. It's a professional search engine. Optimizing your profile and content for search (keywords in the headline, about section, posts) is as fundamental as engagement.
 
-**Specifiche tecniche:**
-| Parametro | Valore |
-|-----------|--------|
-| Formato ideale | US Letter (816 x 1056 px) o 4:5 |
-| Numero slide | 8-12 (sweet spot) |
-| Font minimo | 24pt |
-| Tool consigliato | Canva |
-| Formato file | PDF |
-| Max parole/slide | 50-60 |
-
-> *Esempio per un brand B2B*: Carousel "Keyword Matching vs AI Reasoning in 5 differenze" — Slide 1: titolo hook, Slide 2-6: una differenza per slide con confronto visivo, Slide 7: "Quale approccio usi?" (CTA engagement). Questo tipo di carousel genera alto reach + salvataggi + commenti.
+### How He Differs from Others
+- **Pure B2B**: Doesn't teach tactics for influencers or generic personal branding — focuses on B2B companies with real revenue
+- **Carousel expert**: Has the deepest expertise on LinkedIn carousels of any creator
+- **Strategic multi-platform**: LinkedIn + YouTube + Google as an integrated ecosystem, not isolated platforms
+- **Practical and template-driven**: Offers ready-to-use templates and frameworks, not just theory
+- **ROI-focused**: Measures success in leads and revenue, not vanity metrics
 
 ---
 
-### 2. Il B2B Content Strategy Framework
+## Frameworks and Methodologies
 
-**Come strutturare una strategia di contenuti LinkedIn per aziende B2B.**
+### 1. The Carousel Mastery Framework
 
-**Layer 1 — Fondamenta (Profilo)**
-- Profilo aziendale e profili personali ottimizzati come landing page
-- Keyword strategiche in headline, about, experience
-- Banner che comunica la value proposition
-- Featured section con lead magnet o case study
+**Why carousels work on LinkedIn:**
+1. **High dwell time**: The user swipes between slides — spends more time on the content — the algorithm rewards it
+2. **Maximum screenspace**: In US Letter format, the carousel takes up maximum space in the feed
+3. **Interactivity**: The swipe is an active action — positive signal for the algorithm
+4. **Saves**: Educational carousels get saved much more than text posts
+5. **Shares**: Well-made visual content gets shared more easily
 
-**Layer 2 — Contenuto regolare (3-5 post/settimana)**
-- Mix di formati: carousel (2x/settimana), testo lungo (1-2x), video (1x)
-- Content pillar: educativo (40%), storytelling (25%), opinione (20%), promo (15%)
-- Ogni post ha un obiettivo chiaro: awareness, engagement, o conversione
+**The rules for the perfect carousel:**
 
-**Layer 3 — Lead generation**
-- Lead magnet collegati ai contenuti (guide, template, checklist)
-- CTA nel primo commento (mai nel post)
-- Sequenza: contenuto di valore → lead magnet → email nurturing → demo
+**Slide 1 — The Cover (the visual hook)**
+- Large, readable, specific title
+- Maximum 8-10 words
+- Must work as a hook: the reader must want to swipe
+- Include: number + clear benefit
+- Example: "5 mistakes costing your SMB candidates"
 
-**Layer 4 — Amplificazione**
-- Employee advocacy: i dipendenti condividono e commentano
-- Engagement strategico: commentare i post dei decision maker target
-- Paid amplification dei top performer organici
+**Slides 2-N — The Content**
+- ONE concept per slide (never two)
+- Large, readable text (minimum 24pt)
+- Max 50-60 words per slide
+- Clear visual hierarchy: title — subtitle — body
+- Generous white space
+- Arrow or "swipe" indicator on the first slides
 
-> *Esempio*: Per un brand B2B/SaaS, la strategia settimanale: Lunedi' = carousel educativo, Martedi' = post testo del fondatore, Mercoledi' = video breve, Giovedi' = carousel how-to, Venerdi' = post storytelling/behind the scenes. Lead magnet collegato al carousel del lunedi'.
+**Final Slide — The CTA**
+- Summarize the value in 1 sentence
+- Clear CTA: "Save for later," "Comment with your experience," "Follow me for more content"
+- Never a link on the slide (put it in the post or comment)
 
----
+**Technical specs:**
+| Parameter | Value |
+|-----------|-------|
+| Ideal format | US Letter (816 x 1056 px) or 4:5 |
+| Number of slides | 8-12 (sweet spot) |
+| Minimum font | 24pt |
+| Recommended tool | Canva |
+| File format | PDF |
+| Max words/slide | 50-60 |
 
-### 3. Template Carousel per B2B
-
-**I 5 template di carousel che funzionano nel B2B:**
-
-**Template 1 — "X Errori che [Target] Fa"**
-- Il piu' performante in assoluto
-- Struttura: copertina → 1 errore per slide → slide finale CTA
-- Funziona perche': il target vuole sapere se li sta commettendo
-- Esempio: "7 errori nello screening che ti costano i candidati migliori"
-
-**Template 2 — "X vs Y" (Confronto)**
-- Confronta due approcci, metodi o strumenti
-- Struttura: copertina → 1 differenza per slide → conclusione
-- Funziona perche': la polarizzazione genera engagement
-- Esempio: "Screening manuale vs AI reasoning: 5 differenze"
-
-**Template 3 — "Come [Fare X] in [N] Step"**
-- How-to pratico, applicabile subito
-- Struttura: copertina → 1 step per slide → riepilogo
-- Funziona perche': il valore pratico genera salvataggi
-- Esempio: "Come screentare 200 CV in 3 ore (5 step)"
-
-**Template 4 — "Le [N] Lezioni da [Esperienza]"**
-- Insight estratti da un'esperienza reale
-- Struttura: copertina con contesto → 1 lezione per slide → conclusione
-- Funziona perche': combina storytelling + valore pratico
-- Esempio: "5 lezioni dopo aver analizzato 10.000 CV"
-
-**Template 5 — "Il Futuro di [Settore]"**
-- Trend e previsioni
-- Struttura: copertina → 1 trend per slide → implicazioni
-- Funziona perche': genera commenti (accordo/disaccordo)
-- Esempio: "Il futuro del recruiting: 5 trend 2026"
+> *Example for a B2B brand*: Carousel "Keyword Matching vs AI Reasoning in 5 Differences" — Slide 1: hook title, Slides 2-6: one difference per slide with visual comparison, Slide 7: "Which approach do you use?" (engagement CTA). This type of carousel generates high reach + saves + comments.
 
 ---
 
-## Come Applicare al Tuo Brand
+### 2. The B2B Content Strategy Framework
 
-### 1. Carousel come formato signature
+**How to structure a LinkedIn content strategy for B2B companies.**
 
-I carousel dovrebbero essere il formato principale (almeno 2/settimana):
-- Massimizzano reach e dwell time
-- Perfetti per contenuti educativi del settore
-- Altamente salvabili e condivisibili
-- Si prestano al tono infotainment (visual + testo breve + ironia)
+**Layer 1 — Foundation (Profile)**
+- Company profile and personal profiles optimized as landing pages
+- Strategic keywords in headline, about, experience
+- Banner that communicates the value proposition
+- Featured section with lead magnet or case studies
 
-**Piano carousel per un brand B2B:**
-- Lunedi': Carousel educativo (errori, best practice, how-to)
-- Giovedi': Carousel di settore (trend, dati, confronti)
-- Template ricorrenti con visual identity brand
+**Layer 2 — Regular Content (3-5 posts/week)**
+- Mix of formats: carousel (2x/week), long text (1-2x), video (1x)
+- Content pillars: educational (40%), storytelling (25%), opinion (20%), promo (15%)
+- Every post has a clear objective: awareness, engagement, or conversion
 
-### 2. LinkedIn come motore di ricerca
+**Layer 3 — Lead Generation**
+- Lead magnets tied to content (guides, templates, checklists)
+- CTA in the first comment (never in the post)
+- Sequence: value content — lead magnet — email nurturing — demo
 
-Ottimizzare per la ricerca:
-- Keyword del settore nella headline dei fondatori
-- Keyword nei post (nel testo, non solo negli hashtag)
-- About section ottimizzata con termini che il target cerca
+**Layer 4 — Amplification**
+- Employee advocacy: employees share and comment
+- Strategic engagement: commenting on target decision makers' posts
+- Paid amplification of top organic performers
 
-### 3. Sistema di template per la costanza
-
-Usare i 5 template carousel come sistema ricorrente:
-- Ogni mese, produrre almeno 1 per template
-- Non reinventare il formato — reinventare solo il contenuto
-- Template = costanza, costanza = crescita
+> *Example*: For a B2B/SaaS brand, the weekly strategy: Monday = educational carousel, Tuesday = founder text post, Wednesday = short video, Thursday = how-to carousel, Friday = storytelling/behind the scenes post. Lead magnet tied to the Monday carousel.
 
 ---
 
-## Tecniche di Hook e Viralita'
+### 3. Carousel Templates for B2B
 
-### Come cattura l'attenzione con i carousel
+**The 5 carousel templates that work in B2B:**
 
-**1. La copertina con numero + pain point**
-- Il numero promette concretezza, il pain point promette rilevanza
-- *Esempio*: "5 motivi per cui perdi candidati (senza saperlo)"
+**Template 1 — "X Mistakes [Target] Makes"**
+- The top performer overall
+- Structure: cover — 1 mistake per slide — final CTA slide
+- Works because: the target wants to know if they're making them
+- Example: "7 screening mistakes that cost you the best candidates"
 
-**2. La copertina con domanda provocatoria**
-- Domanda che il target non puo' ignorare
-- *Esempio*: "Il tuo processo di selezione e' ancora nel 2015?"
+**Template 2 — "X vs Y" (Comparison)**
+- Compares two approaches, methods, or tools
+- Structure: cover — 1 difference per slide — conclusion
+- Works because: polarization generates engagement
+- Example: "Manual screening vs AI reasoning: 5 differences"
 
-**3. La copertina con dato shock**
-- Un numero sorprendente che crea curiosita'
-- *Esempio*: "Il 73% dei CV viene scartato senza essere letto"
+**Template 3 — "How to [Do X] in [N] Steps"**
+- Practical how-to, immediately actionable
+- Structure: cover — 1 step per slide — summary
+- Works because: practical value generates saves
+- Example: "How to screen 200 resumes in 3 hours (5 steps)"
 
-**4. Il "tease" nella prima slide**
-- Anteprima del contenuto piu' interessante
-- *Esempio*: "Il #4 ti sorprendera' (ha sorpreso anche noi)"
+**Template 4 — "The [N] Lessons from [Experience]"**
+- Insights extracted from a real experience
+- Structure: cover with context — 1 lesson per slide — conclusion
+- Works because: combines storytelling + practical value
+- Example: "5 lessons after analyzing 10,000 resumes"
 
-### Pattern ricorrenti
-1. **Copertina hook → Contenuto slide-by-slide → CTA finale**: Il pattern carousel standard
-2. **Dato → Spiegazione → Implicazione**: Per carousel basati su dati
-3. **Problema → Step → Risultato**: Per carousel how-to
+**Template 5 — "The Future of [Industry]"**
+- Trends and predictions
+- Structure: cover — 1 trend per slide — implications
+- Works because: generates comments (agreement/disagreement)
+- Example: "The future of recruiting: 5 trends for 2026"
 
 ---
 
-## Citazioni e Concetti Memorabili
+## How to Apply to Your Brand
 
-### Sui carousel
+### 1. Carousels as a signature format
+
+Carousels should be the primary format (at least 2/week):
+- Maximize reach and dwell time
+- Perfect for educational industry content
+- Highly saveable and shareable
+- Lend themselves well to infotainment tone (visual + short text + humor)
+
+**Carousel plan for a B2B brand:**
+- Monday: Educational carousel (mistakes, best practices, how-to)
+- Thursday: Industry carousel (trends, data, comparisons)
+- Recurring templates with brand visual identity
+
+### 2. LinkedIn as a search engine
+
+Optimize for search:
+- Industry keywords in founders' headlines
+- Keywords in posts (in the text, not just in hashtags)
+- About section optimized with terms the target searches for
+
+### 3. Template system for consistency
+
+Use the 5 carousel templates as a recurring system:
+- Each month, produce at least 1 per template
+- Don't reinvent the format — only reinvent the content
+- Templates = consistency, consistency = growth
+
+---
+
+## Hook and Virality Techniques
+
+### How He Captures Attention with Carousels
+
+**1. The cover with number + pain point**
+- The number promises concreteness, the pain point promises relevance
+- *Example*: "5 reasons you're losing candidates (without knowing it)"
+
+**2. The cover with a provocative question**
+- A question the target can't ignore
+- *Example*: "Is your selection process still stuck in 2015?"
+
+**3. The cover with a shock data point**
+- A surprising number that creates curiosity
+- *Example*: "73% of resumes get discarded without being read"
+
+**4. The "tease" on the first slide**
+- A preview of the most interesting content
+- *Example*: "#4 will surprise you (it surprised us too)"
+
+### Recurring Patterns
+1. **Hook cover — Slide-by-slide content — Final CTA**: The standard carousel pattern
+2. **Data point — Explanation — Implication**: For data-driven carousels
+3. **Problem — Steps — Result**: For how-to carousels
+
+---
+
+## Memorable Quotes and Concepts
+
+### On Carousels
 > **"Carousel posts grab eyeballs, show off quality content, and make you the go-to person in your field."**
-> I carousel catturano l'attenzione, mostrano contenuti di qualita', e ti rendono il punto di riferimento nel tuo settore.
 
-### Sulla strategia B2B
+### On B2B Strategy
 > **"B2B content doesn't have to be boring. It has to be useful."**
-> Il contenuto B2B non deve essere noioso. Deve essere utile.
 
-### Concetti citabili per il tuo brand
-- "Un carousel ben fatto vale 10 post testuali. L'algoritmo lo ama, il target lo salva."
-- "Se il tuo contenuto B2B e' noioso, il problema non e' il B2B. E' il contenuto."
-- "LinkedIn e' un motore di ricerca. Se il tuo profilo non contiene le keyword giuste, non esisti per il tuo target."
+### Quotable Concepts for Your Brand
+- "A well-made carousel is worth 10 text posts. The algorithm loves it, the target saves it."
+- "If your B2B content is boring, the problem isn't B2B. It's the content."
+- "LinkedIn is a search engine. If your profile doesn't contain the right keywords, you don't exist for your target."
 
 ---
 
-## Risorse Principali
+## Key Resources
 
-### Siti web
+### Websites
 - **Tim Queen**: https://timqueen.com/
 
-### Programmi
-| Programma | Focus | Rilevanza per il tuo brand |
-|-----------|-------|--------------------------|
-| **LinkedIn Accelerator** | Strategia LinkedIn per B2B | **Molto utile** — framework completo |
-| **Carousel Mastery** | Creazione carousel LinkedIn | **Essenziale** — il formato #1 |
+### Programs
+| Program | Focus | Relevance for your brand |
+|---------|-------|--------------------------|
+| **LinkedIn Accelerator** | LinkedIn strategy for B2B | **Very useful** — complete framework |
+| **Carousel Mastery** | LinkedIn carousel creation | **Essential** — the #1 format |
 
 ### Social
 - **LinkedIn**: https://www.linkedin.com/in/iamtimqueen/
-- **YouTube**: Contenuti su B2B content strategy
+- **YouTube**: Content on B2B content strategy
 
-### Per [il tuo brand] — risorse prioritarie
-1. **I carousel di Tim Queen su LinkedIn** — Studiare struttura, design, copy di ogni slide. Sono esempi viventi del framework
-2. **LinkedIn Accelerator** — Per una strategia LinkedIn B2B strutturata
-3. **Il sito timqueen.com** — Risorse gratuite su content strategy
+### For [your brand] — Priority Resources
+1. **Tim Queen's LinkedIn carousels** — Study the structure, design, and copy of every slide. They are living examples of the framework
+2. **LinkedIn Accelerator** — For a structured B2B LinkedIn strategy
+3. **timqueen.com** — Free resources on content strategy
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Last updated: February 2026*
