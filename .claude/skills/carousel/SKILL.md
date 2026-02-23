@@ -24,6 +24,9 @@ Also read:
 - `framework/linkedin-playbook.md` — carousel strategy section and LinkedIn rules
 - `brands/[brand]/content-pillars.md` — content pillars
 
+**Optional — Visual Style**:
+- `brands/[brand]/visual-style-guide.md` — if this file exists, read it to generate visual direction for each slide (AI image prompts + Canva/Figma layout notes). If the file does not exist, generate the carousel without visual direction (text-only mode, as before).
+
 ### Step 2 — Determine Input Mode
 The carousel can be created in two ways:
 
@@ -96,6 +99,11 @@ Rules for content slides:
 - Author name/handle and brand logo
 - Optional: teaser for related content
 
+**Visual Direction (only if visual-style-guide.md exists)**
+For each slide, add two visual options after the text content:
+- **AI Prompt**: a ready-to-use prompt for Midjourney/DALL-E/Flux to generate the slide's background image or illustration. The prompt must reference the brand's color palette, mood, and style from the visual-style-guide
+- **Canva/Figma**: layout instructions referencing the brand's template style — specify background color/gradient, text placement, font weight, accent colors for highlights, icons or graphic elements to use
+
 ### Step 6 — Write the Companion Caption
 Write the LinkedIn caption that accompanies the carousel:
 - 2-4 sentences that complement (not repeat) the carousel content
@@ -136,11 +144,15 @@ Present the finished carousel with these metadata:
 **Headline**: [headline text]
 **Subtitle**: [subtitle text]
 **Visual**: [description of visual elements]
+**AI Prompt**: [image generation prompt — only if visual-style-guide exists]
+**Canva/Figma**: [layout instructions — only if visual-style-guide exists]
 
 ### Slide 2 — [Tagline]
 **Title**: [title]
 **Body**: [body text]
 **Visual**: [description]
+**AI Prompt**: [prompt]
+**Canva/Figma**: [instructions]
 
 ### Slide 3 — [Tagline]
 ...
@@ -149,6 +161,8 @@ Present the finished carousel with these metadata:
 **Headline**: [key takeaway]
 **CTA**: [call to action]
 **Visual**: [description]
+**AI Prompt**: [prompt]
+**Canva/Figma**: [instructions]
 
 ---
 
@@ -163,7 +177,21 @@ Present the finished carousel with these metadata:
 ```
 
 ### Step 9 — Visual Generation Instructions
-After presenting the content, provide instructions for visual generation:
+After presenting the content, provide instructions for visual generation.
+
+**If the brand has a visual-style-guide.md** (visual direction mode):
+
+1. **Using AI image generation**: Copy each slide's `AI Prompt` into Midjourney, DALL-E, or Flux. Use the generated images as slide backgrounds or hero visuals. Adjust parameters (aspect ratio 4:5 or 1080x1350px) to match LinkedIn carousel format
+2. **Using Canva/Figma**: Follow each slide's `Canva/Figma` instructions. Start from the templates referenced in the brand's visual-style-guide, then customize colors, fonts, and layout as indicated
+3. **Hybrid approach (recommended)**: Generate AI backgrounds for cover and key slides (1, 2, N), use template-based layouts for content slides (3 to N-1) for readability
+4. **Brand consistency checklist**:
+   - All colors match the brand's visual-style-guide palette
+   - Typography follows the guide (title font, body font, accent sizes)
+   - Image style matches the guide (e.g., dark overlay photos vs flat icons)
+   - Brand bar/logo placement is consistent across all slides
+   - Accent colors are used consistently for highlights, data, and CTAs
+
+**If the brand does NOT have a visual-style-guide.md** (text-only mode):
 
 1. **Using aicarousels.com**: Go to https://www.aicarousels.com, paste the slide content, select a template matching the brand style, and download as PDF
 2. **Manual PDF creation**: Use Canva, Figma, or Google Slides with 1080x1350px slides (4:5 ratio for LinkedIn), export as PDF
