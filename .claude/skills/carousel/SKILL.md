@@ -19,6 +19,7 @@ ALWAYS read these files from the active brand before generating any content:
 - `brands/[brand]/brand-voice.md` — voice, identity, golden rules
 - `brands/[brand]/audience-personas.md` — target personas
 - `brands/[brand]/tone-guide.md` (or `tono-infotainment.md`) — tone, humor, linguistic patterns
+- `framework/ai-detection-signals.md` — AI detection red flags: words, phrases, structural patterns, and tone issues to avoid. Use this as a checklist during writing to ensure slide text sounds human, not AI-generated
 
 Also read:
 - `framework/linkedin-playbook.md` — carousel strategy section and LinkedIn rules
@@ -123,6 +124,15 @@ Check every point:
 - [ ] 4-10 slides total?
 - [ ] Caption is ready?
 - [ ] The hero is the reader, not the brand?
+
+**AI Detection Check** (refer to `framework/ai-detection-signals.md`):
+- [ ] No Tier 1/Tier 2 red-flag words in slide text or caption?
+- [ ] No AI-typical phrases ("In today's fast-paced world", "Let's dive in", etc.)?
+- [ ] Slide titles are punchy and concrete, not generic buzzwords?
+- [ ] Caption uses contractions and natural language?
+- [ ] Not everything grouped in perfect 3s — vary the structure?
+- [ ] Includes specific/concrete details, not just vague claims?
+- [ ] Passes the "would a human write this on a whiteboard?" test?
 
 ### Step 8 — Present the Carousel
 Present the finished carousel with these metadata:

@@ -19,6 +19,7 @@ ALWAYS read these files from the active brand before generating any content:
 - `brands/[brand]/brand-voice.md` — voice, identity, golden rules
 - `brands/[brand]/audience-personas.md` — target personas
 - `brands/[brand]/tone-guide.md` (or `tono-infotainment.md` for legacy brands) — tone, humor, linguistic patterns
+- `framework/ai-detection-signals.md` — AI detection red flags: words, phrases, structural patterns, and tone issues to avoid. Use this as a checklist during writing to ensure the post sounds human, not AI-generated
 
 ### Step 2 — Online Research on the Topic
 Before generating the post, search for fresh data and inspiration:
@@ -88,6 +89,18 @@ Check every point from the checklist in `framework/linkedin-playbook.md`:
 - [ ] Natural CTA?
 - [ ] 800-1300 characters?
 - [ ] Data/statistics are accurate with source?
+
+**AI Detection Check** (refer to `framework/ai-detection-signals.md`):
+- [ ] No Tier 1/Tier 2 red-flag words (delve, leverage, seamless, robust, etc.)?
+- [ ] No AI-typical opening phrases ("In today's fast-paced world", "Let's dive in", etc.)?
+- [ ] Sentence length varies (mix short 3-7 words and long 20+ words, not all 12-18)?
+- [ ] Paragraph lengths vary (not all the same size)?
+- [ ] Uses contractions naturally (it's, can't, don't)?
+- [ ] Includes at least one specific/concrete detail (not generic)?
+- [ ] No relentless positivity — includes honest/critical perspective where appropriate?
+- [ ] No formulaic structure (not everything grouped in 3s, not perfectly symmetrical)?
+- [ ] Avoids em dash overuse?
+- [ ] Passes the "would a human say this to a friend?" test?
 
 ### Step 6 — Present the Post
 Present the finished post with these metadata:

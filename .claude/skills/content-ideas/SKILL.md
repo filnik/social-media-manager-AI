@@ -21,6 +21,7 @@ ALWAYS read these files from the active brand before searching for ideas:
 - `framework/content-frameworks.md` — frameworks L1-L8 (LinkedIn) + V1-V6 (Video)
 - `brands/[brand]/audience-personas.md` — target personas
 - `brands/[brand]/tone-guide.md` (or `tono-infotainment.md` for legacy brands) — tone, humor, linguistic patterns
+- `framework/ai-detection-signals.md` — AI detection red flags. When writing suggested hooks and concept descriptions, avoid AI-typical words, phrases, and patterns listed in this file
 
 ### Step 2 — Parse Arguments
 The user can provide:
@@ -160,3 +161,4 @@ After presentation, offer:
 - Prioritize ideas that fit the brand's tone (as defined in the tone guide)
 - For trending ideas, timeliness is key: a good idea published now beats a perfect idea published late
 - Never suggest content that could be perceived as insensitive or opportunistic
+- **AI detection**: all suggested hooks and concept descriptions must avoid AI red-flag words and patterns from `framework/ai-detection-signals.md`. Hooks should sound like something a human would actually say, not like AI-generated marketing copy

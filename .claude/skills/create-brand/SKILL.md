@@ -103,6 +103,9 @@ Before generating brand files, detect the language the user is speaking:
 3. Save the confirmed language in `brand-voice.md` as a `Language:` field at the top of the file
 4. All brand files (brand-voice, personas, tone-guide, content-pillars, framework-examples) will be written in the confirmed language
 
+### Step 4d — Load AI Detection Guide
+Read `framework/ai-detection-signals.md` before generating any brand files. All generated text (tone-guide examples, framework-examples, persona descriptions) must avoid AI red-flag words, phrases, and structural patterns listed in this file.
+
 ### Step 5 — Generate Brand Files
 With all collected info, create `brands/[brand-name]/` with this structure:
 
@@ -143,6 +146,7 @@ With all collected info, create `brands/[brand-name]/` with this structure:
 - **Competitors**: ALWAYS search for competitors automatically with `WebSearch`. Don't ask the user to list them — find them yourself and ask for confirmation.
 - **Input from documents**: when the user provides source material (repo, slides, PDF, website), extract as much as possible and only ask for missing info. The goal is to minimize questions.
 - **Flexibility**: not all questions are mandatory. If the user doesn't know how to answer something, propose sensible defaults based on the sector.
+- **AI detection**: all generated text (especially `framework-examples.md` and `tone-guide.md`) must pass the AI detection checklist from `framework/ai-detection-signals.md`. Examples should sound human, not AI-generated.
 
 ## Invocation Examples
 

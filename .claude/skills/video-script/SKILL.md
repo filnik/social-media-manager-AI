@@ -19,6 +19,7 @@ ALWAYS read these files from the active brand before generating any content:
 - `brands/[brand]/brand-voice.md` — voice, identity, golden rules
 - `brands/[brand]/audience-personas.md` — target personas
 - `brands/[brand]/tone-guide.md` (or `tono-infotainment.md` for legacy brands) — tone, humor, linguistic patterns, video style
+- `framework/ai-detection-signals.md` — AI detection red flags: words, phrases, structural patterns, and tone issues to avoid. Use this as a checklist during writing to ensure dialogue and on-screen text sound human, not AI-generated
 
 ### Step 2 — Online Research on the Topic
 Before generating the script, search for fresh data and inspiration:
@@ -94,6 +95,14 @@ The video must:
 - Use humor about the SITUATION, never about the person
 - Follow the emotional structure: Frustration → Escalation → Payoff
 - Have accurate data/statistics with source
+
+**AI Detection Check** (refer to `framework/ai-detection-signals.md`):
+- [ ] No Tier 1/Tier 2 red-flag words in dialogue or on-screen text?
+- [ ] Dialogue sounds like natural speech (contractions, fragments, filler words)?
+- [ ] On-screen text avoids AI-typical phrases and buzzwords?
+- [ ] Sentence rhythm varies (short punchy lines mixed with longer ones)?
+- [ ] No relentless positivity — includes real/honest perspective?
+- [ ] Passes the "would someone actually say this on camera?" test?
 
 ### Step 7 — Present the Script
 Present the finished script with these metadata:
