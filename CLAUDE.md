@@ -23,6 +23,7 @@ These 3 files are the DNA of every piece of brand content.
 - `/video-script [topic]` — generate a complete video script (Reels/TikTok/YouTube)
 - `/carousel [topic]` — generate a LinkedIn carousel (PDF document post) for the active brand
 - `/content-ideas [topic] [--trending]` — find and suggest content ideas by analyzing the market
+- `/viral-remix [topic] [--market US|FR|ES|...] [--count N]` — find viral posts from other markets/niches and adapt them for the active brand
 - `/create-brand [brand-name]` — create the complete configuration for a new brand (from repo, slides, documents, or guided interview; competitors researched automatically)
 
 ## Language
@@ -75,6 +76,7 @@ brands/                            # SPECIFIC — one brand per directory
   video-script/SKILL.md            # /video-script
   carousel/SKILL.md                # /carousel
   content-ideas/SKILL.md           # /content-ideas
+  viral-remix/SKILL.md             # /viral-remix
   create-brand/SKILL.md            # /create-brand
 ```
 
